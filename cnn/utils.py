@@ -1,11 +1,9 @@
-import numpy as np
-from collections import defaultdict
-import sys
 import codecs
 import re
-import pandas as pd
-
-from gensim.models import KeyedVectors
+import time
+import random
+import torch
+import json
 
 
 def simple_reader(path):
@@ -17,100 +15,12 @@ def simple_reader(path):
     return corpus
 
 
-def build_data_cv(data_folder, cv=10, clean_string=True):
-    """
-    Loads data and split into 10 folds.
-    """
-    revs = []
-    pos_file = data_folder[0]
-    neg_file = data_folder[1]
-    vocab = defaultdict(float)
-    with open(pos_file, "rb") as f:
-        for line in f:
-            rev = []
-            rev.append(line.strip())
-            if clean_string:
-                orig_rev = clean_str(" ".join(rev))
-            else:
-                orig_rev = " ".join(rev).lower()
-            words = set(orig_rev.split())
-            for word in words:
-                vocab[word] += 1
-            datum = {"y": 1,
-                     "text": orig_rev,
-                     "num_words": len(orig_rev.split()),
-                     "split": np.random.randint(0, cv)}
-            revs.append(datum)
-    with open(neg_file, "rb") as f:
-        for line in f:
-            rev = []
-            rev.append(line.strip())
-            if clean_string:
-                orig_rev = clean_str(" ".join(rev))
-            else:
-                orig_rev = " ".join(rev).lower()
-            words = set(orig_rev.split())
-            for word in words:
-                vocab[word] += 1
-            datum = {"y": 0,
-                     "text": orig_rev,
-                     "num_words": len(orig_rev.split()),
-                     "split": np.random.randint(0, cv)}
-            revs.append(datum)
-    return revs, vocab
-
-
-def get_W(word_vecs, k=300):
-    """
-    Get word matrix. W[i] is the vector for word indexed by i
-    """
-    vocab_size = len(word_vecs)
-    word_idx_map = dict()
-    W = np.zeros(shape=(vocab_size + 1, k), dtype='float32')
-    W[0] = np.zeros(k, dtype='float32')
-    i = 1
-    for word in word_vecs:
-        W[i] = word_vecs[word]
-        word_idx_map[word] = i
-        i += 1
-    return W, word_idx_map
-
-
-def load_bin_vec(fname, vocab):
-    """
-    Loads 300x1 word vecs from Google (Mikolov) word2vec
-    """
-
-    word2vec = KeyedVectors.load_word2vec_format("word2vec/GoogleNews-vectors-negative300.bin", binary=True)
-    word_vecs = {}
-    with open(fname, "rb") as f:
-        header = f.readline()
-        vocab_size, layer1_size = map(int, header.split())
-        binary_len = np.dtype('float32').itemsize * layer1_size
-        for line in xrange(vocab_size):
-            word = []
-            while True:
-                ch = f.read(1)
-                if ch == ' ':
-                    word = ''.join(word)
-                    break
-                if ch != '\n':
-                    word.append(ch)
-            if word in vocab:
-                word_vecs[word] = np.fromstring(f.read(binary_len), dtype='float32')
-            else:
-                f.read(binary_len)
-    return word_vecs
-
-
-def add_unknown_words(word_vecs, vocab, min_df=1, k=300):
-    """
-    For words that occur in at least min_df documents, create a separate word vector.
-    0.25 is chosen so the unknown vectors have (approximately) same variance as pre-trained ones
-    """
-    for word in vocab:
-        if word not in word_vecs and vocab[word] >= min_df:
-            word_vecs[word] = np.random.uniform(-0.25, 0.25, k)
+def simple_writer(path, target):
+    random.shuffle(target)
+    writer = codecs.open(path, 'w', encoding='utf-8')
+    for line in target:
+        writer.write(line.strip() + '\n')
+    writer.close()
 
 
 def clean_str(string, TREC=False):
@@ -134,33 +44,38 @@ def clean_str_sst(string):
     return string.strip().lower()
 
 
-if __name__ == "__main__":
-    w2v_file = sys.argv[1]
-    data_folder = ["rt-polarity.pos", "rt-polarity.neg"]
-    print
-    "loading data...",
-    revs, vocab = build_data_cv(data_folder, cv=10, clean_string=True)
-    max_l = np.max(pd.DataFrame(revs)["num_words"])
-    print
-    "data loaded!"
-    print
-    "number of sentences: " + str(len(revs))
-    print
-    "vocab size: " + str(len(vocab))
-    print
-    "max sentence length: " + str(max_l)
-    print
-    "loading word2vec vectors...",
-    w2v = load_bin_vec(w2v_file, vocab)
-    print
-    "word2vec loaded!"
-    print
-    "num words already in word2vec: " + str(len(w2v))
-    add_unknown_words(w2v, vocab)
-    W, word_idx_map = get_W(w2v)
-    rand_vecs = {}
-    add_unknown_words(rand_vecs, vocab)
-    W2, _ = get_W(rand_vecs)
-    cPickle.dump([revs, W, W2, word_idx_map, vocab], open("mr.p", "wb"))
-    print
-    "dataset created!"
+def clean_list(corpus):
+    new_corpus = list()
+    for line in corpus:
+        if '\t' in line:
+            label, single_line = line.strip().split('\t')
+            single_line = clean_str(single_line)
+            if single_line.strip() == '':
+                continue
+            new_line = '\t'.join([label, single_line])
+            new_corpus.append(new_line)
+    return new_corpus
+
+
+def binary_accuracy(preds, y):
+    """
+    Returns accuracy per batch, i.e. if you get 8/10 right, this returns 0.8, NOT 8
+    """
+    # round predictions to the closest integer
+    rounded_preds = torch.round(torch.sigmoid(preds))
+    correct = (rounded_preds == y).float()  # convert into float for division
+    acc = correct.sum() / len(correct)
+    return acc
+
+
+def epoch_time(start_time, end_time):
+    elapsed_time = end_time - start_time
+    elapsed_mins = int(elapsed_time / 60)
+    elapsed_secs = int(elapsed_time - (elapsed_mins * 60))
+    return elapsed_mins, elapsed_secs
+
+
+def json_reader(path):
+    with open(path, 'r', encoding='utf-8') as json_file:
+        json_data = json.load(json_file)
+    return json_data
