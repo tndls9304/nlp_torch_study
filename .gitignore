@@ -1,3 +1,4 @@
 .idea/*
-cnn/GoogleNews-vectors-negative300.bin.gz
+01_cnn_classification/cnn/GoogleNews-vectors-negative300.bin*
+
 

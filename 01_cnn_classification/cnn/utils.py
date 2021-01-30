@@ -47,13 +47,10 @@ def clean_str_sst(string):
 def clean_list(corpus):
     new_corpus = list()
     for line in corpus:
-        if '\t' in line:
-            label, single_line = line.strip().split('\t')
-            single_line = clean_str(single_line)
-            if single_line.strip() == '':
-                continue
-            new_line = '\t'.join([label, single_line])
-            new_corpus.append(new_line)
+        line = clean_str(line.strip())
+        if line.strip() == '':
+            continue
+        new_corpus.append(line)
     return new_corpus
 
 
