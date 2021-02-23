@@ -1,4 +1,8 @@
 .idea/*
 01_cnn_classification/cnn/GoogleNews-vectors-negative300.bin*
+01_cnn_classification/cnn/.ipynb_checkpoints/*
+02_seq2seq/seq2seq/.data/*
+02_seq2seq/seq2seq/.ipynb_checkpoints/*
+02_seq2seq/seq2seq/tut1-model.pt
 
 

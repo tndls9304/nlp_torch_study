@@ -14,7 +14,8 @@ class CNN1d(nn.Module):
         self.convs = nn.ModuleList([
                                     nn.Conv1d(in_channels=embedding_dim,
                                               out_channels=n_filters,
-                                              kernel_size=fs)
+                                              kernel_size=fs,
+                                              padding=fs-1)
                                     for fs in filter_sizes
                                     ])
         self.fc = nn.Linear(len(filter_sizes) * n_filters, output_dim)

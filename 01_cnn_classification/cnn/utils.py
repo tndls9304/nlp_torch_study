@@ -23,7 +23,7 @@ def simple_writer(path, target):
     writer.close()
 
 
-def clean_str(string, TREC=False):
+def clean_str(string, TREC=False, lower=True):
     """
     Tokenization/string cleaning for all datasets except for SST.
     Every dataset is lower cased except for TREC
@@ -32,7 +32,10 @@ def clean_str(string, TREC=False):
     string = re.sub(r"\'(s|ve|re|d|ll)", r" \'\1", string)
     string = re.sub(r"n\'t", r" n\'t", string)
     string = re.sub(r"([,!)(?]|\s{2,})", r" \1 ", string)
-    return string.strip() if TREC else string.strip().lower()
+    if lower:
+        return string.strip() if TREC else string.strip().lower()
+    else:
+        return string.strip()
 
 
 def clean_str_sst(string):
@@ -44,10 +47,10 @@ def clean_str_sst(string):
     return string.strip().lower()
 
 
-def clean_list(corpus):
+def clean_list(corpus, lower=False):
     new_corpus = list()
     for line in corpus:
-        line = clean_str(line.strip())
+        line = clean_str(line.strip(), lower=lower)
         if line.strip() == '':
             continue
         new_corpus.append(line)

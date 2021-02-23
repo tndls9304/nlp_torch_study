@@ -21,8 +21,6 @@ class CNNDataset(Dataset):
         self.vocab_size = conf_dict['VOCAB_SIZE']
         self.batch_size = conf_dict['BATCH_SIZE']
         self.seed = conf_dict['SEED']
-        self.test_ratio = conf_dict['TEST_RATIO']
-        self.valid_ratio = conf_dict['VALID_RATIO']
         self.embedding_dim = conf_dict['EMBEDDING_DIM']
         self.device = device
 
@@ -36,14 +34,13 @@ class CNNDataset(Dataset):
         self.stoi = None
         self.itos = None
 
-        self._load_dataset()
-        self._load_word2vec()
-
-    def _load_dataset(self):
+    def _load_dataset(self, clean=True):
         positive_corpus = simple_reader(self.positive_path)
         negative_corpus = simple_reader(self.negative_path)
-
-        self.corpus = clean_list(positive_corpus) + clean_list(negative_corpus)
+        if clean:
+            self.corpus = clean_list(positive_corpus, lower=False) + clean_list(negative_corpus, lower=False)
+        else:
+            self.corpus = positive_corpus + negative_corpus
         self.labels = ([1] * len(positive_corpus)) + ([0] * len(negative_corpus))
 
     def __len__(self):
@@ -53,9 +50,27 @@ class CNNDataset(Dataset):
         return self.corpus[index], self.labels[index]
 
     def _load_word2vec(self):
-        # load w2v
-        self.word2vec = KeyedVectors.load_word2vec_format(self.w2v_path, binary=True)
-        self.word2index = {token: token_index for token_index, token in enumerate(self.word2vec.index2word)}
+        pass
+
+    def _generate_freq_vocab(self, corpus):
+        pass
+
+    def collate_cnn(self, batch):
+        """
+        add padding for text of various lengths
+        Args:
+            [(text(tensor), label(tensor)), ...]
+        Returns:
+            tensor, tensor : text, label
+        """
+        text, label = zip(*batch)
+        seq = [self.text2seq(t) for t in text]
+        text = pad_sequence(seq, batch_first=True, padding_value=self.stoi[self.pad_token]).long()
+        label = torch.FloatTensor(np.asarray(label))
+        return text, label
+
+    def text2seq(self, text):
+        pass
 
     def build_vocab(self, train_indices):
         train_corpus = [self.corpus[i] for i in train_indices]
@@ -81,6 +96,21 @@ class CNNDataset(Dataset):
         self._build_embeddings()
 
     def _build_embeddings(self):
+        pass
+
+
+class CNNWordDataset(CNNDataset):
+    def __init__(self, conf_dict, device):
+        super().__init__(conf_dict, device)
+        self._load_dataset()
+        self._load_word2vec()
+
+    def _load_word2vec(self):
+        # load w2v
+        self.word2vec = KeyedVectors.load_word2vec_format(self.w2v_path, binary=True)
+        self.word2index = {token: token_index for token_index, token in enumerate(self.word2vec.index2word)}
+
+    def _build_embeddings(self):
         value = random.randint(0, len(self.stoi))
         a = np.var(self.word2vec.wv.vectors)
         for word in self.stoi:
@@ -97,20 +127,6 @@ class CNNDataset(Dataset):
             counter.update(line.split(' '))
         return counter
 
-    def collate_cnn(self, batch):
-        """
-        add padding for text of various lengths
-        Args:
-            [(text(tensor), label(tensor)), ...]
-        Returns:
-            tensor, tensor : text, label
-        """
-        text, label = zip(*batch)
-        seq = [self.text2seq(t) for t in text]
-        text = pad_sequence(seq, batch_first=True, padding_value=self.stoi[self.pad_token]).long()
-        label = torch.FloatTensor(np.asarray(label))
-        return text, label
-
     def text2seq(self, text):
         output = list()
         for word in text.split(' '):
@@ -121,4 +137,30 @@ class CNNDataset(Dataset):
         return torch.FloatTensor(output)
 
 
+class CNNCharDataset(CNNWordDataset):
+    def __init__(self, conf_dict, device):
+        super().__init__(conf_dict, device)
 
+        self._load_dataset()
+
+    def _build_embeddings(self):
+        for _ in self.stoi:
+            self.vectors.append(torch.rand(1, self.embedding_dim, dtype=torch.float))
+        self.vectors = torch.cat(self.vectors, dim=0)
+        print('shape of embedding vectors:', self.vectors.shape)
+
+    def _generate_freq_vocab(self, corpus):
+        counter = Counter()
+        for line in corpus:
+            for char in line:
+                counter.update(char)
+        return counter
+
+    def text2seq(self, text):
+        output = list()
+        for char in text:
+            if char not in self.stoi:
+                output.append(self.stoi[self.unk_token])
+            else:
+                output.append(self.stoi[char])
+        return torch.FloatTensor(output)
