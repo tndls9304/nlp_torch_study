@@ -16,7 +16,7 @@ from .model.encoder import Encoder
 from .model.decoder import Decoder
 from .model.seq2seq import Seq2Seq
 
-from .utils import count_parameters, init_weights, epoch_time, tokenize_en_nltk, tokenize_fr_nltk, get_bleu_simple
+from .utils import count_parameters, init_weights, epoch_time, tokenize_en_nltk, tokenize_fr_nltk, get_bleu_simple, simple_writer
 
 
 class S2STrainer:
@@ -74,10 +74,12 @@ class S2STrainer:
     def tokenize_en(self, text):
         return [tok.text for tok in self.spacy_en.tokenizer(text)]
 
-    def train_epoch(self):
+    def train_epoch(self, epoch=0, orig_path=None, pred_path=None):
         self.s2s.train()
         epoch_loss = 0
         epoch_bleu = 0
+        epoch_target = list()
+        epoch_pred = list()
         for i, batch in enumerate(tqdm(self.dataset.train_iterator)):
             bsrc = batch.src
             btrg = batch.trg
@@ -100,12 +102,21 @@ class S2STrainer:
             self.optimizer.step()
             epoch_loss += loss.item()
             epoch_bleu += bleu
+            batch_orig_sent = self.idx2sent(trg)
+            batch_pred_sent = self.idx2sent(output_word)
+            epoch_target += batch_orig_sent
+            epoch_pred += batch_pred_sent
+        if orig_path is not None and pred_path is not None:
+            simple_writer(orig_path.replace('.txt', f'_ep_{str(epoch).zfill(2)}.txt'), epoch_target)
+            simple_writer(pred_path.replace('.txt', f'_ep_{str(epoch).zfill(2)}.txt'), epoch_pred)
         return epoch_loss / len(self.dataset.train_iterator), epoch_bleu / len(self.dataset.train_iterator)
 
-    def evaluate_epoch(self, model, iterator):
+    def evaluate_epoch(self, model, iterator, epoch=0, orig_path=None, pred_path=None):
         model.eval()
         epoch_loss = 0
         epoch_bleu = 0
+        epoch_target = list()
+        epoch_pred = list()
         with torch.no_grad():
             for i, batch in enumerate(tqdm(iterator)):
                 bsrc = batch.src
@@ -123,19 +134,35 @@ class S2STrainer:
                 bleu = get_bleu_simple(output_word, trg)
                 epoch_loss += loss.item()
                 epoch_bleu += bleu
+
+                batch_orig_sent = self.idx2sent(trg)
+                batch_pred_sent = self.idx2sent(output_word)
+                epoch_target += batch_orig_sent
+                epoch_pred += batch_pred_sent
+        if orig_path is not None and pred_path is not None:
+            simple_writer(orig_path.replace('.txt', f'_ep_{str(epoch).zfill(2)}.txt'), epoch_target)
+            simple_writer(pred_path.replace('.txt', f'_ep_{str(epoch).zfill(2)}.txt'), epoch_pred)
         return epoch_loss / len(iterator), epoch_bleu / len(self.dataset.train_iterator)
 
-    def eval_valid(self):
-        return self.evaluate_epoch(self.s2s, self.dataset.valid_iterator)
+    def idx2sent(self, index_tensor):  # index_tensor: [batch_size, trg_len]
+        index_tensor_cpu = index_tensor.to('cpu').tolist()
+        sentences = list()
+        for sent_idx in index_tensor_cpu:
+            sent = ' '.join([self.dataset.TRG.vocab.itos[i] for i in sent_idx])
+            sentences.append(sent.strip())
+        return sentences
+
+    def eval_valid(self, epoch):
+        return self.evaluate_epoch(self.s2s, self.dataset.valid_iterator, epoch, self.config['valid_sentence_output'], self.config['valid_pred_sentence_output'])
 
     def eval_test(self, model):
-        return self.evaluate_epoch(model, self.dataset.test_iterator)
+        return self.evaluate_epoch(model, self.dataset.test_iterator, self.config['test_sentence_output'], self.config['test_pred_sentence_output'])
 
     def run(self):
         for epoch in range(self.config['n_epochs']):
             start_time = time.time()
-            train_loss, train_bleu = self.train_epoch()
-            valid_loss, valid_bleu = self.eval_valid()
+            train_loss, train_bleu = self.train_epoch(epoch, self.config['train_sentence_output'], self.config['train_pred_sentence_output'])
+            valid_loss, valid_bleu = self.eval_valid(epoch)
             self.train_losses.append(train_loss)
             self.train_bleu.append(train_bleu)
             self.valid_losses.append(valid_loss)
