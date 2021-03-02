@@ -20,11 +20,12 @@ def simple_reader(path):
 
 
 def simple_writer(path, target):
-    random.shuffle(target)
+    # random.shuffle(target)
     writer = codecs.open(path, 'w', encoding='utf-8')
     for line in target:
         writer.write(line.strip() + '\n')
     writer.close()
+    print('{} sentences are written'.format(len(target)))
 
 
 def epoch_time(start_time, end_time):

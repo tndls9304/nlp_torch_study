@@ -2,12 +2,10 @@ import math
 import time
 import spacy
 
-import numpy as np
 from tqdm import tqdm
 
 import torch
 import torch.nn as nn
-import torch.nn.functional as F
 import torch.optim as optim
 
 from .dataloader import Seq2SeqDataset
@@ -54,6 +52,7 @@ class S2STrainer:
         self.config['input_dim'] = len(self.dataset.SRC.vocab)
         self.config['output_dim'] = len(self.dataset.TRG.vocab)
         self.config['trg_eos_idx'] = trg_eos_idx
+        self.config['trg_pad_idx'] = trg_pad_idx
 
         self.s2s = self.get_model().to(self.device)
         self.optimizer = optim.Adam(self.s2s.parameters())
@@ -156,7 +155,7 @@ class S2STrainer:
         return self.evaluate_epoch(self.s2s, self.dataset.valid_iterator, epoch, self.config['valid_sentence_output'], self.config['valid_pred_sentence_output'])
 
     def eval_test(self, model):
-        return self.evaluate_epoch(model, self.dataset.test_iterator, self.config['test_sentence_output'], self.config['test_pred_sentence_output'])
+        return self.evaluate_epoch(model, self.dataset.test_iterator, orig_path=self.config['test_sentence_output'], pred_path=self.config['test_pred_sentence_output'])
 
     def run(self):
         for epoch in range(self.config['n_epochs']):

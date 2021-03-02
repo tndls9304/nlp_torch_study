@@ -58,7 +58,7 @@ class Seq2Seq(nn.Module):
             search_eos = torch.logical_or(search_eos, top1 == self.config['trg_eos_idx'])
             if torch.all(search_eos):
                 padding = torch.zeros((trg_len - outputs.shape[0], outputs.shape[1], outputs.shape[2])).to(self.device)
-                padding.fill_(1)
+                padding.fill_(self.config['trg_pad_idx'])
                 outputs = torch.cat([outputs, padding], dim=0)
                 break
                 # loop = False
