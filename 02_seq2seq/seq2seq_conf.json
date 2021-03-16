@@ -1,12 +1,12 @@
 {
   "enc_hid_dim": 1024,
-  "enc_n_layers": 4,
+  "enc_n_layers": 3,
   "enc_emb_dim": 512,
   "enc_rnn_dropout": 0.3,
   "enc_dropout": 0.5,
 
   "dec_hid_dim": 1024,
-  "dec_n_layers": 4,
+  "dec_n_layers": 3,
   "dec_emb_dim": 512,
   "dec_rnn_dropout": 0.3,
   "dec_dropout": 0.5,

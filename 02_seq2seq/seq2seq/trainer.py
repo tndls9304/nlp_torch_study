@@ -141,7 +141,7 @@ class S2STrainer:
         if orig_path is not None and pred_path is not None:
             simple_writer(orig_path.replace('.txt', f'_ep_{str(epoch).zfill(2)}.txt'), epoch_target)
             simple_writer(pred_path.replace('.txt', f'_ep_{str(epoch).zfill(2)}.txt'), epoch_pred)
-        return epoch_loss / len(iterator), epoch_bleu / len(self.dataset.train_iterator)
+        return epoch_loss / len(iterator), epoch_bleu / len(iterator)
 
     def idx2sent(self, index_tensor):  # index_tensor: [batch_size, trg_len]
         index_tensor_cpu = index_tensor.to('cpu').tolist()
