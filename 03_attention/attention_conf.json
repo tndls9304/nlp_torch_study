@@ -1,0 +1,35 @@
+{
+  "enc_hid_dim": 512,
+  "enc_n_layers": 3,
+  "enc_emb_dim": 512,
+  "enc_rnn_dropout": 0.2,
+  "enc_dropout": 0.5,
+  "enc_out_dim": 512,
+
+  "dec_hid_dim": 512,
+  "dec_n_layers": 3,
+  "dec_emb_dim": 512,
+  "dec_rnn_dropout": 0.2,
+  "dec_dropout": 0.5,
+
+  "teacher_forcing": 0.05,
+
+  "seed": 1234,
+  "batch_size": 64,
+  "min_freq": 2,
+  "n_epochs": 10,
+  "clip": 1,
+
+  "lr": 0.0003,
+
+  "src_ext": ".fr",
+  "trg_ext": ".en",
+  "save_path": "tut3-model.pt",
+
+  "train_sentence_output": "output/train_orig.txt",
+  "train_pred_sentence_output": "output/train_pred.txt",
+  "valid_sentence_output": "output/valid_orig.txt",
+  "valid_pred_sentence_output": "output/valid_test.txt",
+  "test_sentence_output": "output/test_orig.txt",
+  "test_pred_sentence_output": "output/test_pred.txt"
+}
