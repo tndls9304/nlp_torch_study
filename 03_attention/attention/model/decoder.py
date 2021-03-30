@@ -1,6 +1,8 @@
 import torch
 import torch.nn as nn
 
+from .maxout import MaxOut
+
 
 class Decoder(nn.Module):
     def __init__(self, config, attention):
@@ -11,11 +13,14 @@ class Decoder(nn.Module):
         self.dec_hid_dim = config['dec_hid_dim']
         self.n_layers = config['dec_n_layers']
         dropout = config['dec_dropout']
+        max_out_dim = config['max_out_dim']
+        max_pool_size = config['max_pool_size']
         rnn_dropout = config['dec_rnn_dropout']
         self.attention = attention
         self.embedding = nn.Embedding(self.output_dim, emb_dim)
         self.rnn = nn.GRU((enc_hid_dim * 2) + emb_dim, self.dec_hid_dim, self.n_layers, batch_first=True, dropout=rnn_dropout)
-        self.fc_out = nn.Linear((enc_hid_dim * 2) + self.dec_hid_dim + emb_dim, self.output_dim)
+        self.max_out = MaxOut((enc_hid_dim * 2) + self.dec_hid_dim + emb_dim, max_out_dim, max_pool_size)
+        self.fc_out = nn.Linear(max_out_dim, self.output_dim)
         self.dropout = nn.Dropout(dropout)
 
     def forward(self, inputted, hidden, encoder_outputs):
@@ -62,7 +67,8 @@ class Decoder(nn.Module):
         # print(output.shape) torch.Size([64, 1, 512])
         # print(weighted.shape) torch.Size([64, 1, 1024])
 
-        prediction = self.fc_out(torch.cat((output, weighted, embedded), dim=-1))
+        prediction = self.max_out(torch.cat((output, weighted, embedded), dim=1))
+        prediction = self.fc_out(prediction)
         # prediction = [batch size, output dim]
 
         return prediction, hidden.squeeze(0)
