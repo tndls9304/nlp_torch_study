@@ -1,0 +1,1014 @@
+two group of people are a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <unk>
+two group of people are a a a . <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <unk>
+a dog is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a dog is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a dog is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a group of a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <unk>
+a dog is in a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <unk>
+two men are in a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a . <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two men are in a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two group of a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+two men are in a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two men are in a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is is a a a a . <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two men are in a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a . <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <unk> <unk>
+a group of a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <unk> <unk>
+a group of a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two men are in a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a dog is a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a a . <eos> <unk> <unk>
+a crowd of a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> . <eos> <eos> <unk> <unk>
+two group of people are a a a . <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <unk> <unk>
+two men are in a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a . <eos> <eos> <unk> <unk>
+a man in a a a a a a a . <eos> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> . <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a a . <eos> <eos> <eos> <unk> <unk>
+two men are in a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> . <eos> <eos> <unk> <unk>
+a group of a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a a . <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a a . <eos> <eos> <eos> <unk> <unk>
+a dog is a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a a . <eos> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <unk> <unk>
+two dogs are in a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <unk> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a group of a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a . <eos> <eos> <unk> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> . <eos> <eos> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a dog is a a a . <eos> <eos> <eos> <eos> <eos> <eos>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <eos>
+a man in a a a a a a a . <eos> <eos>
+two group of people are a a a . <eos> <eos> <eos> <eos>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos>
+a man is a a a a a . <eos> <eos> <eos> <eos>
+two group of people are a a . <eos> . <eos> <eos> <eos>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos>
+two group of people are a . <eos> <eos> <eos> <eos> <eos> <eos>
+a man in a a a a a a a . <eos> <eos>
+a man in a a a a a a a a . <eos>
+a man in a a a a a a . <eos> <eos> <eos>
+a man in a a a a a a a a a .
+a man is a a a a a . <eos> <eos> <eos> <eos>
+two group of people are a a . <eos> . <eos> <eos> <eos>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos>
+a group of a a a . <eos> <eos> <eos> <eos> <eos> <eos>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos>
+two men of people are a a a a . <eos> <eos> <eos>
+a man in a a a a a a . <eos> <eos> <eos>
+two group of people are a a . <eos> . <eos> <eos> <eos>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos>
+a man is a a a a a a . <eos> <eos> <eos>
+two group of people are a a a . <eos> <eos> <eos> <eos>
+two group of people are a a a . <eos> <eos> <eos> <eos>
+a man in a a a a a a a . <eos> <eos>
+a man in a a a a a a a . <eos> <eos>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos>
+a man is a a a a a . <eos> <eos> <eos> <eos>
+a dog is a a a . <eos> <eos> <eos> <eos> <eos> <eos>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos>
+a man in a a a a a a a . <eos> <eos>
+two men of people are a a a a . <eos> <eos> <eos>
+a man is a a a a a a . <eos> <eos> <eos>
+a man is a a a a a . <eos> <eos> <eos> <eos>
+a man in a a a a a a a a . <eos>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <eos>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <eos>
+a man in a a a a a a . <eos> <eos> <eos>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos>
+a man is a a a a a . <eos> <eos> <eos> <eos>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos>
+two group of people are a . <eos> <eos> <eos> <eos> <eos> <eos>
+a man in a a a a a a a . <eos> <eos>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos>
+a man is a a a a a a . <eos> <eos> <eos>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos>
+a man is a a a a a . <eos> <eos> <eos> <eos>
+a man is a a a a a . <eos> <eos> <eos> <eos>
+two group of people are a a . <eos> . <eos> <eos> <eos>
+two group of people are a a a . <eos> <eos> <eos> <eos>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos>
+two group of people are a a . <eos> . <eos> <eos> <eos>
+two group of people are a . <eos> <eos> <eos> <eos> <eos> <eos>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a a . <eos> . <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two men are in a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <unk>
+a crowd of a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a shirt is a a a a . <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <unk>
+two group of people are a a . <eos> . <eos> <eos> <eos> <eos> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a a . <eos> . <eos> <eos> <eos> <eos> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <eos> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <unk>
+two group of people are a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a dog is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two men are in a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <unk>
+two group of people are a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <unk> <unk> <unk>
+two group of people are a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two group of people are a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <unk> <unk> <unk>
+two group of people are a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+two group of people are a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two group of people are a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+two group of people are a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+two group of people are a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a dog is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two group of people are a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two group of people are a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+two group of people are a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a a a . <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+two group of people are a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk>
+a group of a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <unk> <unk> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two group of people are a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+two dogs are in a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men are in a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men are in a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a dog is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <unk> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <unk> <unk>
+two group of people are a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a a a shirt is a a a a a . <eos> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a group of a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two men of people are a and a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+two men of people are a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two men of people are a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two men of people are a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a dog is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+two men of people are a and a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two men of people are a a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+two men of people are a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two men of people are a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <unk> <unk>
+two men of people are a a a a a . <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a a a a . <eos> <unk> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+two men are in a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two men are in a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a a a a . <eos> <unk> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a dog is in a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two men of people are a and a a a . <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <unk> <unk>
+two men of people are a and a a a . <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two men of people are a and a a a . <eos> <eos> <eos> <unk> <unk>
+two group of people are a a a . <eos> . <eos> <eos> <eos> <unk> <unk>
+two men of people are a and a a a . <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+two men are in a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two men are in a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two men of people are a a a a a . <eos> <eos> <eos> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <unk> <unk>
+a man in a a a a a a a a a . <eos> <unk> <unk>
+two group of people are a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+two group of people are a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two men of people are a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two group of people are a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two group of people are a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two group of people are a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two men of people are a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two men are in a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two dogs are in a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two group of people are a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a a a shirt is a a a a a . <eos> <unk> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a a a shirt is a a a a a . <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a group of a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two group of people are a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two men of people are a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a dog is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two group of people are a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two men are in a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two men of people are a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <unk>
+two group of people are a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a a a a . <eos> <unk>
+two men of people are a and a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a shirt is a a a a a . <eos> <eos> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two men of people are a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <unk>
+two men of people are a and a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two men of people are a and a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+two men of people are a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two men of people are a and a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+two men of people are a and a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+two men of people are a and a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two men of people are a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two men of people are a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two men of people are a and a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a shirt is a a a a a . <eos> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men are in a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two group of people are a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two group of people are a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two group of people are a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a and a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two group of people are a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two group of people are a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two group of people are a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two group of people are a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two group of people are a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a shirt is a a a a a . <eos> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a shirt is a a a a a . <eos> <eos> <eos> <eos> <unk>
+two men are in a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two men of people are a and a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a shirt is a a a a a . <eos> <eos> <eos> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two men of people are a and a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two men of people are a and a and a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two men of people are a and a and a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a shirt is a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a a a a a a a . <eos> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a dog is in a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a a a a a . <eos> <eos> <eos> <unk>
+a man in a a a a a a a a a a a . <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two group of people are a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two men of people are a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a shirt is a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a shirt is a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a and a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a and a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men are in a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a shirt is a a a a a . <eos> <eos> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a , and a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a and a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a a a a a . <eos> <eos> <unk> <unk> <unk>
+a group of a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a , and a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a shirt is a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a a a a a . <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a shirt is a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a a a a a a a a a a . <eos> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a shirt is a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a shirt is a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a shirt is a a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a and a a a a a a a . <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a a a a a . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a and a a a a a a a a . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a and a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a and a a a a a a a a . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a and a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a , and a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a and a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a and a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a shirt is a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a and a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a and a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a and a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a and a a a a a a a . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a shirt is a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two group of people are a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a shirt is a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a shirt is a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a shirt is a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a shirt is a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a and a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a group of a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a , and a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a and a a a a a a a a . <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a and a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a and a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a and a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a and a a a a a a a a . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a and a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a and a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a , and a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a shirt is a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a and a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a , and a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a , and a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a shirt is a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a , and a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a shirt is a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a and a a a a a a a a . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a and a a a a a a a . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a , and a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a , and a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a and a a a a a a a a . <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a shirt is a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of a , one , one , , , , , , one , one . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a and a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a and a and a a a a a a a a . <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a and a shirt is a a a a a a . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a shirt is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of a , and a , and a , and a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a and a and a a a a a a a . <eos> . <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of a , and a , and a , and a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a , and a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of a , one , and a , one , one , one . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a and a shirt is a a a a a a . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a and a shirt is a a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a and a a a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a shirt is a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a and a a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a and a and a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a shirt is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a and a a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a shirt is a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a and a a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a and a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a and a a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a shirt is a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a and a a a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a , and a , and a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a and a shirt is a a a a a a . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a and a a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a and a a a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+two men of people are a , and a , and a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>

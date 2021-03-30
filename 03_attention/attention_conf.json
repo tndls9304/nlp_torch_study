@@ -12,6 +12,9 @@
   "dec_rnn_dropout": 0.2,
   "dec_dropout": 0.5,
 
+  "max_out_dim": 256,
+  "max_pool_size": 4,
+
   "teacher_forcing": 0.05,
 
   "seed": 1234,

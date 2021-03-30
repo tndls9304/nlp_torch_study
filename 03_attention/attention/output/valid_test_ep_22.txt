@@ -1,0 +1,1014 @@
+the three children are in a . . <eos> <eos> <eos> <eos> <unk> <unk>
+two children playing on a jungle gym . <eos> <eos> <eos> <eos> <unk> <unk>
+several girls are playing with the . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a artist working working on a grill . <eos> <eos> <eos> <eos> <unk> <unk>
+children are and and and . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a group of towering in a area . <eos> <eos> <eos> <eos> <unk> <unk>
+an old couple enjoying a sushi . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a blond woman is drinking a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a waiter is standing in the kitchen . <eos> <eos> <eos> <eos> <unk> <unk>
+the are playing basketball in the game . <eos> <eos> <eos> <eos> <unk> <unk>
+a boy is trying to to a a . <eos> <eos> <eos> <unk> <unk>
+a young girl standing in a field . <eos> <eos> <eos> <eos> <unk> <unk>
+two little girls in blue shirts smiling . <eos> <eos> <eos> <eos> <unk> <unk>
+a electrician in a red jumpsuit is a bucking bronco . <eos> <unk> <unk>
+a busy in a city street . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a bird flies through the water . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a group of girls are performing a . <eos> <eos> <eos> <eos> <unk> <unk>
+a dog running in the snow . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a small dog jumping down a street . <eos> <eos> <eos> <eos> <unk> <unk>
+two dogs are and playing in the snow . <eos> <eos> <eos> <unk> <unk>
+two brown dogs are on a grassy field . <eos> <eos> <eos> <unk> <unk>
+four women dressed in with matching outfits . <eos> <eos> <eos> <eos> <unk> <unk>
+a boy tricks on on a skateboard . <eos> <eos> <eos> <eos> <unk> <unk>
+this is a man who is a woman . <eos> <eos> <eos> <unk> <unk>
+a blond girl in a is a a . <eos> <eos> <eos> <unk> <unk>
+a young girl is swimming in a pool . <eos> <eos> <eos> <unk> <unk>
+a man sitting on his with his his hands . <eos> <eos> <unk> <unk>
+a young boy is jumping into the water . <eos> <eos> <eos> <unk> <unk>
+a in in in sunglasses bug <unk> . <eos> <eos> <eos> <eos> <unk> <unk>
+two women are at a event event . <eos> <eos> <eos> <eos> <unk> <unk>
+the brown dog is wearing a black collar . <eos> <eos> <eos> <unk> <unk>
+villagers are at the cold day . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+three dogs are playing in the water . <eos> <eos> <eos> <eos> <unk> <unk>
+a man working on on a construction site . <eos> <eos> <eos> <unk> <unk>
+two men talking standing in a park . <eos> <eos> <eos> <eos> <unk> <unk>
+a singer singing with the crowd . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a young person is looking camera camera . <eos> <eos> <eos> <eos> <unk> <unk>
+young girls are in a game . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a green jacket is smiling . <eos> <eos> <eos> <unk> <unk>
+a person is surrounded by some bags . <eos> <eos> <eos> <eos> <unk> <unk>
+a swimmer swimming in a a pool . <eos> <eos> <eos> <eos> <unk> <unk>
+a child is walking by by many baskets . <eos> <eos> <eos> <unk> <unk>
+a boy is a swing . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a band playing on a sidewalk . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+three dogs playing in the snow . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a child sitting on a rock . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+the air bikers in the rising . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two dogs run running in the surf . <eos> <eos> <eos> <eos> <unk> <unk>
+a man bends down a a rock . <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a restaurant . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two girls walking down the street . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+three small dogs are something . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a group of people are running . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+three dogs participating in a race . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+people dancing and and and other . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+the woman is holding a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is making arrow arrow . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a person is riding a bike . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a skateboarder performs a stunt . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two men joking around . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+photographers getting for a picture . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two people walking down a street . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+three women women and sitting around . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a artist is painting a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is painting a front of a yellow wall . <eos> <unk> <unk>
+two men walking down a dirt path . <eos> <eos> <eos> <eos> <unk> <unk>
+a woman is a picture of a <unk> . <eos> <eos> <eos> <unk> <unk>
+children dragging a monkey a a fire . <eos> <eos> <eos> <eos> <unk> <unk>
+a motorcycle rider is on a red motorcycle . <eos> <eos> <eos> <unk> <unk>
+girls sitting with their on on . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two men men are at a outdoor market . <eos> <eos> <eos> <unk> <unk>
+the man is asleep on the couch . <eos> <eos> <eos> <eos> <unk> <unk>
+a woman is dribbling in gold clothing . <eos> <eos> <eos> <eos> <unk> <unk>
+people in the the tend to their <unk> . <eos> <eos> <eos> <unk> <unk>
+several people standing on a a platform . <eos> <eos> <eos> <eos> <unk> <unk>
+a man and two children crossing a street . <eos> <eos> <eos> <unk> <unk>
+two people looking at a in a shop . <eos> <eos> <eos> <unk> <unk>
+a broad <unk> is a a show . <eos> <eos> <eos> <eos> <unk> <unk>
+a in in a red shirt is a sword . <eos> <eos> <unk> <unk>
+a <unk> band band band playing guitar . <eos> <eos> <eos> <eos> <unk> <unk>
+three men are in a blue penske . <eos> <eos> <eos> <eos> <unk> <unk>
+three men in hard hats guide together . <eos> <eos> <eos> <eos> <unk> <unk>
+a young child is playing a puddle . <eos> <eos> <eos> <eos> <unk> <unk>
+a group of musicians are performing music . <eos> <eos> <eos> <eos> <unk> <unk>
+the of two men are the attention . <eos> <eos> <eos> <eos> <unk> <unk>
+a boy on a bike bike with his . <eos> <eos> <eos> <unk> <unk>
+a biker biker a jump in a forest . <eos> <eos> <eos> <unk> <unk>
+two people jumping off the the of a mountain . <eos> <eos> <unk> <unk>
+a woman holding a black and white dog . <eos> <eos> <eos> <unk> <unk>
+a woman in a blue shirt is riding a bike . <eos> <unk> <unk>
+a small brown dog runs through the grass . <eos> <eos> <eos> <unk> <unk>
+a man is bundles of a cart . <eos> <eos> <eos> <eos> <unk> <unk>
+a bicyclist is a trick trick in midair . <eos> <eos> <eos> <unk> <unk>
+two women are looking out of trees . <eos> <eos> <eos> <eos> <unk> <unk>
+two men walking down a city street . <eos> <eos> <eos> <eos> <unk> <unk>
+a man is wading into the water . <eos> <eos> <eos> <eos> <unk> <unk>
+two little girls walk along the the woods . <eos> <eos> <eos> <unk> <unk>
+men in white shirts are their hands . <eos> <eos> <eos> <eos> <unk> <unk>
+a crowd of people walk through the park park . <eos> <eos> <unk> <unk>
+five men in a band are playing a a . <eos> <eos> <unk> <unk>
+a tourist is pauses to a airplane airplane . <eos> <eos> <eos> <unk> <unk>
+a young man haired man is speaking into a microphone . <eos> <unk> <unk>
+four men standing near a white white . <eos> <eos> <eos> <eos> <unk> <unk>
+several people are swimming in a water . <eos> <eos> <eos> <eos> <unk> <unk>
+two children are blowing bubbles on the . <eos> <eos> <eos> <eos> <unk> <unk>
+a child is trying to a a book . <eos> <eos> <eos> <unk> <unk>
+a group of synchronized giving a demonstration . <eos> <eos> <eos> <eos> <unk> <unk>
+two men in in uniforms are playing baseball . <eos> <eos> <eos> <unk> <unk>
+a skateboarder is attempting a a a a . <eos> <eos> <eos> <unk> <unk>
+a man in a black wetsuit surfing a wave . <eos> <eos> <unk> <unk>
+a woman is sitting in a a room . <eos> <eos> <eos> <unk> <unk>
+a young girl running in a park . <eos> <eos> <eos> <eos> <unk> <unk>
+three men are walking down a mountain trail . <eos> <eos> <eos> <unk> <unk>
+a young boy cries while holding his arms . <eos> <eos> <eos> <unk> <unk>
+construction workers standing on a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a woman playing a a sewing machine . <eos> <eos> <eos> <eos> <unk> <unk>
+a person on a in the woods . <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a subway while on the phone . <eos> <eos> <unk> <unk>
+a brown dog is chasing a black dog . <eos> <eos> <eos> <unk> <unk>
+little boys in a martial art . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in an orange suit is outside . <eos> <eos> <eos> <unk> <unk>
+a worker worker taking a tree . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in out of a statue . <eos> <eos> <eos> <eos> <unk> <unk>
+a man is pouring a a a . . <eos> <eos> <eos> <unk> <unk>
+a baby sitting on a blue blue . <eos> <eos> <eos> <eos> <unk> <unk>
+women in in traditional clothing dancing together . <eos> <eos> <eos> <eos> <unk> <unk>
+a woman sitting on a bench bench . <eos> <eos> <eos> <eos> <unk> <unk>
+two people are standing in front of a building . <eos> <eos> <unk> <unk>
+firefighters are a a <unk> technology . <eos> <eos> <eos> <eos> <eos> <unk>
+two girls playing on a with with their . <eos> <eos> <eos> <unk>
+a woman and two children are crossing a street . <eos> <eos> <unk>
+a woman in a white jacket is two two women . <eos> <unk>
+two men are sitting on a construction project . <eos> <eos> <eos> <unk>
+two dancers performing in a band . <eos> <eos> <eos> <eos> <eos> <unk>
+a young girl walking through a a . <eos> <eos> <eos> <eos> <unk>
+a group of people running a wooded area . <eos> <eos> <eos> <unk>
+a large black dog is bounding through the snow . <eos> <eos> <unk>
+two people are riding bikes on a dirt road . <eos> <eos> <unk>
+a man in a green shirt is a a . <eos> <eos> <unk>
+a woman wearing a white shirt is swinging a a . <eos> <unk>
+a woman is putting a on a blanket blanket . <eos> <eos> <unk>
+a girl is wearing a red and blue jacket . <eos> <eos> <unk>
+a boy has another boy on his head . <eos> <eos> <eos> <unk>
+two people are playing pool pool in a pool . <eos> <eos> <unk>
+a group of people talking to talk . <eos> <eos> <eos> <eos> <unk>
+a group of runners are competing in a race . <eos> <eos> <unk>
+a young skateboarder in the window of window . <eos> <eos> <eos> <unk>
+the street street with many people people . <eos> <eos> <eos> <eos> <unk>
+two brown dogs play in a green field . <eos> <eos> <eos> <unk>
+two boys are a a picture for for camera . <eos> <eos> <unk>
+two men in white uniforms are martial arts . <eos> <eos> <eos> <unk>
+a woman white is playing a guitar guitar . <eos> <eos> <eos> <unk>
+a group of people are eating at a restaurant . <eos> <eos> <unk>
+a woman is forming on a <unk> . . <eos> <eos> <eos> <unk>
+girls in in bikinis playing on the beach . <eos> <eos> <eos> <unk>
+the white and brown dog is running through the grass . <eos> <unk>
+two women are a a picture in a picture . <eos> <eos> <unk>
+four children are sitting on a and talking . <eos> <eos> <eos> <unk>
+a man in a microphone is talking into a microphone . <eos> <unk>
+a man in a gray shirt is . <eos> <eos> <eos> <eos> <unk>
+two boys playing playing with with with toys . <eos> <eos> <eos> <unk>
+an old man walking with a with his . <eos> <eos> <eos> <unk>
+a farmer is taking pictures of onlookers . <eos> <eos> <eos> <eos> <unk>
+a brown brown dog is shaking water of water . <eos> <eos> <unk>
+four people are attempting to a a on a street . <eos> <unk>
+a woman and a girl are a a . <eos> <eos> <eos> <unk>
+two children in white are playing in the the snow . <eos> <unk>
+a man and woman are crossing a street . <eos> <eos> <eos> <unk>
+a bride and groom groom cutting their reception . <eos> <eos> <eos> <unk>
+this man is wearing a hat a white shirt . <eos> <eos> <unk>
+a person with boat boat boat on the water . <eos> <eos> <unk>
+a dog runs through the grass toward the camera . <eos> <eos> <unk>
+a little boy in a crawls crawls on a tire . <eos> <unk>
+a group of people are performing on stage . <eos> <eos> <eos> <unk>
+a green boat is in a body water . <eos> <eos> <eos> <unk>
+a brown dog chewing a a piece of wood . <eos> <eos> <unk>
+several people are standing in the the the . <eos> <eos> <eos> <unk>
+a man in a hat holding holding a <unk> . <eos> <eos> <unk>
+a chef is using <unk> <unk> a a . . <eos> <eos> <unk>
+a man and a woman are at the beach . <eos> <eos> <unk>
+two people are climbing a rock face with a a . <eos> <unk>
+a man is a large of a yellow vehicle . <eos> <eos> <unk>
+a young woman is on a bridge . <eos> <eos> <eos> <eos> <unk>
+a group of men are hanging out a statue . <eos> <eos> <unk>
+four young children playing with tires tires tires . <eos> <eos> <eos> <unk>
+three men are in a race race . <eos> <eos> <eos> <eos> <unk>
+men in in outfits are performing . <eos> <eos> <eos> <eos> <eos> <unk>
+a woman standing in front of flowers . <eos> <eos> <eos> <eos> <unk>
+a pilot is pauses to get his customers . <eos> <eos> <eos> <unk>
+an asian woman is on a a game . <eos> <eos> <eos> <unk>
+two young people walking down a path . <eos> <eos> <eos> <eos> <unk>
+people are playing in a fountain fountain . <eos> <eos> <eos> <eos> <unk>
+a group of people running in a race . <eos> <eos> <eos> <eos> <eos> <unk>
+a woman and two children looking at a store . <eos> <eos> <eos> <eos> <unk>
+a red car is is over a a beach . <eos> <eos> <eos> <eos> <unk>
+three large dogs are playing in the in the snow . <eos> <eos> <eos> <unk>
+a woman is sitting with two group of fabric . <eos> <eos> <eos> <eos> <unk>
+a person in a red jacket walking past a building . <eos> <eos> <eos> <unk>
+a young child is riding on a snow . <eos> <eos> <eos> <eos> <eos> <unk>
+a snowboarder is jumping the air air the air . <eos> <eos> <eos> <eos> <unk>
+two men stand in a brick street . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man and a woman with a with holding . <eos> <eos> <eos> <eos> <unk>
+a guy performs a trick trick on a a park . <eos> <eos> <eos> <unk>
+men watching a a computer terminals in a library . <eos> <eos> <eos> <eos> <unk>
+a dog in a field field while looking through the . <eos> <eos> <eos> <unk>
+two black dogs running quickly next to a a road . <eos> <eos> <eos> <unk>
+a girl is upside down a dog a trampoline . <eos> <eos> <eos> <eos> <unk>
+a hockey player in a blue shirt is field field field . <eos> <eos> <unk>
+a man is shaving a woman 's hair . <eos> <eos> <eos> <eos> <eos> <unk>
+a man talks on a cellphone while on the sidewalk . <eos> <eos> <eos> <unk>
+a man in a white shirt is detail <unk> . <eos> <eos> <eos> <eos> <unk>
+a group of bicyclists riders travel around a ski . <eos> <eos> <eos> <eos> <unk>
+the brown dog dog is is chasing after his dog . <eos> <eos> <eos> <unk>
+a man on a sand on a sand sand sand . <eos> <eos> <eos> <unk>
+the large brown dog is running through a water . <eos> <eos> <eos> <eos> <unk>
+a man on on the floor at a a . <eos> <eos> <eos> <eos> <unk>
+a man is making some white and lights . <eos> <eos> <eos> <eos> <eos> <unk>
+a brown dog runs running the grass with with its mouth . <eos> <eos> <unk>
+two men are playing on a red red car . <eos> <eos> <eos> <eos> <unk>
+a man is a a table under the floor . <eos> <eos> <eos> <eos> <unk>
+a woman in a hat is standing a a a <unk> her . <eos> <unk>
+a dog jumps to to a red and white ball . <eos> <eos> <eos> <unk>
+a blond woman wearing a blue shirt and a a pink shirt . <eos> <unk>
+a man playing guitar and singing into a microphone . <eos> <eos> <eos> <eos> <unk>
+a black and white dog is in the water . <eos> <eos> <eos> <eos> <unk>
+a man is rowing a white boat on a lake . <eos> <eos> <eos> <unk>
+a man cooking on a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man sitting on the playing playing his guitar . <eos> <eos> <eos> <eos> <unk>
+a child looking at the end of a tree . <eos> <eos> <eos> <eos> <unk>
+a man in sleeping sleeping in the outside . <eos> <eos> <eos> <eos> <eos> <unk>
+a young child stands standing on a sailboat . <eos> <eos> <eos> <eos> <eos> <unk>
+a man sleeping in a green blanket on a couch . <eos> <eos> <eos> <unk>
+a group of people are standing front of a building . <eos> <eos> <eos> <unk>
+two horsemen are wrestling on a track . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a group of girls playing a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a child doing a kite . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a young boy in dark clothing in in a parking lot . <eos> <eos> <unk>
+children play playing a on a a field . <eos> <eos> <eos> <eos> <eos> <unk>
+a man on on a sidewalk on his his . <eos> <eos> <eos> <eos> <unk>
+a man in a hat is canoeing in . <eos> <eos> <eos> <eos> <eos> <unk>
+a ballerina in red red suit leaps into the air . <eos> <eos> <eos> <unk>
+a man is surfing the waves with . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man and woman sitting on a bench . <eos> <eos> <eos> <eos> <eos> <unk>
+a man walking two children donkeys on a park . <eos> <eos> <eos> <eos> <unk>
+a working working on a a a <unk> . <eos> <eos> <eos> <eos> <eos> <unk>
+a man holding a baby in a hospital . <eos> <eos> <eos> <eos> <eos> <unk>
+two men in red on on a green bike . <eos> <eos> <eos> <eos> <unk>
+a car filled with many <unk> 's passengers . <eos> <eos> <eos> <eos> <eos> <unk>
+a choir in the crowd crowd crowd crowd . <eos> <eos> <eos> <eos> <eos> <unk>
+a person sitting on a chair chair in front of a crowd . <eos> <unk>
+two dogs playing with a red and blue ball . <eos> <eos> <eos> <eos> <unk>
+a woman in a black looks on her cellphone . <eos> <eos> <eos> <eos> <unk>
+a man in the shadows next to a <unk> . <eos> <eos> <eos> <eos> <unk>
+people in a starbucks cafe looking at . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a person is down a hill hill on the dirt dirt . <eos> <eos> <unk>
+a woman in white is holding a colorful bouquet . <eos> <eos> <eos> <eos> <unk>
+two dogs playing with a red toy in the grass . <eos> <eos> <eos> <unk> <unk>
+a man in a hat is jumping to a . <eos> <eos> <eos> <eos> <unk> <unk>
+a group of people standing in a a in a building . <eos> <eos> <unk> <unk>
+two men are in a outside . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two asian stand standing next to a black . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a young woman is on on the street . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a red shirt playing the drums . <eos> <eos> <eos> <eos> <unk> <unk>
+a group of guys is listening to a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is holding a projected in front of a camera . <eos> <eos> <unk> <unk>
+a group of men in men play . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a group of young boys running on a a beach . <eos> <eos> <eos> <unk> <unk>
+a hiker is looking at the mountains in the mountains . <eos> <eos> <eos> <unk> <unk>
+two men wearing hats are martial arts arts . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a young asian boy sitting in the ground . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+several guys are a in a soccer game . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a woman is a a a a a train . <eos> <eos> <eos> <eos> <unk> <unk>
+girl making a rollerskating with with with her . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a young boy is preparing to a a <unk> . <eos> <eos> <eos> <eos> <unk> <unk>
+three people are riding on a a a mountain . <eos> <eos> <eos> <eos> <unk> <unk>
+a woman is preparing to cut a <unk> <unk> <unk> . <eos> <eos> <eos> <unk> <unk>
+a mock shot is a photo for the . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man appears to the something on the ground . <eos> <eos> <eos> <eos> <unk> <unk>
+four boys posing while a picture of a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two women sitting on a bench in front of a restaurant . <eos> <eos> <unk> <unk>
+a woman works on on the floor . <eos> . <eos> <eos> <eos> <eos> <unk> <unk>
+a family is standing in a sunny day . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a group of people hanging out on a on a balcony . <eos> <eos> <unk> <unk>
+a person is on a bench in front of water . <eos> <eos> <eos> <unk> <unk>
+an asian woman sitting in front of a market . <eos> <eos> <eos> <eos> <unk> <unk>
+a construction worker in orange vest is sweeping construction . <eos> <eos> <eos> <eos> <unk> <unk>
+a woman in a is is tending to . . <eos> <eos> <eos> <eos> <unk> <unk>
+a man with a towel sits sitting in a chair . <eos> <eos> <eos> <unk> <unk>
+a group of girls are playing a fountain fountain . <eos> <eos> <eos> <eos> <unk> <unk>
+two women in stylish dresses are walking down a sidewalk . <eos> <eos> <eos> <unk> <unk>
+a man and woman woman are a a street . <eos> <eos> <eos> <eos> <unk> <unk>
+a group of four people are hanging out a pile . <eos> <eos> <eos> <unk> <unk>
+a view of a city street with many people . <eos> <eos> <eos> <eos> <unk> <unk>
+an asian man is walking past a a <unk> solar <unk> . <eos> <eos> <unk> <unk>
+a woman is holding a a a on a a . <eos> <eos> <eos> <unk> <unk>
+a sculptor is preparing food for the the day . <eos> <eos> <eos> <eos> <unk> <unk>
+a man pushes a a a busy street . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+three men talking to a a a in a the street . <eos> <eos> <unk> <unk>
+a little girl looking at a blue wall . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a street street street of people of people . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+tourists are for a front of a building . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+runners are a to the the the . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a in a in a bookshelf . <eos> <unk> <unk>
+a young girl is her her from a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a dog bites the mouth offered by his favorite bite . <eos> <eos> <eos> <unk> <unk>
+a woman in a bikini is a a on the sand . <eos> <eos> <unk> <unk>
+a police officer is on a horse a crowd of crowd crowd . <eos> <unk> <unk>
+a store vendor is decker bus on the . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a woman is using her to cut from the world . <eos> <eos> <eos> <unk> <unk>
+a man walking a a bike on a a a dirt . <eos> <eos> <unk> <unk>
+a man singing a microphone microphone a guitar guitar . <eos> <eos> <eos> <eos> <unk> <unk>
+a boy in a park with with two football . <eos> <eos> <eos> <eos> <unk> <unk>
+a waiter is standing front of a a <unk> . . <eos> <eos> <eos> <unk> <unk>
+a man in blue is riding a dirt road . <eos> <eos> <eos> <eos> <unk> <unk>
+a man and woman are playing a game . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a boy in a blue blue and shorts is kicking the goal . <eos> <unk> <unk>
+several people are standing a near a a binder . <eos> <eos> <eos> <eos> <unk> <unk>
+a small brown and white dog running the the sidewalk . <eos> <eos> <eos> <unk> <unk>
+a guy is walking through a a white . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a black dog jumps over a fence . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a guy in a black cap is <unk> . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a dog is on a the water on the the sunset . <eos> <eos> <eos> <unk> <unk>
+two children are to a a a a garden . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two dogs are on the snow , with with their mouths mouths . <eos> <eos> <unk> <unk>
+a young woman in a blue shirt is a a a yo . <eos> <eos> <unk> <unk>
+three men are standing a a around a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+people surrounding a to to get a a bus . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+an asian man sits sitting a a table in front restaurant . <eos> <eos> <eos> <unk> <unk>
+a man wearing a riding a on a a bench . <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a black and black hat is the saxophone . <eos> <eos> <eos> <unk> <unk>
+a man in a and woman in a black dancing . <eos> <eos> <eos> <eos> <unk> <unk>
+four children play on a while while parents watches . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a woman is a a man in front of the street . <eos> <eos> <eos> <unk> <unk>
+joggers on a beautiful day day . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a photographer is a photo of a on a a . <eos> <eos> <eos> <eos> <unk> <unk>
+an older man in a black jacket is looking at the . <eos> <eos> <eos> <unk> <unk>
+two <unk> are playing the the floor of the floor . <eos> <eos> <eos> <eos> <unk> <unk>
+a woman standing on a wall wall and a building . <eos> <eos> <eos> <eos> <unk> <unk>
+a white dog dog jumping and jumping up toy toy toy . <eos> <eos> <eos> <unk> <unk>
+a group of young people are and play instruments . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a group of young men walking walking a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two women in coats are are in the the . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+an old man in a man in sunglasses . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+several people standing standing in a room . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a group of people people are a ages in front of the camera . <eos> <unk> <unk>
+a man and woman are together a a on a street . <eos> <eos> <eos> <unk> <unk>
+four dogs playing in a and and one in a black dog . <eos> <eos> <unk> <unk>
+people and and <unk> <unk> at the the . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a closeup of a woman with a a red . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a person with a backpack is a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a brown dog and white dog is in front of a forest . <eos> <eos> <unk> <unk>
+a white and and a black walking walking down the street . <eos> <eos> <eos> <unk> <unk>
+a boy does a trick on a fold - . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+four people are on on on a park . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a couple takes a a getting ready for a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+this is a beautiful day during a a city . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a woman in a green shirt is playing a instrument . <eos> <eos> <eos> <eos> <unk> <unk>
+a young boy boy is jumping a a man 's arm . <eos> <eos> <eos> <unk> <unk>
+two children children sit outside outside a fountain . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a little girl is standing in a puddle . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+young adults in in are walking through a grassy field . <eos> <eos> <eos> <eos> <unk> <unk>
+a boy in black clothes is a a on the beach . <eos> <eos> <eos> <unk> <unk>
+men wearing blue hats are sitting a bus . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+an elderly woman in a red and red apron preparing a a . <eos> <eos> <unk> <unk>
+a man is talking to while he watches a a bar . <eos> <eos> <eos> <unk> <unk>
+women in in playing playing in the park park . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man and two women in jackets walk down the street . <eos> <eos> <eos> <unk> <unk>
+a man in a red hat is against a a a . <eos> <eos> <eos> <unk> <unk>
+four people are depicted in a <unk> <unk> <unk> . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+three children are looking a man plays on stage . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two asian women are in a a woman in a . . <eos> <eos> <eos> <unk> <unk>
+a group of children are playing in the a in a . <eos> <eos> <eos> <unk> <unk>
+a local family of a photo of a sunset . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a baby wears a <unk> costume , <unk> <unk> in . <eos> <eos> <eos> <eos> <unk> <unk>
+a white and brown dog is walking a white white supports . <eos> <eos> <eos> <unk> <unk>
+a police officer a a motorcycle on the road . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+children are a a tower with a break . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a child is a a jump on a on a trampoline . <eos> <eos> <eos> <unk> <unk>
+a in in in is in front of a construction . <eos> <eos> <eos> <eos> <unk> <unk>
+a young boy is throwing a a body of water . <eos> <eos> <eos> <eos> <unk> <unk>
+an elderly man is walking a a a a small dog . <eos> <eos> <eos> <unk> <unk>
+a young boy boy on a a a large metal . . <eos> <eos> <eos> <unk> <unk>
+a large brown dog is shaking off in in the . <eos> <eos> <eos> <eos> <unk> <unk>
+a man is crossing the street and and and <unk> . <eos> <eos> <eos> <eos> <unk> <unk>
+a woman in a white soccer uniform leaps to to kick the ball . <eos> <eos>
+a group of kids sitting around a table table , listening to a drink . <eos>
+a man is climbing a rock wall with a with a . <eos> <eos> <eos> <eos>
+a child sitting on the floor in a in a crowd . <eos> <eos> <eos> <eos>
+a guy on on a ledge of a of a . <eos> <eos> <eos> <eos> <eos>
+a child standing inside a a a with images and and . . <eos> <eos> <eos>
+a boat with two helicopter and helicopter in the water . <eos> <eos> <eos> <eos> <eos>
+the man is talking on his cellphone in front of a building . <eos> <eos> <eos>
+a boy is posing for the camera while a group of children sitting outside . <eos>
+a dog running in a field with a ball in its mouth . <eos> <eos> <eos>
+two inspectors in protective gear <unk> a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a small child in a blue shirt plays a a tire swing . <eos> <eos> <eos>
+a man and woman are standing standing near a tree . <eos> <eos> <eos> <eos> <eos>
+a dog in the air at the camera . <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a man is a on the beach while the ocean . <eos> <eos> <eos> <eos> <eos>
+there are a construction work on a a construction site . <eos> <eos> <eos> <eos> <eos>
+a band plays playing music on stage a concert . <eos> <eos> <eos> <eos> <eos> <eos>
+a white dog is a a ball its mouth mouth on the beach . <eos> <eos>
+a person wearing a gray and and hat looking looking looking up . <eos> <eos> <eos>
+an elderly man is to the the a a red and . <eos> <eos> <eos> <eos>
+a woman walking down the pathway pathway going down a hill . <eos> <eos> <eos> <eos>
+a motorcycle is driving a traffic people watch the traffic . <eos> <eos> <eos> <eos> <eos>
+a dog is a a water with a stick in its mouth . <eos> <eos> <eos>
+a band band is playing in front of a a bar . <eos> <eos> <eos> <eos>
+a person is parachuting a a large body of water . <eos> <eos> <eos> <eos> <eos>
+three young children stand standing under a yellow and white . <eos> <eos> <eos> <eos> <eos>
+a woman woman in a pink shirt is standing next to a mountain . <eos> <eos>
+two asian dancers in black gypsy - dresses dance dance studio . <eos> <eos> <eos> <eos>
+three people are running a race on a race . <eos> <eos> <eos> <eos> <eos> <eos>
+two bikers in the street street talking to each other . <eos> <eos> <eos> <eos> <eos>
+a team of football team stretches and and . <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a young man is on on a a wall . <eos> <eos> <eos> <eos> <eos> <eos>
+a musician singing singing and guitar guitar guitar in a microphone . <eos> <eos> <eos> <eos>
+a professional athlete sponsored prevent <unk> in a a race . <eos> <eos> <eos> <eos> <eos>
+someone in in sunglasses sits behind and and holding a . <eos> <eos> <eos> <eos> <eos>
+a young boy is hugged by a wearing a blue blue . <eos> <eos> <eos> <eos>
+two dogs run in a field field looking a a ball . <eos> <eos> <eos> <eos>
+two young adults wrestling wrestling wrestling with one another . <eos> <eos> <eos> <eos> <eos> <eos>
+two girls playing in the now chasing a ball . <eos> <eos> <eos> <eos> <eos> <eos>
+three men in white shirts jumping jumping into the air . <eos> <eos> <eos> <eos> <eos>
+a man is sitting a fishing by the . <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+people are crossing a crosswalk in front of a a . <eos> <eos> <eos> <eos> <eos>
+a man is holding a a while his on his . <eos> <eos> <eos> <eos> <eos>
+a nurse artist is her blood pressure companion daughter in her . <eos> <eos> <eos> <eos>
+construction workers workers working on a the . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+people crossing the street at a asian market . <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a woman is a a a in a outdoor festival . <eos> <eos> <eos> <eos> <eos>
+a man walks down the sidewalk next to a street . <eos> <eos> <eos> <eos> <eos>
+a team of cheerleaders are in a a man wearing red . <eos> <eos> <eos> <eos>
+three women running on the sand sand in the water . <eos> <eos> <eos> <eos> <eos>
+a man in a black shirt is singing into a microphone . <eos> <eos> <eos> <eos>
+a little girl girl is running a a street . <eos> <eos> <eos> <eos> <eos> <eos>
+two men are standing next a wall with a wall . <eos> <eos> <eos> <eos> <eos>
+a dog jumps jumping to the air to catch a frisbee . <eos> <eos> <eos> <eos>
+a group of people in white <unk> playing guitar . <eos> <eos> <eos> <eos> <eos> <eos>
+people in people waiting waiting waiting waiting waiting for . <eos> <eos> <eos> <eos> <eos> <eos>
+an older man sits with a a writing on his . <eos> <eos> <eos> <eos> <eos>
+a man in a suit talks on the the the street . <eos> <eos> <eos> <eos>
+a woman is standing and holding a red and white jacket . <eos> <eos> <eos> <eos>
+a group of musicians playing music on the street . <eos> <eos> <eos> <eos> <eos> <eos>
+several people are and and a in a room . <eos> <eos> <eos> <eos> <eos> <eos>
+a man is singing into a microphone as he plays the drums . <eos> <eos> <eos>
+men and women wait to a train . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a boy is a birthday while another girl 's hair . <eos> <eos> <eos> <eos> <eos>
+two women with a hair and and talking to each other . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a child playing on a playground with a on . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+three people on a dirt and and a and a dirt and dirt . <eos> <eos> <eos> <unk> <unk>
+two men are a a picture of a green <unk> on a a a a . <eos> <unk> <unk>
+a boy with a elmo poncho sitting on his shoulders of a . <eos> <eos> <eos> <eos> <unk> <unk>
+two women wearing red shirts coverings coverings a of a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a group of friends are to a a house . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two women are walking on the beach , and and and . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two men , are opposing teams are chasing soccer ball . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is sunbathing on a boat boat by the water . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is giving a speaks into a a a church . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+this is many people are people are sitting at the . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a baby is a a and and a <unk> by a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two hikers are riding a and a cow in a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is standing a microphone while holding a holding a guitar . <eos> <eos> <eos> <eos> <unk> <unk>
+a group of friends are something something in a sculpture . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a young man is trying to hit a soccer ball . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man and woman are a a a bike . <eos> <eos> . <eos> <eos> <eos> <eos> <unk> <unk>
+a musician and a female are dancing a outdoor festival . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+children are chasing each other during a game . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two children are laying on the bed while on a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man and women are a at a party . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man wearing a safety vest is sitting on a motorcycle . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a jacket jacket is on a a mountain . <eos> . <eos> <eos> <eos> <unk> <unk>
+a man in a white shirt is sitting on a chalkboard . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man and a woman are gathering in a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a white shirt and black pants is eating outside . <eos> <eos> <eos> <eos> <unk> <unk>
+a child on a skateboard on a <unk> with parent . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man holding a baby holding a child with his . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a couple and and and looking looking peer over a fence . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a woman in a lavender shirt and capris is lemons in a . <eos> <eos> <eos> <eos> <unk> <unk>
+a young woman in a red dress standing in front of a silver cone . <eos> <eos> <unk> <unk>
+a bicyclist in a helmet pushes a off a a tree . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man wearing a santa claus is a a a jet . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two young women in blue and blue skirts cross a street street . <eos> <eos> <eos> <eos> <unk> <unk>
+a white woman wearing a a a parasol . <eos> <eos> . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a stands in front of a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man with a microphone speaking a group of people . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a crowd of people walk through a marathon . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a woman in a blue shirt walks down a busy street . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+an elderly woman is using a umbrella with her fishing . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a suit is sitting down a busy street . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two people playing a game while one person . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+this is a of of of actors created created in <unk> . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a female athlete is being <unk> <unk> <unk> for the . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a young man in a black shirt creates a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two men are a a in a room with a people . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+here is a picture of a man in her hair . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a young girl with a face paint and a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is looking at a a as he can . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a orchestra room with with pots . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a crowd of people looking at a <unk> the . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is holding a child while in a a building . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two bicyclists ride down the street in a a a <unk> . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a person person is in front of a a a river . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man with blond man is his face in the the ocean . <eos> <eos> <eos> <eos> <unk> <unk>
+a large group of people watching watching a on on a stage . <eos> <eos> <eos> <eos> <unk> <unk>
+a woman with short hair and a man is wearing . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+three men stand outside a a a one one one is . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a black dog plays with another dog on on a field . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a boy with a boy is running in a park park . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+the man in the green shirt is walking with the in red jacket . <eos> <eos> <eos> <unk> <unk>
+children in a huge raft raft with a raft . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a young woman is on a colorful surface . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man and a woman napping on a a . . <eos> <eos> <eos> <eos> <eos> <unk>
+six people are in a a a on on on . <eos> <eos> <eos> <eos> <eos> <unk>
+people in a fruit , and and and and and somewhere in the . <eos> <eos> <unk>
+a girl wearing a and and and with sunglasses is . <eos> <eos> <eos> <eos> <eos> <unk>
+a man wearing a gray shirt is his on a a table . <eos> <eos> <eos> <unk>
+men men are as they enjoy a a boat . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a shaved head is a crab <unk> a a <unk> . <eos> <eos> <unk>
+a man is in the <unk> <unk> <unk> <unk> <unk> drawings . <eos> <eos> <eos> <eos> <unk>
+a woman in a green top and white top is looking at a parade . <eos> <unk>
+men <unk> are doing tricks on a skate park . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a black man wearing a a black hat is sitting on a bus . <eos> <eos> <unk>
+a man in a white shirt is playing music on the street . <eos> <eos> <eos> <unk>
+a girl with blue is sitting on the the the street . <eos> <eos> <eos> <eos> <unk>
+people gather in an indoor in in a holidays . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two people sitting on a bench bench eating something . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a young man is his food at the counter of a . <eos> <eos> <eos> <eos> <unk>
+a man and a woman are using a tool on on the ground . <eos> <eos> <unk>
+people are walking while while another person is walking . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is sitting on the steps of a of a house . <eos> <eos> <eos> <unk>
+a woman and a woman on stage with a a crowd in the background . <eos> <unk>
+a man is playing his friend while his friend is his his friend . <eos> <eos> <unk>
+a man in a brown jacket is his on his boat . <eos> <eos> <eos> <eos> <unk>
+a in in a white apron selling at a restaurant . <eos> <eos> <eos> <eos> <eos> <unk>
+bike on a a person is a a a on a a . <eos> <eos> <eos> <unk>
+a person wearing a white robe is in an outdoor event . <eos> <eos> <eos> <eos> <unk>
+a woman is using her her <unk> in the <unk> . . <eos> <eos> <eos> <eos> <unk>
+a man is a a crowd of a with mountains in the background . <eos> <eos> <unk>
+the little girl in the green shirt is in the grass . <eos> . <eos> <eos> <unk>
+a man is standing on a ladder painting a wall . <eos> <eos> <eos> <eos> <eos> <unk>
+a man on a a orange and a holding a a . <eos> <eos> <eos> <eos> <unk>
+a large black dog is running over a dock over the grass . <eos> <eos> <eos> <unk>
+a boy and a boy sons are standing standing in the sand . <eos> <eos> <eos> <unk>
+a young girl wearing a pink and is running running the grass . <eos> <eos> <eos> <unk>
+a group of young people jump into a on a beach . <eos> <eos> <eos> <eos> <unk>
+two children are filling their <unk> <unk> <unk> and and <unk> . <eos> <eos> <eos> <eos> <unk>
+a woman in a a car is hanging out of a a . <eos> <eos> <eos> <unk>
+several people are walking in white white in in a a city . <eos> <eos> <eos> <unk>
+a little girl in a pink is dancing with with two pins . <eos> <eos> <eos> <unk>
+a white and white dog jumps up a white ball in its mouth . <eos> <eos> <unk>
+a boy in a red shirt is playing the guitar . <eos> <eos> <eos> <eos> <eos> <unk>
+an asian woman wearing devil is is a a large pile of dust . <eos> <eos> <unk>
+a man is with a child in a in a a a . <eos> <eos> <eos> <unk>
+two women are standing with skis in the snow . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a group of men sitting in a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+people are three men , , , and and and and . <eos> <eos> <eos> <eos> <unk>
+four people in in coats stand outside near each other . <eos> <eos> <eos> <eos> <eos> <unk>
+some people stand standing in a a a a large body of water . <eos> <eos> <unk>
+a black man is looking a guitar while plays the the the snow . <eos> <eos> <unk>
+four people in walking down a street with trees in the background . <eos> <eos> <eos> <unk>
+a little child is a a red ball . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a group of people are looking at a and and and looks over them . <eos> <unk>
+a budweiser - <unk> the on a a the the a in the background . <eos> <unk>
+the soccer team , , and and and blue uniforms . <eos> <eos> <eos> <eos> <eos> <unk>
+two girls are sitting in a wall and looking at a a . <eos> <eos> <eos> <unk>
+a football player in a red jersey standing standing a a . <eos> <eos> <eos> <eos> <unk>
+a man is another man as he plays the . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a woman with a <unk> a record her in a used a . <eos> <eos> <eos> <unk>
+a child standing standing by a and holds a and a . <eos> <eos> <eos> <eos> <unk>
+a band plays playing on stage in front of a crowd . <eos> <eos> <eos> <eos> <unk>
+a dog swims in the water with a red toy in its mouth . <eos> <eos> <unk>
+mother and and two children children feeding their hands . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+many three three children , three children , in in the in the . <eos> <eos> <unk>
+a woman in a is past past a white building with <unk> . <eos> <eos> <eos> <unk>
+a woman with a pink scarf is sitting on a bench . <eos> <eos> <eos> <eos> <unk>
+a man in a blue shirt is in the building a a building . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a woman in a black shirt and a capris capris walking down the street . <eos> <eos> <unk> <unk> <unk> <unk>
+two men sitting in a table with a calendar in front of <unk> . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man with a is standing standing on his head . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a red jacket and gray sweater and black pants is his . <eos> <eos> <unk> <unk> <unk> <unk>
+there is a woman with a woman with a woman standing in a a building . <eos> <unk> <unk> <unk> <unk>
+a soccer game features two teams team spiking the soccer ball . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a baseball player is performing the the air on a a fence . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man seems to to to a balcony in a roof of the . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a young girl is playing a and singing into a microphone . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a child is about to clean from a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a black dog in the the water with a tennis ball in its mouth . <eos> <eos> <unk> <unk> <unk> <unk>
+people walking on a a street in front of a a a grill . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man with a a a a a a girl in the beach . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a young girl smiles as and and her hand her camera in front of a . <eos> <unk> <unk> <unk> <unk>
+a man is talking to two others walk down the street . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a white dog with a collar is jumping off into the water . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a group of people in blue shirts are in a public area . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a woman and a child ride a the ocean . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man with glasses is his his his mouth hamburger hamburger hamburger a stove . <eos> <eos> <unk> <unk> <unk> <unk>
+a young man rides down the road , a road . <eos> <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a young man in a green shirt is sleeping a on the beach . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a mother and her child are her bike on a hill . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a brown and white dog and white dog on a the street . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+children are outside the window of a building with red and red building . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+the child is in a a room , which is gesturing with <unk> . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a boy is standing in a in the in in a a crowd . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two women with two bags walk down a dirt path . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+the little brown dog is wading through the leaves and leaves . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man with a a a is to a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is trying to his work on a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a girl in a yellow shirt blows a in a yellow room . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is <unk> with another standing in two girls . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a white dog dog dog is jumping to to catch a a frisbee . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a woman is a black and wearing a on her . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two men men are a a a at a marketplace . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a person is riding a the crest of a wave . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a group of people are rowing a boat a large body of water . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a construction worker in a mustard a building is pushing a cart . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a small child eating and and a and vegetables . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+the woman in a black shirt is a picture her her her her . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+an older man is looking through a to to his work . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a young man is on the a a white white white . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a young child and child are standing together . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two boys boys in with with ping - pong in a a tent . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man with a beard and glasses is a his his . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a bicyclist rider is the the the a a a graffitied . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a woman standing on a on a a rock rock overlooking a river . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a boy sits on a rock rock looking at the sun . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+several men are around a table a table a table . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a female entertainer is battling protect the face his his opponent . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a <unk> <unk> shapes while another guy standing around in his . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a race car is a boat on a body of water . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a bicyclist wearing a yellow leotard is bucked in the air . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a boy and a for a picture of a a a church . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two <unk> are wrestling for the camera michael jackson are for a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two girls are sitting in a table and eating chairs . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man and a woman sitting on the ground next to the . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is standing a a balcony looking at the . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man irons corn and a a child is a . . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a young man with a a a face paint his teeth . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a woman is a hog in a wooden ride . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a small baby in a pink shirt is sleeping baby . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a woman wearing a blue outfit is and staring out . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a bench in a sidewalk in the looking at a a . <eos> <unk> <unk>
+a man in a blue is walks past a wall holding a red graffiti . <eos> <eos> <eos> <unk> <unk>
+an elderly man with glasses and a white sits next to a fence . <eos> . <eos> <eos> <unk> <unk>
+several men standing in a race in a in a palm trees . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two women dressed in white and and , , walking down down the street . <eos> <eos> <eos> <unk> <unk>
+the woman is reaching for her while standing next to the street . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a girl with in a pink and sunglasses and holds holding a law . <eos> <eos> <eos> <eos> <unk> <unk>
+a bearded man holding a camera while a a a a <unk> . <eos> <eos> . <eos> <eos> <unk> <unk>
+a man in a is a newspaper and a a cane walking down the street . <eos> <eos> <unk> <unk>
+this man is the camera what boxes in a boxes in a in a city . <eos> <eos> <unk> <unk>
+a man and a woman sitting on a bench looking at a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a group of people in formal clothing dance at a a party . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two old men aged woman are listening a a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk>
+a young boy on on a swing , while his head is on the . <eos> <eos> <eos> <unk> <unk>
+a child is in the boat boat boat to the water the water . <eos> <eos> <eos> <eos> <unk> <unk>
+many people stand standing in in a a blue blue and yellow balloons . <eos> <eos> <eos> <eos> <unk> <unk>
+a woman , two young , while , both hands . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a blue shirt is a a bike with his thumb . <eos> <eos> <eos> <eos> <unk> <unk>
+a child in a blue shirt is a red ball and his racket . <eos> <eos> <eos> <eos> <unk> <unk>
+a man in glasses is listening to a microphone while a a his his . <eos> <eos> <eos> <unk> <unk>
+two girls girls are a a picture while their hands . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two men are a a a a a man is checking out the window . <eos> <eos> <eos> <unk> <unk>
+a woman and a young child are playing game game game game game . <eos> <eos> <eos> <eos> <unk> <unk>
+a small child is sitting a table table eating watermelon at a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+adults and children children a <unk> in a field field . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a crowd of people standing outside the the with with in the background . <eos> <eos> <eos> <eos> <unk> <unk>
+three people sit around a table with fold - round . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is bending over a a while holding his head . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a group of people are standing around a on on on on a . <eos> <eos> <eos> <eos> <unk> <unk>
+there are a person picking up a a valley on the woods . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a young man a a metal pot on a on a in a park . <eos> <eos> <eos> <unk> <unk>
+many asian women gathered in a a " " <unk> " <unk> . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a crowd of people are standing in the street in front of a white white . <eos> <eos> <unk> <unk>
+a woman with a woman with her clothes on her on her . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a band playing outside a a fountain on the the the . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+people are climbing climbing up a snow . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a young woman is jumping off of the middle of a a city . <eos> <eos> <eos> <eos> <unk> <unk>
+a boy is secured a little boy in in the in a a a . <eos> <eos> <eos> <unk> <unk>
+an elderly man is a dog while another dog dog is on his . <eos> <eos> <eos> <eos> <unk> <unk>
+a man standing on a dock next to a dock into a lake . <eos> <eos> <eos> <eos> <unk> <unk>
+a woman in a black dress is a a a a on on a walkway . <eos> <eos> <unk> <unk>
+a man holding a orange shirt is standing with a bicycle . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a red sailboat rider is a boat a a horse in its . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+people walking down a sidewalk sidewalk in front of a market . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+the football players are quickly preparation for a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+the bike race car rounds the turn to <unk> <unk> <unk> <unk> <unk> . <eos> <eos> <eos> <eos> <unk> <unk>
+a hiker is walking a a a a a in the middle of a . <eos> <eos> <eos> <unk> <unk>
+a man on stage playing guitar with with the background . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two men are riding a race car on a on a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man jumps into the air while others watch . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man wearing a helmet helmet helmet helmet his bike . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+this is a a and and and and a a a a bar . <eos> <eos> <eos> <eos> <unk> <unk>
+the boy jumps from the the from a a <unk> . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is lifting a <unk> of a in a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a group of people dressed in in red uniforms stand in a park . <eos> <eos> <eos> <eos> <unk> <unk>
+a man in glasses holds his his a red holds a orange sign . <eos> <eos> <eos> <eos> <unk> <unk>
+an older man is something in a boat . <eos> water . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a street corner with a woman man man is on his . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+an old man in a blue and blue shirt is against a white building . <eos> <eos> <eos> <unk> <unk>
+a woman standing next to two people look at the the . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a fire <unk> <unk> <unk> <unk> . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man and a woman walk on a a stairway looking at a . <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a red shirt is looking at a a building . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a child with a blue hat stands standing a crowd of people . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a soccer , the , one another child while another person watches . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a young lady wearing a <unk> in the crowd picture picture taken . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+the guy in a red shirt is doing a trick on a trick . <eos> <eos> <eos> <eos> <eos> <unk>
+two men , one one another one kicking a game game on a . <eos> <eos> <eos> <eos> <eos> <unk>
+two fencers , one with a with a , , <unk> in a a bout . <eos> <eos> <eos> <unk>
+a man is wearing a wearing a blue shirt and a cane is a a a . <eos> <eos> <unk>
+people are in a boat a boat boat boat the the the . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a closeup of a woman on a small blue in in . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is kicking a soccer ball and a blue and blue ball . <eos> <eos> <eos> <eos> <eos> <unk>
+several people standing around a tent , one person holding a a a a . <eos> <eos> <eos> <eos> <unk>
+a woman sings into a microphone while a man plays the the the background . <eos> <eos> <eos> <eos> <unk>
+a brunette woman is a is a with a man wearing a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a construction worker in a orange shirt is on a a a a crowd while the crowd . <eos> <unk>
+a toddler in in a blue shirt is with a woman wearing glasses . <eos> <eos> <eos> <eos> <eos> <unk>
+a little boy boy wearing a blue and and white shirt standing on the beach . <eos> <eos> <eos> <unk>
+people in white hats march in a while while holding hands . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two girls are together and one of a a a and a and . <eos> <eos> <eos> <eos> <eos> <unk>
+this image of the image of a and and and a <unk> in a <unk> . <eos> <eos> <eos> <unk>
+a group of people sitting at a table table table with a and and . <eos> <eos> <eos> <eos> <unk>
+a man is holding a on while while while standing in the . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a young woman is noodle noodle with a red bucket of a a gym . <eos> <eos> <eos> <eos> <unk>
+a young man in a gray coat stands standing in a a a concert . <eos> <eos> <eos> <eos> <unk>
+three people relax on the beach , standing near the ocean . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two people with white uniforms walking on sidewalk talking on their . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+the black dog is jumping in the water while a ball near near a . <eos> <eos> <eos> <eos> <unk>
+a man is a picture while another another man , a a a a . <eos> <eos> <eos> <eos> <unk>
+a man with a <unk> <unk> is painting a a <unk> <unk> <unk> . <eos> <eos> <eos> <eos> <eos> <unk>
+two girls are sharing a and a and a blue on on their . <eos> <eos> <eos> <eos> <eos> <unk>
+a bicyclist rides a dirt bike as he comes up . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+the bike a a a a bike as he rides on dirt bike . <eos> <eos> <eos> <eos> <eos> <unk>
+a boy in blue soccer soccer soccer ball about to to hit the ball . <eos> <eos> <eos> <eos> <unk>
+a bride and groom are while others stand while standing around . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a woman in a green shirt is on a a a microscope . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a woman in a black shirt is looking to a a car . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+three children wearing wearing blue and and jumping jumping jumping around a dirt . <eos> <eos> <eos> <eos> <eos> <unk>
+a blond woman in a pink shirt with a a camera camera . camera . <eos> <eos> <eos> <eos> <unk>
+a woman in a white shirt and white is sleeping on a blanket on a . . <eos> <eos> <unk>
+a black dog is in the water water holding a stick in its mouth . <eos> <eos> <eos> <eos> <unk>
+the young girl is confetti from the the the the her arms . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a white shirt is in the a a a road . <eos> <eos> <eos> <eos> <eos> <unk>
+a black dog runs in a stick in a white dog in its mouth . <eos> <eos> <eos> <eos> <unk>
+a man and a are playing with a sand on on a beach . <eos> <eos> <eos> <eos> <eos> <unk>
+a girl in a white white white and white shorts is preparing to hit a ball . <eos> <eos> <unk>
+a man and a are sitting in front of a aquarium , some <unk> . <eos> <eos> <eos> <eos> <unk>
+a man in a red shirt is standing front of a group of a a sign . <eos> <eos> <unk>
+a dog walks through a a a a <unk> <unk> in a on a snow . <eos> <eos> <eos> <unk>
+people on the beach in the coaster coaster in the water loop loop loop loop loop loop . <eos> <unk>
+a young woman in a a a blue shirt eats food food on a . <eos> <eos> <eos> <eos> <unk>
+a bald man wearing a a red shirt sits sitting in a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a blond - haired woman is looking at the camera of her hand . <eos> . <eos> <eos> <eos> <unk>
+a little boy is a a a a a a in a a wood . <eos> <eos> <eos> <eos> <unk>
+a man is playing with a boy with a toddler is on the <unk> a nose . <eos> <eos> <unk>
+two men are trying to take a <unk> on a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a bearded man wearing a a beard is a a microphone a microphone . <eos> <eos> <eos> <eos> <eos> <unk>
+a group of bicyclists riders travel up a a track track . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is walking past a ladder to a <unk> <unk> . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man wearing a green shirt works on a piece of wood . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+an elderly man is on the floor while a man is looking at the camera . <eos> <eos> <eos> <unk>
+the man in the is is a <unk> his hand in a blue shirt . <eos> <eos> <eos> <eos> <unk>
+three girls are in a one one is on the . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a group of people are standing a a river in a city city . <eos> <eos> <eos> <eos> <eos> <unk>
+a woman in a pink shirt is her ipod while standing outside a a . <eos> <eos> <eos> <eos> <unk>
+a man wearing a brown and a glasses is sitting on the . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a young man is in a stick in the backstroke in a a blue bucket . <eos> <eos> <eos> <unk>
+a woman and two woman are two on the beach , and and the the the air . <eos> <eos> <unk>
+the woman in a white dress has her the the the man in in in in her . <eos> <eos> <unk>
+a group of women are in a a room , and and and a <unk> . <eos> <eos> <eos> <eos> <unk>
+a man in a black and blue shirt is holding a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a child in a red shirt is the a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a rodeo rider is a bucking horse bucking bull while he bucking bull bucking bull . <eos> <eos> <eos> <eos> <unk>
+men in white hats on on stage with a stage and a horn . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+men are sitting in a a dock , a beauty of a and and . <eos> <eos> <eos> <eos> <eos> <unk>
+two men are a a boat in a boat , and and and . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man with a blue is reading the the phone while the the the the the . <eos> <eos> <eos> <unk>
+a person in a red and blue shirt is the the the of a wall . <eos> <eos> <eos> <eos> <unk>
+two men in black shirts and and and and and a in front of a crowd . <eos> <eos> <eos> <unk>
+a group of hikers walking down the street with flags and flags and flags . <eos> <eos> <eos> <eos> <eos> <unk>
+there is a hockey game played in the middle of local . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a little girl in a dress is looking at the camera in a in a black a . <eos> <eos> <unk>
+the images and n't see the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> . <eos> <eos> <eos> <eos> <eos> <unk>
+<unk> in in in a church , a a judge in a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a boy in a monster hat is a a a a a a pool . <eos> <eos> <eos> <eos> <eos> <unk>
+a man on a a a a a a in a in a day . <eos> <eos> <eos> <eos> <eos> <unk>
+a man man in a gray jacket is sitting on a a a a newspaper . <eos> <eos> <eos> <eos> <unk>
+a skier flies through the air while while while while he looks through the . <eos> <eos> <eos> <eos> <eos> <unk>
+two children are on a blue and and black and black and in in the background . <eos> <eos> <eos> <unk>
+a man with a camera on his head while looking at a <unk> <unk> . <eos> . <eos> <eos> <eos> <unk>
+a young woman in a pink sweater is getting a a a a rodeo . <eos> <eos> <eos> <eos> <eos> <unk>
+a young woman with blond - hair and a pink is a a picture of a camera camera . <eos> <unk>
+a couple walk past a building a store store and and and <unk> . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+many people are waiting patiently waiting waiting for the freshly getting ready for the camera . <eos> <eos> <eos> <eos> <unk>
+four men in matching hats and red uniforms wait outside a street in the street . <eos> <eos> <eos> <eos> <unk>
+five men in in white hats stand in white standing next to a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two people , hiking gear are are sitting on a public area . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a black black black standing standing the the the clarinet playing with his music . <eos> <eos> <eos> <eos> <eos> <unk>
+the girl and a boy are while sitting on on a bench . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+the man in the white and and sunglasses is holding his his . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a white shirt and white shirt is a in in fountain fountain fountain . <eos> <eos> <eos> <unk>
+people in the picture of the man in a in the street . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two women wearing in in and and and are talking in front of a store . <eos> <eos> <eos> <eos> <unk>
+an elderly man in a turban is holding a stick in standing on a hillside . <eos> <eos> <eos> <eos> <unk>
+two children are a a a beach , while on the beach on the the . <eos> <eos> <eos> <eos> <unk>
+a little brown brown dog is standing on the of the of a attached to . <eos> <eos> <eos> <eos> <unk>
+a young girl is is standing on a couch with a girl with her her . <eos> <eos> <eos> <eos> <unk>
+a man wearing a red shirt is a trick on his skateboard . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a young girl wearing a pink shirt is walking on a a fence . <eos> . <eos> <eos> <eos> <eos> <unk>
+a group of women are dancing in a room with and and and and . <eos> <eos> <eos> <eos> <eos> <unk>
+players in blue white white jerseys are on the after playing hockey . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a woman wearing a shopping bag is directing a easel hanging out of the . <eos> <eos> <eos> <eos> <eos> <unk>
+a man with a and and a girl in a swimming in a a pool . <eos> <eos> <eos> <eos> <unk>
+the elderly woman is is and enjoying a beautiful day in the beautiful day . <eos> <eos> <eos> <eos> <eos> <unk>
+a child in a white jumps into a object while others children look on . <eos> <eos> <eos> <eos> <eos> <unk>
+a man with a blue is a red and his his camera and a a camera . <eos> <eos> <eos> <unk>
+a man walking a a a of a and and next to a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a young woman is the and and and smiling at a sitting at a . <eos> <eos> <eos> <eos> <eos> <unk>
+a woman in a red shirt and blue shirt is something in a airplane . <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a white shirt is standing on the sidewalk . <eos> <eos> . <eos> <eos> <eos> <eos> <eos> <unk>
+two men are talking a a while a while standing on them . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a little girl wearing a pink is wearing a her eyes closed is riding her . <eos> <eos> <eos> <eos> <unk>
+a young boy in a yellow shirt is the a a with two children . <eos> <eos> <eos> <eos> <eos> <unk>
+two women stand in a a room , talking to each other . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a person in a blue shirt is on the a a a a red wall . <eos> <eos> <eos> <eos> <unk>
+a woman in a blue shirt and and jeans is walking in a a <unk> . <eos> <eos> <eos> <eos> <unk>
+a person about to throw a bowling ball court in a bowling alley . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a young boy in a green shirt is standing in front of a in a beautiful green water . <eos> <unk>
+a group of people are a a man in a and a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a woman sits next to her and and a a a market . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+this this photo this this is a a a <unk> , <unk> <unk> . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+there is a man in a red and blue shirt and a red shirt on her . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a beautiful <unk> is a sled and and and and walking through a city . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a young boy wearing a red and shirt plays playing a black guitar . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a man in a gray shirt , gray sweater , black black hat is playing playing a ukulele . <eos> <eos> <eos> <eos> <eos> <eos>
+two men in the a a a a beach at the beach at the the . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a dirt biker rider rider in the dirt track , a dirt with a race . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+there is a bus on a busy street with a street with on the street . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a woman in white , white white and white , white shirt and white looks at a a stick . <eos> <eos> <eos> <eos> <eos>
+the football player wearing a red and blue and and and blue . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+two women are a , , , , and and and and walks away from them . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+people are a in a a a room with a and and and and . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a child wearing a gray jacket and hat is is a a on a wooden . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a girl wearing a white , white shirt and black , , playing volleyball . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+several children are as while sitting on a room in a a classroom . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a young man in a a shirt and a shirt is looking at the at a beach . <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a woman is playing golf ball a ball a ball while a ball in her racket . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+men in orange suits wait for a to a waiting to to to the subway . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a shirtless with with a skateboarding on the sidewalk with a white . . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a woman in a pink shirt is a a a a a a with her face . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a man and a woman are at a table while they are at a restaurant . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a woman is next to a a man while holding a man in her face . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a young woman is standing a microphone while holding a microphone holding a guitar . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a little girl is laying on the floor looking at the while looking at a picture . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+two construction workers installing <unk> on a <unk> of a site on a busy street . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a group of children are sitting on a a man is looking at a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+six three women wearing white and white and white skirts are are are and a synchronized . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a woman and a woman walking on a a a a a man is behind them . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a man in a a black shirt stands standing in the middle of a crowded venue . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a group of people in in blue shirts and blue are walking in the . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a young boy boy boy girl are a girl in the peace sign . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+young women and children in a a a a a in the camera . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a soccer game game is trying to to to the players to keep the the scoring scoring scoring scoring scoring . <eos> <eos> <eos> <eos>
+a little girl is playing with a a gym with a , and and and and . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a construction athlete in a <unk> is being <unk> <unk> <unk> . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a boy with a a shirt and shirt shirt is standing in a parking lot . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a girl in a black and and shorts is looking at a other people people . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+two men men are selling and and and and and and and and . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+two competitors , one wearing red and one in , white , in in the water . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a man in a apron is thinking at something he he he is his his . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+there are many people in a building with a <unk> on the . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a man and a woman in stand in the other in the street . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a man and a woman walk walking on a beach at the sea a sea . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a woman is using her kitchen counter of a on the local park . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+several children , wearing hats and hats , are around them . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a man sits on a blue chair and blue , while standing on the street . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a person is standing next to a tree tree surrounded by the . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+many people are gathered people watching people , playing a and and and and a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a young boy boy boy with a red and and white and white and next to a . <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+two women sitting on chairs on a on a on a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a boy in a blue shirt on a bicycle in the the <unk> a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a man in a red shirt and white shirt selling selling a on a busy street . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+this is a picture of a woman , and and and a woman is coming out the the the the the the distance . <eos>
+a black man in a shirt is talking on the phone while listening to him . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a construction worker in a worker in a black and blue shirt is his his his his his his . <eos> <eos> <eos> <eos> <eos>
+a crowd of people in a county with areas and and . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a man in a white shirt and white shirt is a a a tree in a parking lot . <eos> <eos> <eos> <eos> <eos> <eos>
+a man wearing a red shirt and a white pants standing in front of a sign . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+there is a a bicycle snowing snowing and and and and his bike . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a group of young women in a a a , one is lifting their hands . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a bearded man in a a shirt shirt is shirt is his his his his his his his his . <eos> <eos> <eos> <eos> <eos>
+a little boy in a blue shirt and a boy playing with a a gun . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a man in a black shirt is looking at a table in a grill in a grill . <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a man wearing a black shirt is playing his guitar bass instrument on stage . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a woman in a white shirt and sunglasses is walking down a sidewalk . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a young boy wearing a baseball mitt swings a a ball ball in a a ball . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a a a a a a a a a a a saxophone , standing on the road . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a group of young , <unk> <unk> attentively , while as a a a game game game game . <eos> <eos> <eos> <unk> <unk> <unk>
+a person wearing a gear , his camera in a a in the mountains in a river . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a chef <unk> <unk> <unk> , <unk> , <unk> <unk> <unk> <unk> <unk> drawings drawings . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+an elderly man sits sitting on a bench next a a a sign that says " " " " " <eos> <eos> <unk> <unk> <unk>
+a couple sit on a bench talking to a bench with a a in the background . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two women in blue uniforms sit on the sidewalk , a a and a and and and . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+an asian woman braided hair , wearing a shirt , a scarf and sunglasses and jacket . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two hockey players stand in the puck , the puck in the puck tackler . <eos> puck . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a painter is putting on his guide and and and <unk> <unk> to repair the finish line . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+three women women in a a classroom , one of a <unk> , one in the camera . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a parade of children and and sitting and standing and and and and and and <unk> . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man with long hair , and a beard , a beard sitting sitting on grass . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men are looking at the doorway of a to be a <unk> to to their . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+the girl in a is about to the softball to throw the ball ball on the ball . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+three women are sitting on a couch couch , one holding a and a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk>
+a little girl is a <unk> of of the doorway of a of a white white white white . <eos> <eos> <eos> <unk> <unk> <unk>
+three girls are a conversation with a man in a stand on a street street . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+the man and women are looking at the a <unk> of a <unk> for a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man <unk> <unk> <unk> another man with another man who is on a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two asian , one male and a a , , a a mirrored mirrored a a mat . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a young person in a blue shirt and is the the the snow covered in the sky . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+several people enter the the window of a window of a shop , a projected <unk> . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+an elderly man with a turban is exiting a torch down a city street . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a police is a a guide a while the while while others watch him . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man with a backpack is on a road road and and he is . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a group of people wearing blue shirts and and and and and playing playing and . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is on a a pile of a fence , which is in front of a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a white hat is standing front of a a a a a fence that has a fence . <eos> <unk> <unk> <unk>
+two teams , one in one and one other in white , are playing the playing in a field . <eos> <eos> <unk> <unk> <unk>
+two asian , a young girl and a woman , standing on a standing on the shade . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a vendor is sitting in the street selling a shop selling a busy market in a city . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a woman is swaddled in her her her child with a child with a baby in a mirror . <eos> <eos> <eos> <unk> <unk> <unk>
+a little girl in a pink shirt playing with with a ball with a blue fence next to a fence . <eos> <unk> <unk> <unk>
+two young girls in dresses are sitting in the steps in front of a a a toys . <eos> . <eos> <eos> <unk> <unk> <unk>
+two boys are competing in now mound of the mound of a ball . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a black woman wearing black is is on a a a a a in front of a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a dark suit is a saxophone in a of the subway platform . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+some <unk> a <unk> <unk> a africa a man in a fishing in the the ocean . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a boy in a red and shorts is holding a ball and and standing in a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a mustard jacket and standing standing in a street . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a reporter is a <unk> his arm around his toes while while wearing batman . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a girl is eating a piece of paper in her desk in her <unk> " <unk> . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a boy in a red shirt is looking at a a man in a shirt . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a white shirt and white pants sits sitting a stool in a pizza . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man with a tattoo on a a crab face in a on a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is <unk> <unk> <unk> on the the air during a football . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+there are three people playing instruments and and and and the other . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a group of men , women , and , , , are standing on the beach . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+three children stand standing next to a next to a a a a fence . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two people are eating a kitchen , while enjoying a third is is a drink . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man looks at his a a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man wearing a and a protective gear is a white horse over over a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men , one in red and one in red , a a a baseball game . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two people are by a bus and and and a and graffiti painted in graffiti . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+there is a man a baby boy on a a a a on a on the snow . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+an elderly man wearing a red and blue shirt is sitting on a sidewalk . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man and a woman are walking past a past two <unk> . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a boy in a black shirt is a a a a while two other black and white . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a black man in a black shirt and black shirt sits on the sidewalk holding a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man man wearing a red shirt and a blue shirt standing in a building . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+many people walking walking on a on a a sunny day on a sunny day . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a group of people on on the the beach , a beach near the the the . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two people , one wearing , one wearing , , , , , , , , , , , , , the middle of the middle of the background . <eos> <unk> <unk>
+an african woman and woman are , received received each other , the other , the <unk> and <unk> and <unk> and <unk> and <unk> . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a woman in a a a shirt , while a while while while another man in a black and a man wearing a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man wearing a white shirt and a tee tee - shirt is the hitchhiking hitchhiking hitchhiking hitchhiking hitchhiking , and the background . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a guy is glancing down a <unk> , while a <unk> <unk> <unk> <unk> <unk> drop drop drop drop <unk> <unk> <unk> <unk> <unk> . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a young young boy sits on a <unk> of a and and and and and and and and and and playing and the kitchen . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a blue shirt is holding a sign that says " <unk> of a mirror that says " <unk> " <unk> " <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two men in a , one of , one one one one of one of the other in the other . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+there are a <unk> in the street and and and and and and and and a and and and and and and . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a woman and a woman are on on a on a sidewalk , a a a a and a building . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a dark - haired woman wearing a red streaks in a red holds a a a a a a - shirt - shirt . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a woman sits on a a a a a a a a next to a magazine , holding a her . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two people are with a , one of a , one of a person is the the the the the the the the the . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+four children are wait for the camera camera as they are and they are walking down a a street . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man sitting at a a table eating something , while sewing machine on a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two men , white shirts and one playing and one of a third are are are outside the the the the . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man wearing a dark shirt is shielding his <unk> of a a a a a a a building . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a white shirt is looking at the camera while another woman in a a a white shirt white shirt . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+sitting in a a a asian woman is eating a woman in a a person holding a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+workers in a in a a a a a a , a <unk> of a ladder to the the wall . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a asian woman sitting sitting sitting at a table wearing a wearing a wearing a red dress . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a woman with a a a a a a a a a a a a a street walking down a street . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a woman woman in a blue jacket sits on the ground on a white dog on her her . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a baseball player in a red and white white white is the air while the the sidelines . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a little girl in a a pink shirt , a henna to her hand in a a a a vacuum cleaner . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two men look at a picture while a a a and and and one is the the the . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+riot and a blue car , one of a a a a car in a car next to a fence . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a golden dog is in a a a a a a a black and black black collar . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a little girl girl is sitting in a black in a a with with a with her face . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a woman in a white shirt and black black black shirt is a crowd of people crowd crowd . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+there is a group of a riot gear walk down a yellow and a yellow and a white building . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+the <unk> is the the with a a a a <unk> and <unk> and <unk> his the the . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a person in a a shirt and a blue jeans is on a wall wall wall wall wall with a wall with a <unk> . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a woman in a red shirt and a a a camera , her hand , the camera in the camera . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a young child in a red shirt is a a a a young boy in a vacuum cleaner on his . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a bearded man in a turban is his beard who is a a a sitting on a on a table . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man wearing a a shirt is sitting in a camera at the the the the . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a guy in a yellow shirt and a a bicycle in the road in a a large and a bike . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a young blond boy walking down the the beach the beach , wearing a blue shirt and blue shirt . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a boy in black and girl standing in the in in a in a circle in in the background . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a blond woman in a a a a blue and a a street holding a street holding a in the background . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+an elderly man with a a a a gray shirt and sunglasses and standing next to a brick wall . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+two young girls are playing the white , one is the other the other the other . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a white shirt and shirt is playing the the camera while a man in white shirt . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a green shirt is a a camera while while while while a beach . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man with a curly hair , a a woman in a woman sitting in a a a street . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a woman in a a table , a a note , holding a a <unk> . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a young woman haired woman with a a a red holding holding a white white white blouse in a in a crowd . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a young woman with devil is wearing a and a and a children in a in the river . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a black woman haired woman wearing a black a black and black and a red bead to laundry . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a line of volunteers are a a a a a a a a a a <unk> . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a young blond - haired wearing a , a eyes closed is is on a dock . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+three women wearing in dresses and unkempt stand on a a a sidewalk while sitting on them . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a collection of a , wearing a red robes and the a building with items and a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk>

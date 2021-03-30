@@ -1,0 +1,1014 @@
+the two people are in a . . <eos> <eos> <eos> <unk> <unk> <unk>
+two men are in a match . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+three men are playing with a . . . <eos> <eos> <unk> <unk> <unk>
+a construction worker is on a . . <eos> <eos> <eos> <unk> <unk> <unk>
+people are a a a . . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a crowd is in a in a . <eos> <eos> <eos> <unk> <unk> <unk>
+a woman is a a a . . <eos> <eos> <eos> <unk> <unk> <unk>
+a woman woman is a a a . . <eos> <eos> <unk> <unk> <unk>
+a speaker is is taking a . . <eos> <eos> <eos> <unk> <unk> <unk>
+the children are playing in a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a boy is a a a a a . . <eos> <unk> <unk> <unk>
+a young girl is in a the water . <eos> <eos> <unk> <unk> <unk>
+two men in in shirts are in . <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a blue is a a . . <eos> <unk> <unk> <unk>
+a couple is on a street . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a race is running through the water . <eos> <eos> <eos> <unk> <unk> <unk>
+a group of people are performing a . <eos> <eos> <eos> <unk> <unk> <unk>
+a dog running through the grass . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a brown dog is on a a . <eos> <eos> <eos> <unk> <unk> <unk>
+two dogs dogs running in the grass . <eos> <eos> <eos> <unk> <unk> <unk>
+two dogs are running in the grass . <eos> <eos> <eos> <unk> <unk> <unk>
+four men in in a in a . <eos> <eos> <eos> <unk> <unk> <unk>
+a boy is on a a rock . <eos> <eos> <eos> <unk> <unk> <unk>
+people is a a a a a . . <eos> <eos> <unk> <unk> <unk>
+a young girl is a a a . . <eos> <eos> <unk> <unk> <unk>
+a young boy is in a pool . <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a . . <eos> <unk> <unk> <unk>
+a young boy is in a in the grass . <eos> <unk> <unk> <unk>
+a man in a is a a . . <eos> <eos> <unk> <unk> <unk>
+two men are in a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a dog dog is wearing a white dog . <eos> <eos> <unk> <unk> <unk>
+people are in a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+three dogs are running in the grass . <eos> <eos> <eos> <unk> <unk> <unk>
+a man is on a a . . <eos> <eos> <eos> <unk> <unk> <unk>
+two men are standing in a a . <eos> <eos> <eos> <unk> <unk> <unk>
+a band is performing a a . . <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a . . <eos> <eos> <eos> <unk> <unk> <unk>
+the children are playing in a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a in the . <eos> <eos> <eos> <unk> <unk> <unk>
+a pitcher is running in the . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a woman is a a a a a . . <eos> <unk> <unk> <unk>
+a boy is a a swing . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a group of people on a sidewalk . <eos> <eos> <eos> <unk> <unk> <unk>
+three dogs are running in the grass . <eos> <eos> <eos> <unk> <unk> <unk>
+a man is on a rock wall . <eos> <eos> <eos> <unk> <unk> <unk>
+people are a a in a . . <eos> <eos> <eos> <unk> <unk> <unk>
+two dogs are running in the grass . <eos> <eos> <eos> <unk> <unk> <unk>
+a man is on a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a . . <eos> <eos> <eos> <unk> <unk> <unk>
+two men are on a street . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+three children playing in a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a group of people in a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+three dogs are in a race . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+people are in a in a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a woman is a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a . . <eos> <eos> <eos> <unk> <unk> <unk>
+a person is a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a snowboarder is a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men are in a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+people are a a a . . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two people are on a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+three men in in a a . . <eos> <eos> <eos> <unk> <unk> <unk>
+a construction worker is a . . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a . . <eos> <eos> <unk> <unk>
+two men are on a snowy hill . <eos> <eos> <eos> <eos> <unk> <unk>
+a woman is a a a a a . . <eos> <eos> <unk> <unk>
+people are a a a a a . . <eos> <eos> <eos> <unk> <unk>
+a bike rider is a a a a . <eos> <eos> <eos> <unk> <unk>
+people are a a a a . . <eos> <eos> <eos> <eos> <unk> <unk>
+two young girls are in a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a woman is a a a . . <eos> <eos> <eos> <eos> <unk> <unk>
+people are a a in a a . <eos> <eos> <eos> <eos> <unk> <unk>
+several people are walking a a a a . <eos> <eos> <eos> <unk> <unk>
+a man and a woman are walking down the street . <eos> <unk> <unk>
+two people are a a a a . . <eos> <eos> <eos> <unk> <unk>
+a is a a a a . . <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a a shirt is a . <eos> . <eos> <unk> <unk>
+a orchestra is playing a a . . <eos> <eos> <eos> <eos> <unk> <unk>
+three men are in a a a . . <eos> <eos> <eos> <unk> <unk>
+three men in in in a a . . <eos> <eos> <eos> <unk> <unk>
+a young boy is playing a a . . <eos> <eos> <eos> <unk> <unk>
+a group of people are performing a . <eos> <eos> <eos> <eos> <unk> <unk>
+a crowd of people in a of people . <eos> <eos> <eos> <unk> <unk>
+a boy is on a a a a . <eos> <eos> <eos> <unk> <unk>
+a surfer is a a a the forest . <eos> <eos> <eos> <unk> <unk>
+two people are in a a a a . <eos> <eos> <eos> <unk> <unk>
+a woman is a a and white floaties . <eos> <eos> <eos> <unk> <unk>
+a woman in a red jacket is riding a . <eos> <eos> <unk> <unk>
+a brown dog is running through the grass . <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <unk> <unk>
+a biker is a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+two men are in front of a in the . <eos> <eos> <unk> <unk>
+two men are walking down a street . <eos> <eos> <eos> <eos> <unk> <unk>
+a man is in a in the water . <eos> <eos> <eos> <unk> <unk>
+two young men are in a in the water . <eos> <eos> <unk> <unk>
+men in in in in a in . <eos> <eos> <eos> <eos> <unk> <unk>
+a crowd of people walking in a . <eos> <eos> <eos> <eos> <unk> <unk>
+five people in in a are performing a . . <eos> <eos> <unk> <unk>
+a <unk> is is a a a . . <eos> <eos> <eos> <unk> <unk>
+a woman with a woman is a a . <eos> . <eos> <unk> <unk>
+four people are in front of a . . <eos> <eos> <eos> <unk> <unk>
+three people are in a in a . <eos> <eos> <eos> <eos> <unk> <unk>
+two men are in a a a . . <eos> <eos> <eos> <unk> <unk>
+a man is on a a a . . <eos> <eos> <eos> <unk> <unk>
+a group of men are in a . <eos> <eos> <eos> <eos> <unk> <unk>
+two men in in in are in a . <eos> <eos> <eos> <unk> <unk>
+a construction worker is a a a . . <eos> <eos> <eos> <unk> <unk>
+a man in a red jacket is running a . <eos> <eos> <unk> <unk>
+a woman is a a a a . . <eos> <eos> <eos> <unk> <unk>
+a young girl is in a a . <eos> <eos> <eos> <eos> <unk> <unk>
+three men are walking down a snowy hill . <eos> <eos> <eos> <unk> <unk>
+a girl is a a a a . . <eos> <eos> <eos> <unk> <unk>
+construction workers are a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a woman is a a a a . . <eos> <eos> <eos> <unk> <unk>
+a person is a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a man is sitting a a a a a a . <eos> <unk> <unk>
+a brown dog is a a ball . . <eos> <eos> <eos> <unk> <unk>
+children are a a a . . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man in a black is a . <eos> <eos> <eos> <eos> <unk> <unk>
+a construction worker is a the . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <unk> <unk>
+a man is a a a a a . <eos> <eos> <eos> <unk> <unk>
+a child is a a a . . <eos> <eos> <eos> <eos> <unk> <unk>
+men in in in in a . <eos> <eos> <eos> <eos> <eos> <unk> <unk>
+a woman is on a a a subway . <eos> <eos> <eos> <unk> <unk>
+two people are standing in front of a . <eos> <eos> <eos> <unk> <unk>
+people are a a a a . . <eos> <eos> <eos> <eos> <eos>
+two men are in a a a . . <eos> <eos> <eos> <eos>
+a man and woman woman are walking down a street . <eos> <eos>
+a woman in a a dress is in a crowd . <eos> .
+two men are sitting in a a . . <eos> <eos> <eos> <eos>
+two men are playing a a . <eos> . <eos> <eos> <eos> <eos>
+a young girl is on a a a . <eos> <eos> <eos> <eos>
+a group of people are in a a . <eos> <eos> <eos> <eos>
+a brown dog is running in the grass in the grass . <eos>
+two people are on a path in a . <eos> <eos> <eos> <eos>
+a man in a black shirt is a . <eos> <eos> <eos> <eos>
+a woman in a a shirt is a a a . <eos> <eos>
+a young girl is a a a her teeth . <eos> <eos> <eos>
+a girl is wearing a a and white shirt . <eos> <eos> <eos>
+a boy is a a a a a . <eos> <eos> <eos> <eos>
+two dogs are in a in a in the . <eos> <eos> <eos>
+a group of people sitting a table table table . . <eos> <eos>
+a group of people are in a a . <eos> <eos> <eos> <eos>
+a man is a a a a . . <eos> <eos> <eos> <eos>
+a is a is a people in the . . <eos> <eos> <eos>
+two dogs are running in a a . <eos> <eos> <eos> <eos> <eos>
+two men are in a a in a . . <eos> <eos> <eos>
+two men in in in a . <eos> <eos> <eos> <eos> <eos> <eos>
+a woman and a a a a . <eos> . <eos> <eos> <eos>
+a group of people are sitting in a . . <eos> <eos> <eos>
+a woman is a a a a a . <eos> <eos> <eos> <eos>
+the in in in are running in the grass . <eos> <eos> <eos>
+a black and white dog is running in the grass . <eos> <eos>
+two men are in front of a a . . <eos> <eos> <eos>
+four men are sitting on a a a a . . <eos> <eos>
+a man in a a is a a a microphone . <eos> <eos>
+a man in a blue shirt is a . <eos> <eos> <eos> <eos>
+two men are playing a a match . . <eos> <eos> <eos> <eos>
+a woman woman is a a a a . . <eos> <eos> <eos>
+a photographer is is a two people in the . <eos> <eos> <eos>
+a brown dog is running in the grass in the grass . <eos>
+three people are walking down a a a a . <eos> <eos> <eos>
+a woman with a hair is a a . <eos> . <eos> <eos>
+two men in in in are running in the beach . <eos> <eos>
+a man and a woman are walking down the street . <eos> <eos>
+a band is playing a a a a . . . <eos> <eos>
+a man is wearing a a and wearing a . <eos> <eos> <eos>
+a person is a a in the water . <eos> <eos> <eos> <eos>
+a dog is running through a in the grass . <eos> <eos> <eos>
+a boy in a blue is a a . <eos> <eos> <eos> <eos>
+a group of people are in a a . . <eos> <eos> <eos>
+a dog is a the air in the . <eos> <eos> <eos> <eos>
+a brown dog is a a a a . . <eos> <eos> <eos>
+three people are in a a a . . <eos> <eos> <eos> <eos>
+a man in a black hat is a a . <eos> <eos> <eos>
+a photographer is a a a a a . <eos> <eos> <eos> <eos>
+a man and a woman are walking in the beach . <eos> <eos>
+two people are on a a a a a . <eos> <eos> <eos>
+a man is a a a a a . . <eos> <eos> <eos>
+a young girl is in a in the beach . <eos> <eos> <eos>
+a group of young people are standing in a . . <eos> <eos>
+three young men are in a in a . . <eos> <eos> <eos>
+three men are in a in a . <eos> <eos> <eos> <eos> <eos>
+men in in in in a . <eos> <eos> <eos> <eos> <eos> <eos>
+a woman is a a two people . . <eos> <eos> <eos> <eos>
+a construction worker is a a of a . . <eos> <eos> <eos>
+a woman woman is a a a a . . <eos> <eos> <eos>
+two men are walking down a a snowy hill . <eos> <eos> <eos>
+people are in a in a race . <eos> <eos> <eos> <eos> <eos>
+a group of people are in a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a woman and two woman are sitting in front of a . <eos> <eos> <unk>
+a skier is a a a a snowy hill . <eos> <eos> <eos> <eos> <unk>
+three children play in a in a in the grass . <eos> <eos> <eos> <unk>
+a woman is a a two women in a . <eos> <eos> <eos> <eos> <unk>
+a man in a hat is a a a a . <eos> <eos> <eos> <unk>
+a young girl is a a a a the . <eos> <eos> <eos> <eos> <unk>
+a snowboarder is a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+two men are walking down a street in a street . <eos> <eos> <eos> <unk>
+a man and a man is a a a a . <eos> . <eos> <unk>
+a snowboarder is a trick on a a a . <eos> <eos> <eos> <eos> <unk>
+many people sitting a table table table . . . <eos> <eos> <eos> <eos> <unk>
+a dog is a a a in a in the . <eos> <eos> <eos> <unk>
+two brown dogs on a on a snowy hill . <eos> <eos> <eos> <eos> <unk>
+a young boy is a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a white is in a in a . <eos> <eos> <eos> <unk>
+a man is a a a a a . . <eos> <eos> <eos> <eos> <unk>
+a man is sitting on a a a a . . <eos> <eos> <eos> <unk>
+a man in a black shirt is a a . . <eos> <eos> <eos> <unk>
+a race car with a a a in the . <eos> <eos> <eos> <eos> <unk>
+a brown dog is a a a with a . <eos> <eos> <eos> <eos> <unk>
+a man is a a a snowy hill . <eos> <eos> <eos> <eos> <eos> <unk>
+a brown dog is running through the grass . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is on a a a street . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a and a . . <eos> <eos> <eos> <eos> <unk>
+a brown dog is running a grass in the grass . <eos> <eos> <eos> <unk>
+two people are a a a a . . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <unk>
+a woman in a a is a a a in the background . <eos> <unk>
+a dog is a a ball and white dog . <eos> <eos> <eos> <eos> <unk>
+a woman in a hair is a a a . <eos> . <eos> <eos> <unk>
+a man is a guitar and a a . . <eos> <eos> <eos> <eos> <unk>
+a black and white dog is running in the grass . <eos> <eos> <eos> <unk>
+a man is a a a in a in the background . <eos> <eos> <unk>
+a man is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a . . <eos> <eos> <eos> <eos> <unk>
+a girl is a a a a a . . <eos> <eos> <eos> <eos> <unk>
+a man is sitting on a chair on a . <eos> <eos> <eos> <eos> <unk>
+a young girl is a a a a a . <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a group of people are standing in front of a . <eos> <eos> <eos> <unk>
+two dogs are in a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a group of people are playing in a . <eos> <eos> <eos> <eos> <eos> <unk>
+a boy is a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a young girl in a is in a a . <eos> <eos> <eos> <eos> <unk>
+the soccer players are in a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man is sitting on a chair on a . <eos> <eos> <eos> <eos> <unk>
+a man in a blue shirt is a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a red shirt is a a . . <eos> <eos> <eos> <unk>
+a man is a a a a . . <eos> <eos> <eos> <eos> <eos> <unk>
+a man and a woman on a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a two people in the . <eos> <eos> <eos> <eos> <unk>
+a photographer is a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a . . <eos> <eos> <eos> <eos> <unk>
+two men in a on a on a . <eos> <eos> <eos> <eos> <eos> <unk>
+a is a is a to a . . <eos> <eos> <eos> <eos> <eos> <unk>
+a band is a a in a . . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a of a in a . <eos> <eos> <eos> <unk>
+two dogs are playing with a green toy . <eos> <eos> <eos> <eos> <eos> <unk>
+a woman in a hair is reading a cellphone . <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a . . <eos> <eos> <eos> <eos> <unk>
+people are a a a a a market . <eos> <eos> <eos> <eos> <eos> <unk>
+a person is a a a hill in a . <eos> <eos> <eos> <eos> <unk>
+a woman in a woman is a a . . . <eos> <eos> <eos> <unk>
+two dogs dogs running in a in a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a is is a a a . . <eos> <eos> <unk> <unk> <unk>
+a group of people are standing in front of a . <eos> . <unk> <unk> <unk>
+two men are in a a a . . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men are in front of a in a . <eos> <eos> <eos> <unk> <unk> <unk>
+a woman woman is on a a a a a . <eos> <eos> <unk> <unk> <unk>
+a man in a black shirt is playing a . <eos> <eos> <eos> <unk> <unk> <unk>
+a group of people are a a a a . . <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . . <eos> <eos> <unk> <unk> <unk>
+a group of young in in a a . <eos> . <eos> <eos> <unk> <unk> <unk>
+a group of young boys are running in a beach . <eos> <eos> <unk> <unk> <unk>
+a male is a a a in a the background . <eos> <eos> <unk> <unk> <unk>
+two men in a in a in a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a young girl is a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+three people are playing in a a . . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a woman is a a a a a . . <eos> <eos> <eos> <unk> <unk> <unk>
+a girl is a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . . <eos> <eos> <unk> <unk> <unk>
+three people are walking down a snowy hill . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a woman is a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+a professor is is a a of a . . <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a in a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+three men are a a a a a . . <eos> <eos> <eos> <unk> <unk> <unk>
+two men are sitting on a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+a woman is a a a a a . . <eos> <eos> <eos> <unk> <unk> <unk>
+a couple is is in a the street . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a group of people are standing in front of a . <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a . <eos> . <eos> <unk> <unk> <unk>
+a woman woman is a a a in front of a . <eos> <unk> <unk> <unk>
+a man in a hat is a a . . <eos> <eos> <eos> <unk> <unk> <unk>
+a woman in a a is is in a . . <eos> <eos> <unk> <unk> <unk>
+a man man is sitting on a chair . <eos> . <eos> <eos> <unk> <unk> <unk>
+a group of kids playing in a in the grass . <eos> <eos> <unk> <unk> <unk>
+two men in black and are walking on a sidewalk . <eos> <eos> <unk> <unk> <unk>
+a man and a woman are walking a a street . <eos> <eos> <unk> <unk> <unk>
+a group of people are standing in a in a . <eos> <eos> <unk> <unk> <unk>
+a city street is a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+a woman woman is a a a in front of a . <eos> <unk> <unk> <unk>
+a woman is a a a a a a . . <eos> <eos> <unk> <unk> <unk>
+a family is is a the middle of the street . <eos> <eos> <unk> <unk> <unk>
+a man is a a a street street . <eos> . <eos> <eos> <unk> <unk> <unk>
+three people are sitting on a street in front of a . <eos> <unk> <unk> <unk>
+a young boy is on a a swing . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a street of a a a a of a . <eos> <eos> <eos> <unk> <unk> <unk>
+people are a a a of a of a . <eos> <eos> <eos> <unk> <unk> <unk>
+people are a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is sitting on a chair in a . . <eos> <eos> <unk> <unk> <unk>
+a young girl is a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+a dog is a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+a woman in a a is is in a . <eos> . <eos> <unk> <unk> <unk>
+a basketball player is a a a the the . <eos> <eos> <eos> <unk> <unk> <unk>
+a family is is sitting on a a . . <eos> <eos> <eos> <unk> <unk> <unk>
+a woman is a a a in a . . <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a bike on a a . <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a guitar and a a . . <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a ball in a . . <eos> <eos> <eos> <unk> <unk> <unk>
+a construction worker is a a a a a . . <eos> <eos> <unk> <unk> <unk>
+a man in a is walking down a a . <eos> <eos> <eos> <unk> <unk> <unk>
+a man and a woman are a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a and and a a a a . <eos> <unk> <unk> <unk>
+several people are sitting in a a a . . <eos> <eos> <eos> <unk> <unk> <unk>
+a black and white dog is on a a . <eos> <eos> <eos> <unk> <unk> <unk>
+a dog is a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a brown dog is a a a a . . <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a black shirt is a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a dog is a a a a in the ocean . <eos> <eos> <eos> <unk> <unk> <unk>
+two men are in a a in a . . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two dogs are in a a a in the background . <eos> <eos> <eos> <unk> <unk> <unk>
+a woman in a a a shirt is a a . . <eos> <eos> <unk> <unk> <unk>
+three men are standing in front of a of a . <eos> <eos> <eos> <unk> <unk> <unk>
+people are a a a a a a . . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a older man is sitting a table in front of a . <eos> <eos> <unk> <unk> <unk>
+a man in a black is on a sidewalk . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a black shirt and a a . <eos> . <eos> <eos> <unk> <unk> <unk>
+a man in a black and a a a a . <eos> . <eos> <unk> <unk> <unk>
+four people are in a a a in a . . <eos> <eos> <eos> <unk> <unk> <unk>
+a woman is a a a a a a the street . <eos> <eos> <unk> <unk> <unk>
+people are on a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a construction worker is a a a a a . . <eos> <eos> <eos> <unk> <unk> <unk>
+a woman in a a shirt is a a a a . <eos> . <unk> <unk> <unk>
+two people are in a a in a . . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a woman is a a a sidewalk in a . . <eos> <eos> <eos> <unk> <unk> <unk>
+a brown dog is a a a a a . . <eos> <eos> <eos> <unk> <unk> <unk>
+a group of people people are in a a a . . <eos> <eos> <unk> <unk> <unk>
+a group of young people are are walking in a . <eos> <eos> <eos> <unk> <unk> <unk>
+two men in in in are in a a . . <eos> <eos> <eos> <unk> <unk> <unk>
+a woman in a a is a a a . . <eos> <eos> <eos> <unk> <unk> <unk>
+several people are standing in a a a . . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a group of people are standing in front of a a . <eos> <eos> <unk> <unk> <unk>
+a man and a woman are walking down a street . <eos> <eos> <eos> <unk> <unk> <unk>
+four people in a red and a in a in the . <eos> <eos> <unk> <unk> <unk>
+people are a in a in a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a is is a a a a a a . . <eos> <eos> <eos> <unk> <unk> <unk>
+a boy in a blue is running a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk>
+a black and white dog is a a a a a . <eos> . <unk> <unk> <unk>
+a woman in a black and a a a on a street . <eos> <unk> <unk> <unk>
+a boy is on a trick on a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+three people are standing in a a a . . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a crowd of people in a crowd of a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a busy street on a city street . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a woman in a black shirt is playing a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a young girl is a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+two men in in are standing in a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a young girl is a a a in the water . <eos> <eos> <eos> <unk> <unk> <unk>
+men in in in in are walking on a a . <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a trunks is running a a the beach . <eos> <eos> <unk> <unk> <unk>
+men in in in in are working on a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a woman in a a and a a a a . <eos> . <eos> <unk> <unk> <unk>
+a man is a a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+the two men are playing in a in the . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man and two woman in a are walking down the street . <eos> <unk> <unk> <unk>
+a man in a blue shirt is a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+several people are in a a a in a . . <eos> <eos> <eos> <unk> <unk> <unk>
+three people are a a stage with a . . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two women in a woman are a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+a group of people are running through a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a couple is a a a in a the street . <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a hat is a a a . . <eos> <eos> <unk> <unk> <unk>
+a black and white dog is a dog with a . <eos> . <eos> <unk> <unk> <unk>
+a street is is a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+many people are in a a a . . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a boy is a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a is a a a a in a . <eos> <eos> <unk> <unk> <unk>
+a young boy is a a a in the water . <eos> <eos> <eos> <unk> <unk> <unk>
+a young girl is a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+a little boy is is a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+a brown dog is a a a a . . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+a woman in a white shirt is in a a a . <eos> . <eos> <unk>
+a group of people are sitting a table table with a a a . <eos> <unk>
+a man is a a trick on a a a . <eos> <eos> <eos> <eos> <unk>
+a girl is a a a a a a a . <eos> <eos> <eos> <eos> <unk>
+a skateboarder is a a a a a a . . <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . . <eos> <eos> <eos> <eos> <unk>
+a race car with a a in the background . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is sitting on a a a a a . . <eos> <eos> <eos> <unk>
+a man is a a a a a a a . . <eos> . <eos> <unk>
+a dog is in a ball in a in the grass . <eos> <eos> <eos> <unk>
+two men are in a a a a . . <eos> <eos> <eos> <eos> <eos> <unk>
+a little boy in a shirt shirt is a a . . <eos> <eos> <eos> <unk>
+a man and a woman are a a a a . <eos> <eos> <eos> <eos> <unk>
+a baseball player is a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a people in the background . <eos> <eos> <unk>
+a family of a restaurant in a a . . <eos> <eos> <eos> <eos> <eos> <unk>
+a band is playing a a stage . . . . <eos> <eos> <eos> <eos> <unk>
+a brown dog is running a a in the in the grass . <eos> <eos> <unk>
+a man in a a shirt is a a a a . <eos> . <eos> <unk>
+a woman is a a a a a and a . <eos> . <eos> <eos> <unk>
+a woman is a a a a a a a . <eos> <eos> <eos> <eos> <unk>
+a is a is a a a in the . <eos> . <eos> <eos> <eos> <unk>
+a dog is a a a a a in a . <eos> <eos> <eos> <eos> <unk>
+a band is a band is in a a . . . <eos> <eos> <eos> <unk>
+a person is a a a in a the ocean . <eos> <eos> <eos> <eos> <unk>
+three people are in a a in a . . <eos> <eos> <eos> <eos> <eos> <unk>
+a woman in a a dress is a a a a a . <eos> . <unk>
+two men in in in a and a a a . <eos> . <eos> <eos> <unk>
+three people are in a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two people are on a a a a a a . <eos> <eos> <eos> <eos> <unk>
+a team of a team of people in the . <eos> <eos> <eos> <eos> <eos> <unk>
+a young man is on a sidewalk on a sidewalk . <eos> <eos> <eos> <eos> <unk>
+a man is a guitar and a a a . . . <eos> <eos> <eos> <unk>
+a race car is a a a the . <eos> . <eos> <eos> <eos> <eos> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <unk>
+a young girl is a a a a white . <eos> <eos> <eos> <eos> <eos> <unk>
+two dogs dogs running in a in a in the . <eos> <eos> <eos> <eos> <unk>
+two young in a are in a a a . . <eos> <eos> <eos> <eos> <unk>
+two men are playing with a a match . . <eos> <eos> <eos> <eos> <eos> <unk>
+three men in in in jackets are in a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+people are a street street street with a buildings . <eos> . <eos> <eos> <eos> <unk>
+a man is a a a a a a . . <eos> <eos> <eos> <eos> <unk>
+a teacher is a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+the people are in a a in a . . <eos> <eos> <eos> <eos> <eos> <unk>
+people are a a crowded street at night . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a woman is a a a a a a . . <eos> <eos> <eos> <eos> <unk>
+a man is a a a street of a street . <eos> <eos> <eos> <eos> <unk>
+a bride is is a a a and a . . <eos> <eos> <eos> <eos> <unk>
+three men are running in a in the water . <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a black shirt is a a microphone . <eos> <eos> <eos> <eos> <unk>
+a young girl is on a a a a a . <eos> <eos> <eos> <eos> <unk>
+two men are sitting on a a a a wall . <eos> <eos> <eos> <eos> <unk>
+a dog is in a a ball in a . <eos> <eos> <eos> <eos> <eos> <unk>
+a group of people in in a in a . . <eos> <eos> <eos> <eos> <unk>
+many people are standing in front of a in a . <eos> <eos> <eos> <eos> <unk>
+a young woman is sitting a a a a . . <eos> <eos> <eos> <eos> <unk>
+a man in a is sitting on a sidewalk . <eos> . <eos> <eos> <eos> <unk>
+a woman is a a a a and a . . <eos> <eos> <eos> <eos> <unk>
+a group of people are on a street . <eos> . <eos> <eos> <eos> <eos> <unk>
+several people are standing in a a a . . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a guitar while a a a . . <eos> <eos> <eos> <eos> <unk>
+five men in a are in a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a boy is a a a a a . . <eos> <eos> <eos> <eos> <eos> <unk>
+two women in a woman are a a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a boy is a a a a a a . . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+three people are on a a a a in the background . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two men are on a a a a in the background . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a hat is a a his head . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two men in in in a clothing are sitting on a . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a group of people are standing in a a . . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two men are on a a a in a in the background . <eos> <eos> <unk> <unk> <unk> <unk>
+two men in a in a a ball in a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a in the background . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a a . . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+there is a of people are in front of a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a young boy is a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two dogs are in a a a a . . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a group of people are a a in a . . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a young boy is a a a ball in a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man and a woman are a are on the street . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man and a woman are dancing in a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+the soccer players in a a in a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two men are on a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man and a woman are a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a red shirt is a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a red shirt is a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a black shirt is a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man and a woman are dancing in a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a black shirt and a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk>
+a boy is on a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a boy is a a a a a a . . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a group of people are gathered around a in a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a woman in a a shirt is a a a a . <eos> . <eos> <unk> <unk> <unk> <unk>
+a woman in a a tank top is a a in a . <eos> . <unk> <unk> <unk> <unk>
+a man in a backpack is a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a is is a a a in the background . <eos> <eos> <unk> <unk> <unk> <unk>
+two men in in in and and are walking on a street . <eos> <eos> <unk> <unk> <unk> <unk>
+a woman in a a pink shirt is a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a is is a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man and a woman are a a a in a . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a crowd of people people in a in a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a woman in a black dress is walking down the street . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a woman woman is a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a is walking a a street street . <eos> street . <eos> <unk> <unk> <unk> <unk>
+two people are in a a a a . . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+there is a of a of a and a . . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a photographer is a a a a a a . . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a woman in a a shirt is a a a . . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two men are in front of a in front of a . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+here is a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a young girl is a a a a a a . . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a a a . . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a of a a . . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a crowd of people are a people in a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two people are on a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a in a in the background . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a woman in a a is a a a a in the water . <eos> <unk> <unk> <unk> <unk>
+a group of people are a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a woman in a woman is a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+three people are on a a a a of a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk>
+a brown dog is a a a ball in a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a brown and a dog is a a in the . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a a hat is a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk>
+the are a a a a in a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a young girl is a a a a . . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man and a woman are a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+many people are in a a a a in a . <eos> <eos> <eos> <eos> <eos> <unk>
+here is a of a of a a a a a . <eos> . <eos> <eos> <unk>
+a woman in a a and a a a a a . <eos> . <eos> <eos> <unk>
+a man in a black shirt is a a a . <eos> . <eos> <eos> <eos> <unk>
+many people are in a a a a in a . <eos> . <eos> <eos> <eos> <unk>
+a man in a a is a a a a a . <eos> . <eos> <eos> <unk>
+a man is a a a a a a a . <eos> . <eos> <eos> <eos> <unk>
+a woman in a a and a and a a a a . <eos> . <eos> <unk>
+the white and a on a on a street . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a black shirt is a a a a a . <eos> . <eos> <unk>
+a man in a black shirt is a a a a street . <eos> <eos> <eos> <unk>
+a woman in a black is walking a a a the street . <eos> <eos> <eos> <unk>
+people are a a a a a a . . <eos> <eos> <eos> <eos> <eos> <eos> <unk>
+two people are sitting on a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a young man is a a a a a . . <eos> <eos> <eos> <eos> <eos> <unk>
+a man and a woman are a a a a a . <eos> . <eos> <eos> <unk>
+people are a a a a a a a . . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a a . <eos> . <eos> <eos> <eos> <unk>
+a man and a woman are a a a a in a . <eos> <eos> <eos> <unk>
+a man is a a a a a a a a . <eos> <eos> <eos> <eos> <unk>
+a man in a a hat is a a in a in the background . <eos> <unk>
+a man in a black shirt is a a a . <eos> . <eos> <eos> <eos> <unk>
+pedestrians is a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a black and a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a young man is a a a a a . . . <eos> <eos> <eos> <eos> <unk>
+a man is a a a two people in the background . <eos> <eos> <eos> <eos> <unk>
+a little boy in a red shirt is a a a . . <eos> <eos> <eos> <unk>
+a man is sitting on a sidewalk in a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man is a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a brown dog is running a a in the the grass . <eos> <eos> <eos> <eos> <unk>
+a man and a a a a a a in the background . <eos> <eos> <eos> <unk>
+a young girl in a and a a a a a . <eos> <eos> <eos> <eos> <unk>
+a group of young people are on a a a beach . <eos> <eos> <eos> <eos> <unk>
+two men are a a a a a a . <eos> . <eos> <eos> <eos> <eos> <unk>
+a woman is a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+several people are in a a a in a . . <eos> <eos> <eos> <eos> <eos> <unk>
+a young girl in a a a a a a . . . <eos> <eos> <eos> <unk>
+a brown and white dog is a a a ball in a . <eos> <eos> <eos> <unk>
+a man in a black shirt is a a . <eos> . <eos> <eos> <eos> <eos> <unk>
+a woman in a woman is is a a a a . . <eos> <eos> <eos> <unk>
+a man is a a a a a a a . . <eos> <eos> <eos> <eos> <unk>
+two men are in a in a in the water . <eos> <eos> <eos> <eos> <eos> <unk>
+a group of people are standing in a a . . <eos> <eos> <eos> <eos> <eos> <unk>
+there are in a in a and a and a . <eos> . <eos> <eos> <eos> <unk>
+five people in in in a are sitting in front of a . <eos> <eos> <eos> <unk>
+many people are on a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a man and a a a a a a a a . <eos> . <eos> <eos> <unk>
+four people are on a a a a a a . <eos> . <eos> <eos> <eos> <unk>
+a little boy is a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a group of people are a a a a a a . <eos> . <eos> <eos> <unk>
+a football player is a a a a the background . <eos> <eos> <eos> <eos> <eos> <unk>
+a team in in red and and and and a . <eos> <eos> <eos> <eos> <eos> <unk>
+two men are standing in front of a front of a . <eos> <eos> <eos> <eos> <unk>
+a black and white dog is a white dog with a . <eos> <eos> <eos> <eos> <unk>
+a man is a a a a in a . <eos> . <eos> <eos> <eos> <eos> <unk>
+a young man and a a a a a a . <eos> . <eos> <eos> <eos> <unk>
+a man is a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk>
+a band is a crowd of a crowd of people . <eos> . <eos> <eos> <eos> <unk>
+a dog is a a a ball in a ball . <eos> <eos> <eos> <eos> <eos> <unk>
+a young man is a a a a group of a . <eos> <eos> <eos> <eos> <unk>
+many people are in a a a a in a in the . <eos> <eos> <eos> <unk>
+a man in a is is standing in front of a in a . <eos> <eos> <unk>
+a woman in a red is sitting on a cellphone . <eos> <eos> <eos> <eos> <eos> <unk>
+a man in a black hat is a a a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk>
+a woman in a black and and a black and a bicycle . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two men are sitting a a a a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a white shirt and and hat is a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk>
+a is a a a a a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a team is team is a and a and a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a cyclist is a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a a people in the . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a young woman is playing a a a a a . . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a boy is a a a a a a . . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a dog is running in a ball in a ball . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+people are a sidewalk in a sidewalk , a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a black and a a a a a the beach . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a young man is a a a a a a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a a a the street . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a brown and white dog is a dog in the grass . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a group of people in in in a are a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a young and a woman are a a a the beach . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a young man is on a a a a a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk>
+a woman in a a shirt is a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a young and a woman are on a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a black and white dog is a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+people are a a a a a and a . . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a a a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a a in a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two men in a are on a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a brown dog is a a a in the in the . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man with a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a a a . . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a black shirt is a a . <eos> . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a two men in a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a black dog is in a ball in a ball in the ball . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a woman is a a a a a a . . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two men men are in a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a person is a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a group of people are a a a a in a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a is is a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a young man is a a a a a a . . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a woman in a a shirt is a a a in a in the background . <eos> <unk> <unk> <unk> <unk>
+a young girl is a a a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a young man in a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a young man is a a a a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two men in in a and a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a black shirt is a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a is a is a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a woman is a a a a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+four men are sitting in a table in a . . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a black and a is a a a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a <unk> is is a a a a a a . . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a race car is a a a in the background . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a black and a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man and a a a a a in a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two people are a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two men are sitting a table in front of a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man and a woman are walking a a front of a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a a a . . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a young boy is a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a woman is a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a young boy in a shirt is a a . . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a woman in a a dress is a a a in a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is sitting on a sidewalk with a a a a . <eos> . <eos> <unk> <unk> <unk> <unk>
+a man in a is sitting on a a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a woman in a black dress is a a a a in a . <eos> . <unk> <unk> <unk> <unk>
+four people are standing in a a a in a . . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two men in in in and and and are walking on a street . <eos> <eos> <unk> <unk> <unk> <unk>
+a woman is a a a a a a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk>
+a woman in a a shirt is a a a a a . <eos> . <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a a a a a . <eos> . <eos> <unk> <unk> <unk> <unk>
+a man in a man is sitting on a sidewalk in a sidewalk . <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a people in the street . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man and a woman are walking down a street in front of a . <eos> <unk> <unk> <unk> <unk>
+a group of people in a and a a a a . . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two women in a woman are in a a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk>
+a little boy is on a a a a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a a a in the background . <eos> <eos> <unk> <unk> <unk> <unk>
+people are in a in a a and and and . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a young woman woman woman in a a , with a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a a hat is a a a a a . <eos> . <eos> <unk> <unk> <unk> <unk>
+a boy in a red shirt is a a a a . . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a man is a a a a a a . <eos> . <eos> <unk> <unk> <unk> <unk>
+two men in a a a a a a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk>
+two men are sitting on a a a a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk>
+a young and a woman are a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a young man is a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+the two men in a are in a in a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a crowd of people are a a a a a in a . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+three people are sitting in front of a a . . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a group of people are standing in a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+there are a people are a a a a in the background . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a a a a a . <eos> . <eos> <unk> <unk> <unk> <unk>
+many people are sitting in front of a a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk>
+a crowd of people are a a a a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk>
+a woman - haired woman is a a a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk>
+a couple is in a and a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+people are a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a young woman is a a a a a a a the water . <eos> <eos> <unk> <unk> <unk> <unk>
+a boy is a a a a a a in the background . <eos> . <eos> <unk> <unk> <unk> <unk>
+a young girl is a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a in the background . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a woman in a a dress is walking a a a a a . <eos> . <unk> <unk> <unk> <unk>
+a man in a is a a a a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk>
+a dog is a a a a a a the the . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+people are walking a sidewalk of a street of a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+the soccer players in a a a in a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a is a is a a a a the the . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a cyclist is a a a a a a the background . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a two men in a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+two men are on a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a in a in the background . <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a blue shirt is a a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk>
+a is a a a a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a boy is a a a a a a . . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a group of people in in in in are in a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a a is a a a a a in a . <eos> . <unk> <unk> <unk> <unk>
+a young woman is a a a a in the water . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+pedestrians is a a a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a woman in a a and a shirt is a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk>
+a woman is a a a two people in the background . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man is a a a a a a a . . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man and a woman are walking a a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a a shirt is a a a a of a . <eos> <eos> <unk> <unk> <unk> <unk>
+a man in a a a is in a two people in a . <eos> <eos> <unk> <unk> <unk> <unk>
+a is is is a a a a a a his opponent . <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a woman in a a is a a a crowd of a crowd . <eos> . <eos> <eos> <eos> <eos>
+a man in a red shirt is a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+two men are in a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+two men are a a a a a a a . <eos> . <eos> . <eos> <eos> <eos> <eos> <eos>
+a man in a a shirt and a a a a a a . <eos> . <eos> <eos> <eos> <eos>
+people are a a a a a a in the background . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a man is a a a a a a a . . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a man is a a a and a and a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+several people are a a a a a and a and a . <eos> . <eos> <eos> <eos> <eos> <eos>
+a young woman is a a a a a in a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos>
+a woman woman in a hair is a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos>
+a man in a a is a a a a a a in front of people in the background .
+a young girl in a shirt is a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos>
+a man in a and and and and a a a a a a . <eos> <eos> <eos> <eos> <eos>
+a people in in a and a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos>
+two men are a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos>
+a is a a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos>
+a group of people are sitting a table table with a a a . <eos> . <eos> <eos> <eos> <eos>
+a man is a a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos>
+a young girl is a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos>
+a man in a black shirt is a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos>
+three people are on a a a a a in the background . <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+two men in a man in a on a sidewalk in a . <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a brown dog is running a a a a in the background . <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a man is a a a a a two people in the background . <eos> <eos> <eos> <eos> <eos> <eos>
+a man is a a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos>
+two men are a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos>
+a surfer is a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a race car is a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a black and white dog is a a ball in a ball . <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a band is groom are a crowd of people watch . <eos> . <eos> . <eos> <eos> <eos> <eos> <eos>
+a woman in a black shirt is a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos>
+a woman in a a shirt is standing in front of a . <eos> . <eos> <eos> <eos> <eos> <eos>
+three people in in in and and helmets are in a a a . <eos> <eos> <eos> <eos> <eos> <eos>
+a woman in a a shirt is a a a a a . . <eos> <eos> <eos> <eos> <eos> <eos>
+a woman in a black and and a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos>
+a brown dog is a a a a a in a in its mouth . <eos> <eos> <eos> <eos> <eos>
+a young boy is a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a man in a black hat is a a a a a the street . <eos> <eos> <eos> <eos> <eos>
+a brown dog is running a a a a a ball . <eos> . <eos> <eos> <eos> <eos> <eos> <eos>
+a man and a a and a a a in the beach . <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a man in a a and and and a a a a a . <eos> . <eos> <eos> <eos> <eos>
+a man and a woman are in front of people are in a in the background . <eos> <eos> <eos>
+a man in a white shirt is in front of a crowd of a crowd . <eos> <eos> <eos> <eos>
+a dog is a a a a a a a a in the background . <eos> <eos> <eos> <eos> <eos>
+people are a a a a a a a and a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos>
+a woman in a a a and a hat is a a . <eos> . <eos> <eos> <eos> <eos> <eos>
+a woman in a a and and a a a a a a . <eos> . <eos> <eos> <eos> <eos>
+a woman - haired woman is a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos>
+a little boy is a a a a a in a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a man with a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+two men are in a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a man in a black shirt is a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos>
+a group of people are a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a man is a a a a a a a . . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a man in a black shirt is a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a young girl is a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos>
+a man in a a is a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+three men are a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a group of people are a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a woman in a a shirt is a a a a in a . <eos> . <eos> <eos> <eos> <eos>
+a man in a black and a hat is a a a street . <eos> <eos> <eos> <eos> <eos> <eos>
+a young girl is a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <eos>
+a man and a woman are on a a a a the ocean . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a woman in a a is a a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk>
+a group of people are standing in a a a a a a . <eos> . <eos> <eos> <unk> <unk> <unk>
+a man in a a shirt and a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk>
+a boy in a a shirt is a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a cyclist is a a a a a a the the the . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+people in in in a and a a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk>
+many people are on a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men are on a a a a a in the background . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a hat is sitting on a a a a a . <eos> . <eos> <eos> <unk> <unk> <unk>
+a man in a white shirt and a a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+two men in in in in a and a in a in a . <eos> . <eos> . <unk> <unk> <unk>
+a group of people are a a a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk>
+there is a parade with a and a in the . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a young man in a a a a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk>
+a is a is a a a a and a the <unk> . <eos> . <eos> <eos> <eos> <unk> <unk> <unk>
+a crowd of a in a and a and a . <eos> . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a boy in a trunks is a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a hat is sitting in a a in a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk>
+a cyclist is a a a a a a the background . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two people are in a a a a , one in the background . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a a a in a in the camera . <eos> <unk> <unk> <unk>
+a woman in a a shirt is a a a a a . . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a woman in a a a and a a a a a a a . <eos> . <eos> <unk> <unk> <unk>
+a couple is standing outside of people in front of a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+many people are in a a a a a in a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+four people in in in and and and are sitting on a a a . <eos> <eos> <eos> <unk> <unk> <unk>
+five people in in in and and a are sitting on a a a . <eos> . <eos> <unk> <unk> <unk>
+two women in in a and a are in front of a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk>
+a man and a a a a a a in front of a . <eos> . <eos> <eos> <unk> <unk> <unk>
+a man and a a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a black shirt and a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a white shirt and a a a a a a . <eos> . <eos> <eos> <unk> <unk> <unk>
+people are a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two people in in in a and a in a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk>
+a woman in a a is a a a a a a a . <eos> . <eos> <eos> <unk> <unk> <unk>
+two men are in a a a a the water in the background . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a brown dog and a a a a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk>
+a young girl is sitting a a a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a red shirt is a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a young girl in a pink shirt is a a a a a . <eos> . <eos> <eos> <unk> <unk> <unk>
+a group of people are a a a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk>
+men in in in in and and are in a in a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a woman with a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a and a a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk>
+a woman and a woman are a a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a a is a a a a a in the background . <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a black shirt is a a a a a a a . <eos> . <eos> <unk> <unk> <unk>
+a man is a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a young woman is a a a a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk>
+a woman in a a and a hat is a a a . . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a red shirt is sitting on a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+two men are sitting a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a young girl in a and a a a a a a a a . <eos> . <eos> <unk> <unk> <unk>
+a man in a a shirt is a a a a a a . <eos> . <eos> <eos> <unk> <unk> <unk>
+two men are sitting a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man in a red shirt is sitting on a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk>
+a woman in a a shirt and a hat is in a a a . <eos> . <eos> <unk> <unk> <unk>
+a person is a a a ball in a in the background . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a woman in a a shirt is a a a a a in a . <eos> . <eos> <unk> <unk> <unk>
+a group of people are a a a a a and a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk>
+a woman is a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+here is a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk>
+a man is a a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a race car is a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a woman in a black and a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a black shirt and a and a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men are on a a a a a in the background . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a race car is a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a couple of a a sidewalk of a a a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a white shirt and and a , a a a a a a . <eos> . <unk> <unk> <unk> <unk> <unk> <unk>
+a black dog wearing a black and white and white and white . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men are sitting a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+people are a a a a a a and a and a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a and a hat is a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a white shirt and and and a and a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+four people are a a a a a and a and a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a white shirt and and a a a a a a a . <eos> . <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a girl is a a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a and women in a and a a a a a a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a young man in a is on a a a a a a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a woman in a a shirt is a a a a a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man and a woman are a a table while a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a woman is a a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a young woman is a a a a a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a young boy is a a a a a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men are on a a street in front of a . <eos> . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a group of people are sitting a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+men in in in in and and and and a in a . <eos> . <eos> . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man and a woman are walking down a a a a a the street . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a white shirt is a a a crowd of people . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a group of people in in and and and and are in a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a young man with a a a a a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+men in in in a and a a a a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a team is team is a , and a and a and a . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a young boy is a a a a a a a a . <eos> <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a football player is a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a white shirt and a hat is a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a shirt and a a a a two people in front of people . <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men are a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men in in in and and a in a in a in the . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a is a a a a a a in a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+there are a people are a people are in a in a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man and a woman are a woman are walking a a a street . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man and a woman are walking along a a a the ocean . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a woman is a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+four people in in in and and and are in a are a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+there are in a and a and a and a and a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a white shirt and a a a a a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men are sitting a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a red shirt is a a a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a black and and a a a a a a street . <eos> street . <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a is a a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a white shirt is a a a two men in a crowd . <eos> . <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a white shirt and a hat and a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a crowd of people are a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a white shirt and a hat is a a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a white shirt and a hat is a a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a city street with a a a a a a and a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a group of people are a a a a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a woman in a a shirt is a a a a a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a boy in a a and a a a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a black shirt is a a a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a black shirt is a a a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a woman in a black and and a a a bicycle . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a white shirt is a a a a a a . <eos> <eos> . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a white and a a , and a , in the background . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a group of people in a and a are standing in a a a . <eos> . <eos> . <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a a a a a in the background . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a <unk> is a a a a a a a while two men watch . <eos> . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a older man is sitting on a a a a a a a a a a . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a couple is a a a a a a a and a and a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men in a in a a a a a a a a a a . <eos> . <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a woman in a hair , and a , and a , and a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two dogs are in a a a a a the the background . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a football player is a a a a a a the the the . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+three men are a a a a a a a a a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a couple is a , and a , and a and a and a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a white shirt and and and a a a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two people are a a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a young boy is a a a ball in a field with a in the background . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+three men are sitting a a a a a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a young boy is a a a a a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+three men are in a a a a a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man and a are a a a a a a a in a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a a a a a in the background . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men in in a and one in a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a shirt and a a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+several people are standing in a a a a and a and a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a black and a a a a a a the street . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a photographer is a a a a a while two people watch . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a is on a a a a a a a a a . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a group of people in in and and and and and and a and a . <eos> . <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a a a a a in the . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a is a a a a a a a a . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men in in in a and one in a a a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men in a in a and a a a a a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a construction worker is a a a a a a the street . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a woman is a a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a young boy in a and a a a a a a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men in in a and a a a a a a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two dogs are in a a a a a the the background . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a woman in a black and a a a a a a a . <eos> . <eos> . <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a black shirt is a a a a a a . <eos> <eos> . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a team is a a a a and a and a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a red shirt and a a a a a a in the beach . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a is a a a a a in the background . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a is is a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a shirt is a a a a a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a black shirt and a a a a a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a backpack is a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+there are a of a and a and a and a . <eos> . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a group of people in , and and , are in a are in a a a . <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+three people are in a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two people are in a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a red shirt is a a a a a a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men in in in a and one in a a a a . <eos> . <eos> . <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two people are sitting a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a city street with a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a woman in a a and a a a a a a street . <eos> street . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man and a woman are a a a a in the background . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a white shirt is a a a a a a . <eos> <eos> . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a white shirt and a hat is a a a wall . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a black shirt and a hat is a a a a . <eos> . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+many people are on a a a a a a buildings . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+a group of people are a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk>
+two men , one in a , one in a , one in the the the background in the background . <eos> the background <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a , a , , two other , two other men , and a in the background . <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a a a , a a a a a a a a a a . <eos> . <eos> . <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a white shirt and and a a a a a a a a a in the background . <eos> . <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a a a a a a a a in a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a young man is a a a a a a a a a a a . <eos> <eos> . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a white shirt is a a a a a a a in front of a in front of people . <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+two men are a a a a a a a the camera . <eos> the the . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a city street of a a a a a a a and a and a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man and a woman are sitting on a a a a a people in front of people walk by the background . <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a woman in a hair , and a , a a a a a a a a . <eos> . <eos> . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a woman is a a a a a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+two people are a a a a a a a a the the the the . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+four people are on a a a a a a the street with a the background . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man is a a a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+two men , one in a and one in a , a a a a a a a . <eos> . <eos> . <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a white shirt is a a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a black shirt is a a a a a a a a a . <eos> <eos> . <eos> . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a is sitting a a a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+people are a a a a a a a a and a and a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a woman woman is a a a a a a a a a . <eos> . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a woman in a black and and a and a a a a street , walking down the street . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a woman in a a red - flops is a a a a a a a . <eos> <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a white shirt and a a a a a a a a . <eos> <eos> . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a young girl in a and a a a a a a a a a . <eos> . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+two people are sitting a a a a a a a a a . <eos> . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a crowd of a on a a a a a a a a the . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a black dog , white dog is a , a , a a a . <eos> <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a young boy in a a a a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a white shirt and a , and a a a a two people are in the background . <eos> . <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a couple is on a on a street , a a a and a the street . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a baseball player is a a a a a a a a his feet . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a white shirt and a a a a a a a a a . <eos> <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a woman in a a and a a a a a a a a two people in a . <eos> . <eos> . <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a young boy in a shirt is a a a a a a a a a . <eos> . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a black shirt is a a a a a a a a . <eos> <eos> . <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a hat is a a a a a in the background . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a red shirt is a a a a a a a a the . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a young girl in a a a a a a a and a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a white shirt , a , a , a a and a and a . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a woman in a a a and a a a a a a a a a in a . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a woman in a black shirt and a hat is a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+two men are in a one one one is a the other . <eos> . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a shirt and a a a a a a a a a . <eos> <eos> . <eos> . <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a a hat is a a a a a a the water . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a man in a black is sitting on a a street in front of a street . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a woman is a a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a woman in a a and and a , and a a a a a in a in a . <eos> . <eos> . <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a woman in a woman is a a a a , two people in the background . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a woman in a a hair and a and a , a a a a a . <eos> . <eos> . <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a crowd of a a a a a a a and a and a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a woman in a a shirt is a a a a a water in the background . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+three people in in a and and a , a a a a a a a a . <eos> . <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+a large group of people are a and a a a a a a a . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
