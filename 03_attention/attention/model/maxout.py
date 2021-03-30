@@ -12,9 +12,9 @@ class MaxOut(nn.Module):
 
     def forward(self, inputs):
         shape = list(inputs.size())
-        shape[-1] = self.d_out
+        shape[-1] = self.output_dim
         shape.append(self.pool_size)
         max_dim = len(shape) - 1
-        out = self.lin(inputs)
+        out = self.maxout(inputs)
         m, _ = out.view(*shape).max(max_dim)
         return m
