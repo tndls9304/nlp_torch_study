@@ -1,0 +1,27 @@
+{
+  "hid_dim": 256,
+  "enc_n_layers": 3,
+  "dec_n_layers": 3,
+  "enc_heads": 8,
+  "dec_heads": 8,
+  "enc_pf_dim": 512,
+  "dec_pf_dim": 512,
+  "enc_dropout": 0.1,
+  "dec_dropout": 0.1,
+  "batch_size": 256,
+  "seed": 1234,
+  "lr": 0.0005,
+  "n_epochs": 20,
+  "clip": 1,
+  "min_freq": 2,
+  "src_ext": ".fr",
+  "trg_ext": ".en",
+  "save_path": "tut6-model.pt",
+
+  "train_sentence_output": "output/train_orig.txt",
+  "train_pred_sentence_output": "output/train_pred.txt",
+  "valid_sentence_output": "output/valid_orig.txt",
+  "valid_pred_sentence_output": "output/valid_test.txt",
+  "test_sentence_output": "output/test_orig.txt",
+  "test_pred_sentence_output": "output/test_pred.txt"
+}
