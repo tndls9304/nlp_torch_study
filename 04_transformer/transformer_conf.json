@@ -8,20 +8,23 @@
   "dec_pf_dim": 512,
   "enc_dropout": 0.1,
   "dec_dropout": 0.1,
+
   "batch_size": 256,
   "seed": 1234,
-  "lr": 0.0005,
+  "lr": 0.001,
   "n_epochs": 20,
   "clip": 1,
+  "epsilon_ls": 0.05,
+
   "min_freq": 2,
   "src_ext": ".fr",
   "trg_ext": ".en",
-  "save_path": "tut6-model.pt",
 
+  "save_path": "tut6-model.pt",
   "train_sentence_output": "output/train_orig.txt",
-  "train_pred_sentence_output": "output/train_pred.txt",
+  "train_pred_sentence_output": "output/train_pred_ls.txt",
   "valid_sentence_output": "output/valid_orig.txt",
-  "valid_pred_sentence_output": "output/valid_test.txt",
+  "valid_pred_sentence_output": "output/valid_test_ls.txt",
   "test_sentence_output": "output/test_orig.txt",
-  "test_pred_sentence_output": "output/test_pred.txt"
+  "test_pred_sentence_output": "output/test_pred_ls.txt"
 }

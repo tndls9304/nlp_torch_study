@@ -13,12 +13,13 @@ from .dataloader import TransformerDataset
 from .model.encoder import Encoder
 from .model.decoder import Decoder
 from .model.seq2seq import Seq2Seq
+from .model.losses import LabelSmoothingCrossEntropy
 
 from .utils import count_parameters, initialize_weights, epoch_time, tokenize_en_nltk, tokenize_fr_nltk, get_bleu_simple, simple_writer
 
 
 class TransTrainer:
-    def __init__(self, config, device):
+    def __init__(self, config, device, use_label_smoothing=False):
         super().__init__()
         self.config = config
         self.device = device
@@ -59,7 +60,10 @@ class TransTrainer:
 
         self.transformer = self.get_model().to(self.device)
         self.optimizer = optim.Adam(self.transformer.parameters(), lr=self.config['lr'])
-        self.criterion = nn.CrossEntropyLoss(ignore_index=trg_pad_idx).to(self.device)
+        if use_label_smoothing:
+            self.criterion = LabelSmoothingCrossEntropy(epsilon=self.config['epsilon_ls'], ignore_index=trg_pad_idx).to(device)
+        else:
+            self.criterion = nn.CrossEntropyLoss(ignore_index=trg_pad_idx).to(device)
 
     def get_model(self, init=False):
         enc = Encoder(self.config, self.device)
