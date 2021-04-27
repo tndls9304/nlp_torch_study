@@ -35,7 +35,7 @@ class EncoderLayer(nn.Module):
 
 
 class Encoder(nn.Module):
-    def __init__(self, config, device, max_length=100):
+    def __init__(self, config, device, max_length=200):
         input_dim = config['input_dim']
         hid_dim = config['hid_dim']
         n_layers = config['enc_n_layers']

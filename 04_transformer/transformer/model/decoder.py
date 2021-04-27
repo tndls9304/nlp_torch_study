@@ -46,7 +46,7 @@ class DecoderLayer(nn.Module):
 
 
 class Decoder(nn.Module):
-    def __init__(self, config, device, max_length=100):
+    def __init__(self, config, device, max_length=200):
         output_dim = config['output_dim']
         hid_dim = config['hid_dim']
         n_layers = config['dec_n_layers']
