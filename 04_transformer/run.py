@@ -19,6 +19,7 @@ if __name__ == "__main__":
     set_seed(conf_dict['seed'])
     torch.backends.cudnn.deterministic = True
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    # device = 'cpu'
 
     trainer = TransTrainer(conf_dict, device)
     trainer.run()

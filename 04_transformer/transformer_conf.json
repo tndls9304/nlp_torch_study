@@ -16,15 +16,15 @@
   "clip": 1,
   "epsilon_ls": 0.05,
 
-  "min_freq": 2,
+  "min_freq": 5,
   "src_ext": ".fr",
   "trg_ext": ".en",
 
-  "save_path": "tut6-model.pt",
-  "train_sentence_output": "output/train_orig.txt",
-  "train_pred_sentence_output": "output/train_pred_ls.txt",
-  "valid_sentence_output": "output/valid_orig.txt",
-  "valid_pred_sentence_output": "output/valid_test_ls.txt",
-  "test_sentence_output": "output/test_orig.txt",
-  "test_pred_sentence_output": "output/test_pred_ls.txt"
+  "save_path": "tut6-model_dialog.pt",
+  "train_sentence_output": "output/train_orig_d.txt",
+  "train_pred_sentence_output": "output/train_pred_d.txt",
+  "valid_sentence_output": "output/valid_orig_d.txt",
+  "valid_pred_sentence_output": "output/valid_test_d.txt",
+  "test_sentence_output": "output/test_orig_d.txt",
+  "test_pred_sentence_output": "output/test_pred_d.txt"
 }

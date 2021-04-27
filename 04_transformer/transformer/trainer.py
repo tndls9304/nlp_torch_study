@@ -8,7 +8,7 @@ import torch
 import torch.nn as nn
 import torch.optim as optim
 
-from .dataloader import TransformerDataset
+from .dataloader import TransformerDataset, DialogDataset
 
 from .model.encoder import Encoder
 from .model.decoder import Decoder
@@ -19,7 +19,7 @@ from .utils import count_parameters, initialize_weights, epoch_time, tokenize_en
 
 
 class TransTrainer:
-    def __init__(self, config, device, use_label_smoothing=False):
+    def __init__(self, config, device, use_label_smoothing=True):
         super().__init__()
         self.config = config
         self.device = device
@@ -32,10 +32,10 @@ class TransTrainer:
 
         self.clip = config['clip']
 
-        self.spacy_fr = spacy.load('fr_core_news_sm')
-        self.spacy_en = spacy.load('en_core_web_sm')
-
-        self.dataset = TransformerDataset(self.config, tokenize_fr_nltk, tokenize_en_nltk, device)
+        # self.spacy_fr = spacy.load('fr_core_news_sm')
+        # self.spacy_en = spacy.load('en_core_web_sm')
+        # self.dataset = DialogDataset(self.config, 'transformer/dataset/', tokenize_en_nltk, device)
+        self.dataset = TransformerDataset(self.config, tokenize_en_nltk, tokenize_en_nltk, device)
         src_pad_idx = self.dataset.SRC.vocab.stoi[self.dataset.SRC.pad_token]
         src_unk_idx = self.dataset.SRC.vocab.stoi[self.dataset.SRC.unk_token]
         src_eos_idx = self.dataset.SRC.vocab.stoi[self.dataset.SRC.eos_token]
