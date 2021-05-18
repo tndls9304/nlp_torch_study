@@ -1,0 +1,34 @@
+{
+  "filepath": "elmo/dataset/",
+  "src_ext": ".src",
+  "trg_ext": ".trg",
+  "min_freq": 2,
+  "batch_size": 64,
+  "seed": 1234,
+
+  "emb_dim": 200,
+  "word2vec_path": "elmo/dataset/w2v_all_news_200_epoch19.model",
+
+  "enc_hid_dim": 256,
+  "enc_n_layers": 2,
+  "cell_clip": 3,
+  "proj_clip": 3,
+  "pred_clip": 1,
+  "rnn_dropout": 0.1,
+  "dropout": 0.1,
+  "elmo_embedding_size": 200,
+
+  "highway_n_layer": 2,
+
+  "lr": 0.0005,
+  "n_epochs": 20,
+  "use_cuda": 1,
+
+  "save_path": "tut7-model_dialog.pt",
+  "train_sentence_output": "output/train_orig_d.txt",
+  "train_pred_sentence_output": "output/train_pred_d.txt",
+  "valid_sentence_output": "output/valid_orig_d.txt",
+  "valid_pred_sentence_output": "output/valid_test_d.txt",
+  "test_sentence_output": "output/test_orig_d.txt",
+  "test_pred_sentence_output": "output/test_pred_d.txt"
+}
