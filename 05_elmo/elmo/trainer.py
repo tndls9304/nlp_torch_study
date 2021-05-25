@@ -63,27 +63,42 @@ class ELMOTrainer:
         epoch_bleu = 0
         epoch_target = list()
         epoch_pred = list()
-        for i, batch in enumerate(self.dataset.train_iterator):
+        for i, batch in tqdm(enumerate(self.dataset.train_iterator)):
             src = batch.src
             trg = batch.trg
             self.optimizer.zero_grad()
-            output = self.elmo(src)
+
+            encoder_output, token_embedding = self.elmo(src)
+            # encoder_output = [2, batch size, trg len - 1, output dim]
+
+            forward_encoder = encoder_output[0, :, :, :].squeeze()
+            backward_encoder = encoder_output[1, :, :, :].squeeze()
+            output_dim = encoder_output.shape[-1]
+
+            forward_accumulated = forward_encoder.reshape(-1, output_dim)
+            backward_accumulated = backward_encoder.reshape(-1, output_dim)
+            forward_word = torch.argmax(forward_encoder, dim=-1)
+            backward_word = torch.argmax(backward_encoder, dim=-1)
+
             # output = [batch size, trg len - 1, output dim]
+            # trg = [batch size, trg len]
 
-            output_word = torch.argmax(output, dim=-1)
-            trg = trg[:, 1:]
-            bleu = get_bleu_simple(output_word, trg)
-            output_dim = output.shape[-1]
+            trg = trg[:, 1:].contiguous()
+            # output = [batch size * trg len - 1, output dim]
+            # trg = [batch size * trg len - 1]
 
-            output_accumulated = output.view(-1, output_dim)
+            trg_accumulated = trg.reshape(-1)  # trg = [(trg len - 1) * batch size]
+
+            bleu = (get_bleu_simple(forward_word, trg) + get_bleu_simple(backward_word, trg))/2
+
             # output = [(trg len - 1) * batch size, output dim]
-            trg_accumulated = trg.contiguous().view(-1)
             # output = output[:, 1:]
             # output = [(trg len - 1) * batch size, output dim]
 
             # trg_accumulated = trg.reshape(-1)  # trg = [(trg len - 1) * batch size]
             # print(trg.shape)
-            loss = self.criterion(output_accumulated, trg_accumulated)
+            loss = self.criterion(forward_accumulated, trg_accumulated) + self.criterion(backward_accumulated,
+                                                                                         trg_accumulated)
             loss.backward()
             torch.nn.utils.clip_grad_norm_(self.elmo.parameters(), self.clip)
             self.optimizer.step()
@@ -91,7 +106,7 @@ class ELMOTrainer:
             epoch_loss += loss.item()
             epoch_bleu += bleu
             batch_orig_sent = self.idx2sent(trg)
-            batch_pred_sent = self.idx2sent(output_word)
+            batch_pred_sent = self.idx2sent(forward_word)
             epoch_target += batch_orig_sent
             epoch_pred += batch_pred_sent
 
@@ -111,9 +126,14 @@ class ELMOTrainer:
                 src = batch.src
                 trg = batch.trg
 
-                output, _ = model(src)
-                output_accumulated = output.reshape(-1, self.config['output_dim'])  # output = [(trg len - 1) * batch size, output dim]
-                output_word = torch.argmax(output, dim=-1)
+                encoder_output, token_embedding = model(src)
+                forward_encoder = encoder_output[0, :, :, :].squeeze()
+                backward_encoder = encoder_output[1, :, :, :].squeeze()
+
+                forward_accumulated = forward_encoder.reshape(-1, self.config['output_dim'])
+                backward_accumulated = backward_encoder.reshape(-1, self.config['output_dim'])
+                forward_word = torch.argmax(forward_encoder, dim=-1)
+                backward_word = torch.argmax(backward_encoder, dim=-1)
 
                 # output = [batch size, trg len - 1, output dim]
                 # trg = [batch size, trg len]
@@ -123,14 +143,13 @@ class ELMOTrainer:
                 # trg = [batch size * trg len - 1]
 
                 trg_accumulated = trg.reshape(-1)  # trg = [(trg len - 1) * batch size]
-
-                loss = self.criterion(output_accumulated, trg_accumulated)
-                bleu = get_bleu_simple(output_word, trg)
+                loss = self.criterion(forward_accumulated, trg_accumulated) + self.criterion(backward_accumulated, trg_accumulated)
+                bleu = (get_bleu_simple(forward_word, trg) + get_bleu_simple(backward_word, trg))/2
 
                 epoch_loss += loss.item()
                 epoch_bleu += bleu
                 batch_orig_sent = self.idx2sent(trg)
-                batch_pred_sent = self.idx2sent(output_word)
+                batch_pred_sent = self.idx2sent(forward_word)
                 epoch_target += batch_orig_sent
                 epoch_pred += batch_pred_sent
 
