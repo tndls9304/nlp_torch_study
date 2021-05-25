@@ -3,11 +3,12 @@
   "src_ext": ".src",
   "trg_ext": ".trg",
   "min_freq": 2,
-  "batch_size": 64,
+  "batch_size": 16,
   "seed": 1234,
 
   "emb_dim": 200,
   "word2vec_path": "elmo/dataset/w2v_all_news_200_epoch19.model",
+  "doc2vec_path": "/data/d2v/d2v_all_news_200_epoch19.model",
 
   "enc_hid_dim": 256,
   "enc_n_layers": 2,
@@ -20,7 +21,7 @@
 
   "highway_n_layer": 2,
 
-  "lr": 0.0005,
+  "lr": 0.001,
   "n_epochs": 20,
   "use_cuda": 1,
 
@@ -30,5 +31,9 @@
   "valid_sentence_output": "output/valid_orig_d.txt",
   "valid_pred_sentence_output": "output/valid_test_d.txt",
   "test_sentence_output": "output/test_orig_d.txt",
-  "test_pred_sentence_output": "output/test_pred_d.txt"
+  "test_pred_sentence_output": "output/test_pred_d.txt",
+
+  "cls_dir_path": "cls_dataset",
+  "cls_lr": 0.005,
+  "cls_batch_size": 128
 }

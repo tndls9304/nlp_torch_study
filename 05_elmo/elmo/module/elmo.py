@@ -4,7 +4,7 @@ import torch.nn as nn
 from torch.autograd import Variable
 
 from .ci_embedding import ContextIndependentEmbedding
-from .bi_lstm import BidirectionalLM
+from .bi_lm import BidirectionalLM
 
 
 def get_mask(batch_idx):
@@ -40,11 +40,11 @@ class ELMO(nn.Module):
 
         self.encoder = BidirectionalLM(config)
         self.decoder = nn.Linear(2 * config['emb_dim'], self.output_dim)
-        self.weighted_sum = nn.Linear(3, 1, bias=False)
+        # self.weighted_sum = nn.Linear(3, 1, bias=False)
 
     def forward(self, batch):
-        enc_output = self.get_encoded(batch)
-        return self.decoder(enc_output)
+        enc_output, token_embedding = self.get_encoded(batch)
+        return self.decoder(enc_output), token_embedding
 
     def get_encoded(self, batch):
         batch_idx, batch_length = batch
@@ -63,12 +63,12 @@ class ELMO(nn.Module):
         # print(token_embedding.shape)
         # [1, batch_size, seq_len, emb_dim]
 
-        encoder_output = torch.cat([token_embedding, encoder_output], dim=0)
+        # encoder_output = torch.cat([token_embedding, encoder_output], dim=0)
         # print(encoder_output.shape)
         # [3, batch_size, seq_len, emb_dim]
-        encoder_output = encoder_output.reshape(encoder_output.shape[1], -1, encoder_output.shape[-1], 3)
+        # encoder_output = encoder_output.reshape(encoder_output.shape[1], -1, encoder_output.shape[-1], 3)
         # [batch_size, seq_len, emb_dim, 3]
-        encoder_output = self.weighted_sum(encoder_output).squeeze(-1)
+        # encoder_output = self.weighted_sum(encoder_output).squeeze(-1)
         # [batch_size, seq_len, emb_dim]
 
-        return encoder_output
+        return encoder_output, token_embedding
