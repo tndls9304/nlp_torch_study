@@ -1,6 +1,11 @@
 import codecs
 
-from torchtext.legacy import data, datasets
+import torchtext
+if torchtext.__version__ == '0.6.0':
+    from torchtext.legacy import data, datasets
+else:
+    from torchtext import data, datasets
+
 from konlpy.tag import Mecab
 from sklearn.model_selection import train_test_split
 from general_utils.utils import pickle_reader
@@ -38,11 +43,12 @@ def corpus_separator(output_name):
     writer_trg_test.close()
 
 
-class ELMODataset:
-    def __init__(self, config, filepath, device):
+class ELMOSample:
+    def __init__(self, config):
         self.config = config
-        self.device = device
-        # corpus_separator(filepath)
+        self.device = self.config['device']
+        self.examples = list()
+        self.iterator = None
         self.SRC = data.Field(tokenize=lambda x: x.split(' '),
                               init_token='<sos>',
                               eos_token='<eos>',
@@ -50,17 +56,86 @@ class ELMODataset:
                               lower=True,
                               batch_first=True,
                               include_lengths=True)
-        self.TRG = data.Field(tokenize=lambda x: x.split(' '),
-                              init_token='<sos>',
-                              eos_token='<eos>',
-                              pad_token='<pad>',
-                              lower=True,
-                              batch_first=True)
-        self.train_data, self.valid_data, self.test_data = \
-            datasets.TranslationDataset.splits(path=filepath, exts=(self.config['src_ext'], self.config['trg_ext']),
-                                               fields=(self.SRC, self.TRG))
 
-        self.build_vocab()
+        self.SRC.vocab = pickle_reader(self.config['src_field_path'])
+
+    def sent2iterator(self, sentence):
+        self.sentencelist2iterator([sentence])
+
+    def sentencelist2iterator(self, sentences):
+        examples = list()
+        examples.append(data.Example.fromlist(sentences, fields=[('title', self.SRC)]))
+        dataset = data.Dataset(examples, fields=[('title', self.SRC)])
+        self.iterator = data.Iterator(dataset, batch_size=1, sort_key=lambda x: len(x.title), sort=True,
+                                      sort_within_batch=True, device=self.device)
+
+
+class ELMODataset:
+    def __init__(self, config, build_vocab=True):
+        self.config = config
+        self.device = self.config['device']
+        # corpus_separator(filepath)
+        if config.get('max_length', 0) == 0:
+            self.SRC = data.Field(tokenize=lambda x: x.split(' '),
+                                  init_token='<sos>',
+                                  eos_token='<eos>',
+                                  pad_token='<pad>',
+                                  lower=True,
+                                  batch_first=True,
+                                  include_lengths=True)
+            self.TRG = data.Field(tokenize=lambda x: x.split(' '),
+                                  init_token='<sos>',
+                                  eos_token='<eos>',
+                                  pad_token='<pad>',
+                                  lower=True,
+                                  batch_first=True,
+                                  is_target=True)
+            self.rTRG = data.Field(tokenize=lambda x: x.split(' '),
+                                   init_token='<sos>',
+                                   eos_token='<eos>',
+                                   pad_token='<pad>',
+                                   lower=True,
+                                   batch_first=True,
+                                   is_target=True,
+                                   preprocessing=lambda x: x[::-1])
+        else:
+            self.SRC = data.Field(tokenize=lambda x: x.split(' '),
+                                  init_token='<sos>',
+                                  eos_token='<eos>',
+                                  pad_token='<pad>',
+                                  lower=True,
+                                  batch_first=True,
+                                  include_lengths=True,
+                                  preprocessing=lambda x: x[:config['max_length']])
+            self.TRG = data.Field(tokenize=lambda x: x.split(' '),
+                                  init_token='<sos>',
+                                  eos_token='<eos>',
+                                  pad_token='<pad>',
+                                  lower=True,
+                                  batch_first=True,
+                                  is_target=True,
+                                  preprocessing=lambda x: x[:config['max_length']+1])
+            self.rTRG = data.Field(tokenize=lambda x: x.split(' '),
+                                   init_token='<sos>',
+                                   eos_token='<eos>',
+                                   pad_token='<pad>',
+                                   lower=True,
+                                   batch_first=True,
+                                   is_target=True,
+                                   preprocessing=lambda x: x[:config['max_length']+1][::-1])
+
+        self.train_data, self.valid_data, self.test_data = \
+            data.TabularDataset.splits(path='elmo/dataset/', train='train.data', validation='val.data', test='test.data',
+                                       fields=[('src', self.SRC), ('trg', self.TRG), ('rtrg', self.rTRG)], format='tsv')
+        """
+        self.train_data, self.valid_data, self.test_data = \
+            datasets.TranslationDataset.splits(path=config['filepath'], exts=(self.config['src_ext'], self.config['trg_ext']),
+                                               fields=(self.SRC, self.TRG))
+        """
+        if build_vocab:
+            self.build_vocab()
+        else:
+            self.load_vocab()
 
         print('number of training data : {}'.format(len(self.train_data)))
         print('number of valid data : {}'.format(len(self.valid_data)))
@@ -68,10 +143,17 @@ class ELMODataset:
 
         self.train_iterator, self.valid_iterator, self.test_iterator = data.BucketIterator.splits(
             (self.train_data, self.valid_data, self.test_data), sort=True, sort_within_batch=True,
-            batch_size=self.config['batch_size'], device=self.device)
+            batch_size=self.config['batch_size'], device=self.device, sort_key=lambda x: len(x.src))
 
     def build_vocab(self):
         self.SRC.build_vocab(self.train_data, min_freq=self.config['min_freq'])
         self.TRG.build_vocab(self.train_data, min_freq=self.config['min_freq'])
+        self.rTRG.build_vocab(self.train_data, min_freq=self.config['min_freq'])
+        print(f"Unique tokens in source {self.config['src_ext'][1:]} vocabulary: {len(self.SRC.vocab)}")
+        print(f"Unique tokens in target {self.config['trg_ext'][1:]} vocabulary: {len(self.TRG.vocab)}")
+
+    def load_vocab(self):
+        self.SRC.vocab = pickle_reader(self.config['src_field_path'])
+        self.TRG.vocab = pickle_reader(self.config['trg_field_path'])
         print(f"Unique tokens in source {self.config['src_ext'][1:]} vocabulary: {len(self.SRC.vocab)}")
         print(f"Unique tokens in target {self.config['trg_ext'][1:]} vocabulary: {len(self.TRG.vocab)}")
