@@ -17,9 +17,13 @@ def set_seed(seed):
 if __name__ == "__main__":
     conf_dict = json_reader('elmo_config.json')
     set_seed(conf_dict['seed'])
-    torch.backends.cudnn.deterministic = True
-    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    if conf_dict['use_cuda']:
+        torch.backends.cudnn.deterministic = True
+        device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    else:
+        device = torch.device('cpu')
+    conf_dict['device'] = device
     # device = 'cpu'
 
-    trainer = ELMOTrainer(conf_dict, device)
+    trainer = ELMOTrainer(conf_dict)
     trainer.run()

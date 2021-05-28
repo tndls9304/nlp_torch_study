@@ -3,7 +3,6 @@ import torch.nn as nn
 
 from torch.autograd import Variable
 
-from .ci_embedding import ContextIndependentEmbedding
 from .bi_lm import BidirectionalLM
 
 
@@ -32,43 +31,32 @@ class ELMO(nn.Module):
     def __init__(self, config):
         super(ELMO, self).__init__()
         self.config = config
-        self.use_cuda = config['use_cuda']
         self.output_dim = config['output_dim']
 
-        self.ci_embedding = ContextIndependentEmbedding(config, False)
-        # self.frozen_embedding = ContextIndependentEmbedding(config, True)
-
         self.encoder = BidirectionalLM(config)
-        self.decoder = nn.Linear(2 * config['emb_dim'], self.output_dim)
-        # self.weighted_sum = nn.Linear(3, 1, bias=False)
+        self.decoder = nn.Linear(config['emb_dim'], self.output_dim)
 
     def forward(self, batch):
-        enc_output, token_embedding = self.get_encoded(batch)
-        return self.decoder(enc_output), token_embedding
+        enc_output, _ = self.get_encoded(batch)
+        # print(enc_output.shape)  (n_layer, batch_size, seq_len, elmo_dim*2)
+        enc_forward_last = enc_output[-1, :, :, 0:self.config['elmo_embedding_size']].squeeze()
+        enc_backward_last = enc_output[-1, :, :, self.config['elmo_embedding_size']:].squeeze()
+        forward_pred = self.decoder(enc_forward_last)
+        backward_pred = self.decoder(enc_backward_last)
+        return forward_pred, backward_pred
 
     def get_encoded(self, batch):
         batch_idx, batch_length = batch
         mask_package = get_mask(batch_idx)
-        mask = Variable(mask_package[0]).cuda() if self.use_cuda else Variable(mask_package[0])
-        batch_embedding = self.ci_embedding(batch_idx)
-        # print(batch_embedding.shape)
-        # [batch_size, seq_len, emb_dim]
+        mask = Variable(mask_package[0]).to(self.config['device'])
 
-        encoder_output = self.encoder(batch_embedding, mask)
+        encoder_output = self.encoder(batch_idx, mask)
         # print(encoder_output.shape)
-        # [2, batch_size, seq_len, emb_dim]
-        sz = encoder_output.size()
-        token_embedding = torch.cat(
-            [batch_embedding, batch_embedding], dim=2).view(1, sz[1], sz[2], sz[3])
-        # print(token_embedding.shape)
+        # [num_layer, batch_size, seq_len, emb_dim*2 (forward/backward]
+        # (2, 16, n, 200*2)
+
+        trained_ci_embedding = self.encoder.ci_embedding(batch_idx).unsqueeze(0)
+        # print(batch_embedding.shape)
         # [1, batch_size, seq_len, emb_dim]
 
-        # encoder_output = torch.cat([token_embedding, encoder_output], dim=0)
-        # print(encoder_output.shape)
-        # [3, batch_size, seq_len, emb_dim]
-        # encoder_output = encoder_output.reshape(encoder_output.shape[1], -1, encoder_output.shape[-1], 3)
-        # [batch_size, seq_len, emb_dim, 3]
-        # encoder_output = self.weighted_sum(encoder_output).squeeze(-1)
-        # [batch_size, seq_len, emb_dim]
-
-        return encoder_output, token_embedding
+        return encoder_output, trained_ci_embedding

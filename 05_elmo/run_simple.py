@@ -1,28 +1,27 @@
 import torch
-import json
 
 from elmo.module.elmo import ELMO
 from elmo.dataloader import ELMODataset
 
-
-def json_reader(path):
-    with open(path, 'r', encoding='utf-8') as json_file:
-        json_data = json.load(json_file)
-    return json_data
+from general_utils.utils import json_reader
 
 
 if __name__ == "__main__":
     config = json_reader('elmo_config.json')
-    device = torch.device('cuda')
+    device = torch.device('cpu')
+    config['device'] = device
 
-    elmo_dataset = ELMODataset(config, config['filepath'], device)
-    for train_batch in elmo_dataset.train_iterator:
-        print(train_batch.src)
-        print(train_batch.trg)
-        break
+    elmo_dataset = ELMODataset(config, build_vocab=False)
 
-    config['output_dim'] = len(elmo_dataset.TRG.vocab)
-    elmo = ELMO(config).to(device)
-    output = elmo(train_batch.src)
-    for o in output:
-        print(o.shape)
+    """
+        for train_batch in elmo_dataset.train_iterator:
+            print(train_batch.src)
+            print(train_batch.trg)
+            break
+    
+        config['output_dim'] = len(elmo_dataset.TRG.vocab)
+        elmo = ELMO(config).to(device)
+        output = elmo(train_batch.src)
+        for o in output:
+            print(o.shape)
+    """

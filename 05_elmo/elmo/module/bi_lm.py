@@ -50,6 +50,7 @@ class BidirectionalLM(_EncoderBase):
 
     def forward(self, input_batch, mask):
         batch_size, seq_len = mask.size()
+        input_batch = self.ci_embedding(input_batch)
         stacked_sequence_output, final_states, restoration_indices = \
             self.sort_and_run_forward(self._lstm_forward, input_batch, mask)
 
