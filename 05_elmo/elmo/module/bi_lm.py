@@ -16,7 +16,7 @@ class BidirectionalLM(_EncoderBase):
     def __init__(self, config):
         super().__init__()
         self.config = config
-        self.ci_embedding = ContextIndependentEmbedding(config)
+        self.ci_embedding = ContextIndependentEmbedding(config, False)
         self.bi_lstm = BidirectionalLSTM(config)
 
         self.output_dim = config['output_dim']

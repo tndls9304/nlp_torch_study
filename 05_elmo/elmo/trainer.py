@@ -9,16 +9,9 @@ import torch.optim as optim
 
 from .dataloader import ELMODataset
 
-from .module.elmo import ELMO
+from .module.elmo_simple import ELMO
 
 from general_utils.utils import count_parameters, initialize_weights, epoch_time, get_bleu_simple, simple_writer
-
-
-def flip(x, dim):
-    dim = x.dim() + dim if dim < 0 else dim
-    return x[tuple(slice(None, None) if i != dim
-             else torch.arange(x.size(i)-1, -1, -1).long()
-             for i in range(x.dim()))]
 
 
 class ELMOTrainer:
@@ -43,7 +36,7 @@ class ELMOTrainer:
         src_pad_idx = self.dataset.SRC.vocab.stoi[self.dataset.SRC.pad_token]
         src_unk_idx = self.dataset.SRC.vocab.stoi[self.dataset.SRC.unk_token]
         src_eos_idx = self.dataset.SRC.vocab.stoi[self.dataset.SRC.eos_token]
-        trg_sos_idx = self.dataset.TRG.vocab.stoi[self.dataset.TRG.init_token]
+        # trg_sos_idx = self.dataset.TRG.vocab.stoi[self.dataset.TRG.init_token]
         trg_pad_idx = self.dataset.TRG.vocab.stoi[self.dataset.TRG.pad_token]
         trg_unk_idx = self.dataset.TRG.vocab.stoi[self.dataset.TRG.unk_token]
         trg_eos_idx = self.dataset.TRG.vocab.stoi[self.dataset.TRG.eos_token]
@@ -52,7 +45,7 @@ class ELMOTrainer:
               f'{self.dataset.SRC.unk_token}: {src_unk_idx}\n'
               f'{self.dataset.SRC.eos_token}: {src_eos_idx}\n'
               f'special token idx (TRG):\n'
-              f'{self.dataset.TRG.init_token}: {trg_sos_idx}\n'
+              # f'{self.dataset.TRG.init_token}: {trg_sos_idx}\n'
               f'{self.dataset.TRG.pad_token}: {trg_pad_idx}\n'
               f'{self.dataset.TRG.unk_token}: {trg_unk_idx}\n'
               f'{self.dataset.TRG.eos_token}: {trg_eos_idx}')
@@ -80,34 +73,26 @@ class ELMOTrainer:
         epoch_b_pred = list()
         for i, batch in tqdm(enumerate(self.dataset.train_iterator)):
             src = batch.src
+            rsrc = batch.rsrc
             trg = batch.trg
             rtrg = batch.rtrg
             self.optimizer.zero_grad()
 
-            forward_encoder, backward_encoder = self.elmo(src)
+            forward_encoder, backward_encoder = self.elmo((src, rsrc))
             # forward_output = [batch size, trg len - 1, output_dim]
             # backward_output = [batch_size, trg len - 1, output_dim]
 
             forward_accumulated = forward_encoder.reshape(-1, self.output_dim)
             backward_accumulated = backward_encoder.reshape(-1, self.output_dim)
+
             forward_word = torch.argmax(forward_encoder, dim=-1)
             backward_word = torch.argmax(backward_encoder, dim=-1)
-
-            # output = [batch size, trg len - 1, output dim]
-            # trg = [batch size, trg len]
-
-            trg = trg[:, 1:].contiguous()
-            rtrg = rtrg[:, 1:].contiguous()
-            # output = [batch size * trg len - 1, output dim]
-            # trg = [batch size * trg len - 1]
-
-            trg_accumulated = trg.reshape(-1)  # trg = [(trg len - 1) * batch size]
-            rtrg_accumulated = rtrg.reshape(-1)  # trg = [(trg len - 1) * batch size]
-
-            bleu_forward = get_bleu_simple(forward_word, trg)
-            bleu_backward = get_bleu_simple(backward_word, rtrg)
+            bleu_forward = get_bleu_simple(forward_word, trg[:, :-1])
+            bleu_backward = get_bleu_simple(backward_word, rtrg[:, :-1])
             # bleu = (bleu_forward + bleu_backward) / 2
 
+            trg_accumulated = trg[:, :-1].contiguous().reshape(-1)  # trg = [(trg len - 1) * batch size]
+            rtrg_accumulated = rtrg[:, :-1].contiguous().reshape(-1)  # trg = [(trg len - 1) * batch size]
             # output = [(trg len - 1) * batch size, output dim]
             # output = output[:, 1:]
             # output = [(trg len - 1) * batch size, output dim]
@@ -137,7 +122,7 @@ class ELMOTrainer:
         return epoch_loss_forward / len(self.dataset.train_iterator), epoch_loss_backward / len(self.dataset.train_iterator),\
                epoch_bleu_forward / len(self.dataset.train_iterator), epoch_bleu_backward / len(self.dataset.train_iterator)
 
-    def evaluate_epoch(self, model, iterator, epoch=1, orig_path=None, pred_f_path=None, pred_b_path=None):
+    def evaluate_epoch(self, model, iterator, orig_path=None, pred_f_path=None, pred_b_path=None, epoch=1):
         model.eval()
         epoch_loss_forward = 0
         epoch_loss_backward = 0
@@ -149,31 +134,28 @@ class ELMOTrainer:
         with torch.no_grad():
             for i, batch in enumerate(tqdm(iterator)):
                 src = batch.src
+                rsrc = batch.rsrc
                 trg = batch.trg
                 rtrg = batch.rtrg
 
-                forward_encoder, backward_encoder = model(src)
+                forward_encoder, backward_encoder = model((src, rsrc))
 
                 forward_accumulated = forward_encoder.reshape(-1, self.config['output_dim'])
                 backward_accumulated = backward_encoder.reshape(-1, self.config['output_dim'])
+
                 forward_word = torch.argmax(forward_encoder, dim=-1)
                 backward_word = torch.argmax(backward_encoder, dim=-1)
-                # output = [batch size, trg len - 1, output dim]
-                # trg = [batch size, trg len]
-
-                trg = trg[:, 1:].contiguous()
-                rtrg = rtrg[:, 1:].contiguous()
+                bleu_forward = get_bleu_simple(forward_word, trg[:, :-1])
+                bleu_backward = get_bleu_simple(backward_word, rtrg[:, :-1])
                 # output = [batch size * trg len - 1, output dim]
                 # trg = [batch size * trg len - 1]
 
-                trg_accumulated = trg.reshape(-1)  # trg = [(trg len - 1) * batch size]
-                rtrg_accumulated = rtrg.reshape(-1)
+                trg_accumulated = trg[:, :-1].contiguous().reshape(-1)  # trg = [(trg len - 1) * batch size]
+                rtrg_accumulated = rtrg[:, :-1].contiguous().reshape(-1)
                 # trg_rev_accumulated = trg_rev.reshape(-1)
                 loss_forward = self.criterion(forward_accumulated, trg_accumulated)
                 loss_backward = self.criterion(backward_accumulated, rtrg_accumulated)
                 # loss = (loss_forward + loss_backward) / 2
-                bleu_forward = get_bleu_simple(forward_word, trg)
-                bleu_backward = get_bleu_simple(backward_word, rtrg)
 
                 epoch_loss_forward += loss_forward.item()
                 epoch_loss_backward += loss_backward.item()
@@ -195,10 +177,11 @@ class ELMOTrainer:
                epoch_bleu_forward / len(iterator), epoch_bleu_backward / len(iterator)
 
     def eval_valid(self, epoch):
-        return self.evaluate_epoch(self.elmo, self.dataset.valid_iterator, epoch,
+        return self.evaluate_epoch(self.elmo, self.dataset.valid_iterator,
                                    self.config['valid_sentence_output'],
                                    self.config['valid_forward_pred_sentence_output'],
-                                   self.config['valid_backward_pred_sentence_output'])
+                                   self.config['valid_backward_pred_sentence_output'],
+                                   epoch=epoch)
 
     def eval_test(self, model):
         return self.evaluate_epoch(model, self.dataset.test_iterator,
@@ -216,6 +199,14 @@ class ELMOTrainer:
                 sent = ' '.join([self.dataset.TRG.vocab.itos[i] for i in sent_idx])
             sentences.append(sent.strip())
         return sentences
+
+    def load_model(self, epoch):
+        model = ELMO(self.config)
+        best_state_dict = torch.load(self.config['save_path'].format(epoch))
+        print('load model with {}'.format(epoch))
+        model.load_state_dict(best_state_dict)
+        model.to(self.device)
+        return model
 
     def run(self):
         best_epoch = 0
@@ -250,10 +241,7 @@ class ELMOTrainer:
             print(f'\t Val. F. Loss: {valid_loss_forward:.3f} |  Val. F. PPL: {math.exp(valid_loss_forward):7.3f} |  Val. F. BLEU: {valid_bleu_forward:.3f}')
             print(f'\t Val. B. Loss: {valid_loss_backward:.3f} |  Val. B. PPL: {math.exp(valid_loss_backward):7.3f} |  Val. B. BLEU: {valid_bleu_backward:.3f}')
 
-        best_model = ELMO(self.config)
-        best_state_dict = torch.load(self.config['save_path'].format(best_epoch))
-        best_model.load_state_dict(best_state_dict)
-        best_model.to(self.device)
+        best_model = self.load_model(best_epoch)
 
         test_loss_forward, test_loss_backward, test_bleu_forward, test_bleu_backward = self.eval_test(best_model)
         print(f'\tTest F. Loss: {test_loss_forward:.3f} |  Test F. PPL: {math.exp(test_loss_forward):7.3f}   | Test F. BLEU: {test_bleu_forward:.3f}')

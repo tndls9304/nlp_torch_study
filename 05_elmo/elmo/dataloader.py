@@ -49,24 +49,39 @@ class ELMOSample:
         self.device = self.config['device']
         self.examples = list()
         self.iterator = None
+        self.tokenizer = Mecab()
         self.SRC = data.Field(tokenize=lambda x: x.split(' '),
-                              init_token='<sos>',
                               eos_token='<eos>',
                               pad_token='<pad>',
                               lower=True,
                               batch_first=True,
                               include_lengths=True)
+        self.rSRC = data.Field(tokenize=lambda x: x.split(' '),
+                               eos_token='<eos>',
+                               pad_token='<pad>',
+                               lower=True,
+                               batch_first=True,
+                               include_lengths=True,
+                               preprocessing=lambda x: x[::-1])
 
         self.SRC.vocab = pickle_reader(self.config['src_field_path'])
+        self.rSRC.vocab = self.SRC.vocab
 
     def sent2iterator(self, sentence):
         self.sentencelist2iterator([sentence])
 
+    def sent2example(self, sentence):
+        sentence_dict = {'src': sentence, 'rsrc': sentence}
+        example = data.Example.fromdict(sentence_dict, fields={'src': ('src', self.SRC), 'rsrc': ('rsrc', self.rSRC)})
+        return example
+
     def sentencelist2iterator(self, sentences):
         examples = list()
-        examples.append(data.Example.fromlist(sentences, fields=[('title', self.SRC)]))
-        dataset = data.Dataset(examples, fields=[('title', self.SRC)])
-        self.iterator = data.Iterator(dataset, batch_size=1, sort_key=lambda x: len(x.title), sort=True,
+        for sentence in sentences:
+            example = self.sent2example(sentence)
+            examples.append(example)
+        dataset = data.Dataset(examples, fields=[('src', self.SRC), ('rsrc', self.rSRC)])
+        self.iterator = data.Iterator(dataset, batch_size=1, sort_key=lambda x: len(x.src), sort=True,
                                       sort_within_batch=True, device=self.device)
 
 
@@ -77,21 +92,25 @@ class ELMODataset:
         # corpus_separator(filepath)
         if config.get('max_length', 0) == 0:
             self.SRC = data.Field(tokenize=lambda x: x.split(' '),
-                                  init_token='<sos>',
                                   eos_token='<eos>',
                                   pad_token='<pad>',
                                   lower=True,
                                   batch_first=True,
-                                  include_lengths=True)
+                                  include_lengths=True),
+            self.rSRC = data.Field(tokenize=lambda x: x.split(' '),
+                                   eos_token='<eos>',
+                                   pad_token='<pad>',
+                                   lower=True,
+                                   batch_first=True,
+                                   include_lengths=True,
+                                   preprocessing=lambda x: x[::-1])
             self.TRG = data.Field(tokenize=lambda x: x.split(' '),
-                                  init_token='<sos>',
                                   eos_token='<eos>',
                                   pad_token='<pad>',
                                   lower=True,
                                   batch_first=True,
                                   is_target=True)
             self.rTRG = data.Field(tokenize=lambda x: x.split(' '),
-                                   init_token='<sos>',
                                    eos_token='<eos>',
                                    pad_token='<pad>',
                                    lower=True,
@@ -100,15 +119,20 @@ class ELMODataset:
                                    preprocessing=lambda x: x[::-1])
         else:
             self.SRC = data.Field(tokenize=lambda x: x.split(' '),
-                                  init_token='<sos>',
                                   eos_token='<eos>',
                                   pad_token='<pad>',
                                   lower=True,
                                   batch_first=True,
                                   include_lengths=True,
                                   preprocessing=lambda x: x[:config['max_length']])
+            self.rSRC = data.Field(tokenize=lambda x: x.split(' '),
+                                   eos_token='<eos>',
+                                   pad_token='<pad>',
+                                   lower=True,
+                                   batch_first=True,
+                                   include_lengths=True,
+                                   preprocessing=lambda x: x[::-1][:config['max_length']])
             self.TRG = data.Field(tokenize=lambda x: x.split(' '),
-                                  init_token='<sos>',
                                   eos_token='<eos>',
                                   pad_token='<pad>',
                                   lower=True,
@@ -116,17 +140,16 @@ class ELMODataset:
                                   is_target=True,
                                   preprocessing=lambda x: x[:config['max_length']+1])
             self.rTRG = data.Field(tokenize=lambda x: x.split(' '),
-                                   init_token='<sos>',
                                    eos_token='<eos>',
                                    pad_token='<pad>',
                                    lower=True,
                                    batch_first=True,
                                    is_target=True,
-                                   preprocessing=lambda x: x[:config['max_length']+1][::-1])
+                                   preprocessing=lambda x: x[::-1][:config['max_length']+1])
 
         self.train_data, self.valid_data, self.test_data = \
-            data.TabularDataset.splits(path='elmo/dataset/', train='train.data', validation='val.data', test='test.data',
-                                       fields=[('src', self.SRC), ('trg', self.TRG), ('rtrg', self.rTRG)], format='tsv')
+            data.TabularDataset.splits(path='elmo/dataset/', train='train.data2', validation='val.data2', test='test.data2',
+                                       fields=[('src', self.SRC), ('rsrc', self.rSRC), ('trg', self.TRG), ('rtrg', self.rTRG)], format='tsv')
         """
         self.train_data, self.valid_data, self.test_data = \
             datasets.TranslationDataset.splits(path=config['filepath'], exts=(self.config['src_ext'], self.config['trg_ext']),
@@ -147,8 +170,9 @@ class ELMODataset:
 
     def build_vocab(self):
         self.SRC.build_vocab(self.train_data, min_freq=self.config['min_freq'])
+        self.rSRC.vocab = self.SRC.vocab
         self.TRG.build_vocab(self.train_data, min_freq=self.config['min_freq'])
-        self.rTRG.build_vocab(self.train_data, min_freq=self.config['min_freq'])
+        self.rTRG.vocab = self.TRG.vocab
         print(f"Unique tokens in source {self.config['src_ext'][1:]} vocabulary: {len(self.SRC.vocab)}")
         print(f"Unique tokens in target {self.config['trg_ext'][1:]} vocabulary: {len(self.TRG.vocab)}")
 
