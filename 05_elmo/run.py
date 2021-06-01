@@ -1,5 +1,6 @@
 import random
 import torch
+import math
 
 import numpy as np
 
@@ -26,4 +27,12 @@ if __name__ == "__main__":
     # device = 'cpu'
 
     trainer = ELMOTrainer(conf_dict)
-    trainer.run()
+
+    # trainer.run()
+    model = trainer.load_model(60)
+    trainer.elmo = model
+    test_loss_forward, test_loss_backward, test_bleu_forward, test_bleu_backward = trainer.eval_valid(60)
+    print(
+        f'\tTest F. Loss: {test_loss_forward:.3f} |  Test F. PPL: {math.exp(test_loss_forward):7.3f}   | Test F. BLEU: {test_bleu_forward:.3f}')
+    print(
+        f'\tTest B. Loss: {test_loss_backward:.3f} |  Test B. PPL: {math.exp(test_loss_backward):7.3f}   | Test B. BLEU: {test_bleu_backward:.3f}')

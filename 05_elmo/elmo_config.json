@@ -2,19 +2,20 @@
   "filepath": "elmo/dataset/",
   "src_ext": ".src",
   "trg_ext": ".trg",
-  "min_freq": 2,
-  "batch_size": 16,
+  "min_freq": 3,
+  "batch_size": 128,
   "seed": 1234,
   "max_length": 100,
 
-  "emb_dim": 200,
   "word2vec_path": "elmo/dataset/w2v_all_news_200_epoch19.model",
   "doc2vec_path": "/data/d2v/d2v_all_news_200_epoch19.model",
 
   "src_field_path": "elmo/dataset/src_field.pkl",
   "trg_field_path": "elmo/dataset/trg_field.pkl",
 
+  "emb_dim": 200,
   "enc_hid_dim": 256,
+  "dec_hid_dim": 256,
   "enc_n_layers": 3,
   "cell_clip": 3,
   "proj_clip": 3,
@@ -26,7 +27,7 @@
   "highway_n_layer": 2,
 
   "lr": 0.001,
-  "n_epochs": 20,
+  "n_epochs": 60,
   "use_cuda": 1,
 
   "save_path": "tut7-model_ep_{}.pt",
