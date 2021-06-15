@@ -1,0 +1,9 @@
+{
+  "corpus_dir_path": "dataset",
+  "limit_alphabet": 6000,
+  "vocab_size": 60000,
+  "tokenizer_path": "tokenizer",
+  "special_tokens": ["[PAD]", "[BOS]", "[EOS]", "[SEP]", "[MASK]", "[CLS]"],
+  "unk_token_num": 10,
+  "unused_token_num": 100
+}
