@@ -201,10 +201,8 @@ class ELMOTrainer:
         return sentences
 
     def load_model(self, epoch):
-        model = ELMO(self.config)
-        best_state_dict = torch.load(self.config['save_path'].format(epoch))
-        print('load model with {}'.format(epoch))
-        model.load_state_dict(best_state_dict)
+        model = torch.load(self.config['save_path'].format(epoch))
+        print('load model with epoch {}'.format(epoch))
         model.to(self.device)
         return model
 
@@ -233,7 +231,8 @@ class ELMOTrainer:
             if valid_loss < self.best_valid_loss:
                 print(f'epoch: {epoch} model get better valid loss {valid_loss:.3f} than {self.best_valid_loss:.3f}')
                 self.best_valid_loss = valid_loss
-                torch.save(self.elmo.state_dict(), self.config['save_path'].format(epoch))
+                # torch.save(self.elmo.state_dict(), self.config['save_path'].format(epoch))
+                torch.save(self.elmo, self.config['save_path'].format(epoch))
                 best_epoch = epoch
             print(f'Epoch: {epoch:02} | Time: {epoch_mins}m {epoch_secs}s')
             print(f'\tTrain F. Loss: {train_loss_forward:.3f} | Train F. PPL: {math.exp(train_loss_forward):7.3f} | Train F. BLEU: {train_bleu_forward:.3f}')
