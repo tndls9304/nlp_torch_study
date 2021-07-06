@@ -16,10 +16,11 @@ class BERTMecabTokenizer:
             self.mecabing()
             self.training_WordPiece()
         self.tokenizer = self.load_WordPiece()
+        print('vocab_size: {}'.format(self.tokenizer.get_vocab_size()))
 
     def get_special_tokens(self):
         special_tokens = self.config['special_tokens']
-        unk_tokens = ["[UNK{}]".format(i) for i in range(self.config['unk_token_num'])]
+        unk_tokens = ["[UNK]"] + ["[UNK{}]".format(i) for i in range(self.config['unk_token_num'])]
         unused_tokens = ["[UNUSED{}]".format(i) for i in range(self.config['unused_token_num'])]
         return special_tokens + unk_tokens + unused_tokens
 
@@ -44,8 +45,8 @@ class BERTMecabTokenizer:
             reader = codecs.open(input_path, 'r', encoding='utf-8')
             writer = codecs.open(output_path, 'w', encoding='utf-8')
             for line in reader:
-                new_line = self._split_only_josa(line.strip())
-                writer.write(new_line + '\n')
+                # new_line = self._split_only_josa(line.strip())
+                writer.write(line.strip() + '\n')
             print("{} file is transformed to {}".format(input_path, output_path))
             reader.close()
             writer.close()

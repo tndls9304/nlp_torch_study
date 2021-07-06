@@ -8,11 +8,11 @@ from torch.utils.data import Dataset
 from general_utils.utils import simple_reader
 
 
-def get_line_count(corpus_dir):
+def get_line_count(file_path_list):
     line_count_list = list()
-    for file in os.listdir(corpus_dir):
+    for file in file_path_list:
         line_count = 0
-        reader = codecs.open(os.path.join(corpus_dir, file), 'r', encoding='utf-8')
+        reader = codecs.open(file, 'r', encoding='utf-8')
         for _ in reader:
             line_count += 1
         line_count -= 1
@@ -36,12 +36,14 @@ class BERTDataset(Dataset):
         self.mask_idx = self.tokenizer.tokenizer.token_to_id('[MASK]')
         self.cls_idx = self.tokenizer.tokenizer.token_to_id('[CLS]')
         self.sep_idx = self.tokenizer.tokenizer.token_to_id('[SEP]')
+        self.pad_idx = self.tokenizer.tokenizer.token_to_id('[PAD]')
         self.special_token_length = get_special_token_length(self.tokenizer.tokenizer)
         self.vocab = self.tokenizer.tokenizer.get_vocab()
         self.corpus_dir_path = config['corpus_dir_path']
-        self.file_list = [os.path.join(self.corpus_dir_path, path) for path in os.listdir(self.corpus_dir_path)]
+        self.file_list = [os.path.join(self.corpus_dir_path, path) for path in os.listdir(self.corpus_dir_path) if not path.startswith('.') and path.endswith('txt') and 'mecab' in path]
+        print('target files: ', self.file_list)
         self.file_idx = 0
-        self.line_count_list = get_line_count(self.corpus_dir_path)
+        self.line_count_list = get_line_count(self.file_list)
         self.line_count = sum(self.line_count_list)
         self.tmp_line_idx = 0
         self.corpus = list()
@@ -53,24 +55,26 @@ class BERTDataset(Dataset):
 
     def update_corpus(self):
         self.corpus = simple_reader(self.file_list[self.file_idx])
+        # sorted(self.corpus, key=lambda x: len(x), reverse=True)
         self.now_corpus_len = len(self.corpus)
 
     def __len__(self):
-        return self.line_count
+        return self.line_count-1
 
     def __getitem__(self, item):
         encoded, is_next_sentence = self.get_sentences()
-        encoded_idx = self.randomize_words(encoded)
-        segment_idx = self.get_segment(encoded)
-        position_idx = self.get_position(encoded)
-        return encoded_idx, segment_idx, position_idx, is_next_sentence
+        encoded_idx, mlm_label = self.randomize_words(encoded)
+        segment_idx = self.get_segment(encoded_idx)
+        return encoded_idx, segment_idx, is_next_sentence, mlm_label
 
     def get_sentences(self):
         first_sent = self.corpus[self.tmp_line_idx]
         second_sent = self.corpus[self.tmp_line_idx+1]
         is_next_sentence = 1
         self.tmp_line_idx += 1
-        if self.tmp_line_idx == self.line_count_list[self.file_idx]:
+        if self.tmp_line_idx+1 == self.now_corpus_len-1:
+            self.file_idx += 1
+            self.file_idx = min(len(self.file_list)-1, self.file_idx)
             self.update_corpus()
             self.tmp_line_idx = 0
 
@@ -96,31 +100,45 @@ class BERTDataset(Dataset):
         masking_indexes = idx_list[0:masking_count]
         replace_indexes = idx_list[masking_count:masking_count+replace_count]
         # remain_indexes = idx_list[masking_count+replace_count:masking_count+replace_count+remain_count]
+        target_indexes = idx_list[0:randomize_count]
 
         masked_index_list = [self.mask_idx if i in masking_indexes else self.get_random_token_id() if i in replace_indexes else word for i, word in enumerate(word_index_list)]
-        return masked_index_list, idx_list[0:masking_count+replace_count]
+        masked_label = [word_idx if i in target_indexes else self.pad_idx for i, word_idx in enumerate(word_index_list)]
+
+        return masked_index_list, masked_label
+
+    def balancing_sentence_length(self, first_sent, second_sent):
+        if len(first_sent) + len(second_sent) > self.config['max_len'] - 3:
+            first_sent = first_sent[0:int((self.config['max_len']-3)/2)]
+            second_sent = second_sent[0:int((self.config['max_len']-3)-len(first_sent))]
+        # if len(first_sent) + len(second_sent) > self.config['max_len'] - 3:
+        # print(len(first_sent), len(second_sent))
+        assert len(first_sent) + len(second_sent) <= self.config['max_len'] - 3
+        return first_sent, second_sent
 
     def randomize_words(self, encoded):
         first_sep_idx = encoded.ids.index(self.sep_idx)
         first_sent_encoded = encoded.ids[1:first_sep_idx]
         second_sent_encoded = encoded.ids[first_sep_idx+1:-1]
 
-        first_sent_encoded, _ = self.masking_sentence(first_sent_encoded)
-        second_sent_encoded, _ = self.masking_sentence(second_sent_encoded)
+        first_sent_encoded, second_sent_encoded = self.balancing_sentence_length(first_sent_encoded, second_sent_encoded)
+
+        first_sent_encoded, first_mlm_label = self.masking_sentence(first_sent_encoded)
+        second_sent_encoded, second_mlm_label = self.masking_sentence(second_sent_encoded)
 
         output = [self.cls_idx] + first_sent_encoded + [self.sep_idx] + second_sent_encoded + [self.sep_idx]
+        mlm_label = [self.pad_idx] + first_mlm_label + [self.pad_idx] + second_mlm_label + [self.pad_idx]
 
-        return output
+        assert len(output) == len(mlm_label)
+        assert len(output) <= self.config['max_len']
+
+        return output, mlm_label
 
     def get_segment(self, encoded):
         sentence_length = len(encoded)
-        first_sep_idx = encoded.ids.index(self.sep_idx)
+        first_sep_idx = encoded.index(self.sep_idx)
         output = [1] * (first_sep_idx + 1) + [2] * (sentence_length - first_sep_idx - 1)
         return output
-
-    def get_position(self, encoded):
-        sentence_length = len(encoded)
-        return list(range(1, sentence_length+1))
 
 
 def bert_collate_fn(batch):
@@ -133,12 +151,11 @@ def bert_collate_fn(batch):
         return padded_seqs, lengths
 
     batch.sort(key=lambda x: len(x[0]), reverse=True)
-    token_embedding, segment_embedding, position_embedding, labels = zip(*batch)
+    token_embedding, segment_embedding, nsp_label, mlm_label = zip(*batch)
 
     batch_dict = dict()
     batch_dict['token_embed'], _ = padding(token_embedding)
     batch_dict['segment_embed'], _ = padding(segment_embedding)
-    batch_dict['position_embed'], _ = padding(position_embedding)
-    batch_dict['is_next_sentence'] = torch.Tensor(labels).long()
-
+    batch_dict['masked_lm_label'], _ = padding(mlm_label)
+    batch_dict['is_next_sentence'] = torch.Tensor(nsp_label).long()
     return batch_dict
