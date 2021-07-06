@@ -3,18 +3,18 @@
   "limit_alphabet": 6000,
   "vocab_size": 60000,
   "tokenizer_path": "tokenizer",
-  "special_tokens": ["[PAD]", "[BOS]", "[EOS]", "[SEP]", "[MASK]", "[CLS]"],
-  "unk_token_num": 10,
+  "special_tokens": ["[PAD]", "[SEP]", "[MASK]", "[CLS]"],
+  "unk_token_num": 0,
   "unused_token_num": 100,
 
-  "target_ratio": 0.15,
+  "target_ratio": 0.4,
   "mask_ratio": 0.8,
   "random_replace_ratio": 0.1,
   "remain_ratio": 0.1,
   "random_sentence_prob": 0.5,
 
   "max_len": 256,
-  "pff_hidden_dim": 1024,
+  "pff_hidden_dim": 512,
   "dropout_embed": 0.1,
   "dropout_attn": 0.1,
   "dropout_pff": 0.1,
@@ -22,12 +22,12 @@
   "dropout_trans": 0.1,
 
   "bert_hidden_size": 512,
-  "transformer_layer": 6,
-  "num_heads": 4,
+  "transformer_layer": 3,
+  "num_heads": 8,
 
   "use_cuda": true,
-  "batch_size": 64,
-  "lr": 0.005,
-  "log_freq": 100,
+  "batch_size": 8,
+  "lr": 0.0005,
+  "log_freq": 1000,
   "n_epochs": 50
 }

@@ -1,13 +1,13 @@
 import torch
 import torch.nn as nn
-from torch.optim import Adam
+from torch.optim import AdamW
 from torch.utils.data import DataLoader
 
 import tqdm
 
 from loader.dataloader import BERTDataset, bert_collate_fn
 from loader.tokenizer import BERTMecabTokenizer
-from model.bert import BERT, NextSentenceClassification
+from model.bert import TrainableBERT
 
 
 class BERTTrainer:
@@ -21,15 +21,17 @@ class BERTTrainer:
         self.dataset = BERTDataset(config, self.tokenizer)
         self.config['input_vocab_size'] = len(self.dataset.vocab)
         self.config['pad_idx'] = self.tokenizer.tokenizer.token_to_id('[PAD]')
+        print('pad index:', self.config['pad_idx'])
 
-        self.bert = BERT(config)
-        self.nsp = NextSentenceClassification(self.config['bert_hidden_size'])
+        self.bert = TrainableBERT(config).to(self.device)
+        self.initialize_weights()
 
         self.dataloader = DataLoader(self.dataset, batch_size=self.config['batch_size'], shuffle=True, collate_fn=bert_collate_fn)
 
-        self.optim = Adam(self.bert.parameters(), lr=self.config['lr'])
+        self.optim = AdamW(self.bert.parameters(), lr=self.config['lr'])
 
-        self.criterion = nn.NLLLoss(ignore_index=self.config['pad_idx'])
+        self.nsp_loss = nn.NLLLoss()
+        self.mlm_loss = nn.NLLLoss(ignore_index=self.config['pad_idx'])
 
     def train(self, epoch):
         self.iteration(epoch, self.dataloader)
@@ -42,38 +44,62 @@ class BERTTrainer:
                               bar_format="{l_bar}{r_bar}")
 
         avg_loss = 0.0
-        total_correct = 0
-        total_element = 0
+        avg_nsp_acc = 0.0
+        avg_mlm_acc = 0.0
+        nsp_correct = 0
+        mlm_correct = 0
+        nsp_element = 0
+        mlm_element = 0
 
         for i, data in data_iter:
             data = {key: value.to(self.device) for key, value in data.items()}
 
-            bert_feature = self.bert.forward(data["token_embed"], data["segment_embed"], data['position_embed'])
-            next_sent_output = self.nsp(bert_feature)
-            loss = self.criterion(next_sent_output, data["is_next_sentence"])
-            # loss = next_loss + mask_loss
+            nsp_output, mlm_output = self.bert.forward(data["token_embed"], data["segment_embed"])
+            # print(mlm_output.shape)  (b, s, v)
+            # print(data["masked_lm_label"].shape)  (b, s)
+            mlm_output_accumulate = mlm_output.view(self.config['vocab_size'], -1)  # (b*s, v)
+            mlm_mask_accumulate = data["masked_lm_label"].view(-1) != 0
+            # print(mlm_output_accumulate.shape, mlm_mask_accumulate.shape)
+            masked_mlm_output = torch.masked_select(mlm_output_accumulate, mlm_mask_accumulate).view(-1, self.config['vocab_size'])
+            masked_mlm_label = torch.masked_select(data["masked_lm_label"].view(-1), mlm_mask_accumulate)
+            # print(masked_mlm_output.shape)
+            # print(masked_mlm_label.shape)
+            nsp_losses = self.nsp_loss(nsp_output, data["is_next_sentence"])
+            mlm_losses = self.mlm_loss(masked_mlm_output, masked_mlm_label)
+            loss = nsp_losses + mlm_losses
 
             if train:
                 loss.backward()
 
-            correct = next_sent_output.argmax(dim=-1).eq(data["is_next_sentence"]).sum().item()
             avg_loss += loss.item()
-            total_correct += correct
-            total_element += data["is_next_sentence"].nelement()
+
+            nsp_correct += nsp_output.argmax(dim=-1).eq(data["is_next_sentence"]).sum().item()
+            nsp_element += data["is_next_sentence"].nelement()
+
+            tmp_mlm_output = torch.masked_select(mlm_output.argmax(dim=-1), data["masked_lm_label"] != 0)
+            mlm_correct += tmp_mlm_output.eq(masked_mlm_label).sum().item()
+            mlm_element += tmp_mlm_output.size(0)
+            # print(tmp_mlm_output, mlm_only_label)
+
+            avg_mlm_acc += mlm_correct * 100.0 / mlm_element
+            avg_nsp_acc += nsp_correct * 100.0 / nsp_element
 
             post_fix = {
                 "epoch": epoch,
-                "iter": i,
-                "avg_loss": avg_loss / (i + 1),
-                "avg_acc": total_correct / total_element * 100,
-                "loss": loss.item()
+                "iter": i+1,
+                "mlm_loss": "%.3f" % mlm_losses.item(),
+                "nsp_loss": "%.3f" % nsp_losses.item(),
+                "total_loss": "%.3f" % (avg_loss / (i + 1)),
+                "avg_mlm_acc": "%.3f" % (avg_mlm_acc / (i + 1)),
+                "avg_nsp_acc": "%.3f" % (avg_nsp_acc / (i + 1))
             }
 
-            if i % self.config['log_freq'] == 0:
+            if (i+1) % self.config['log_freq'] == 0:
                 data_iter.write(str(post_fix))
 
-        print("EP%d_%s, avg_loss=" % (epoch, str_code), avg_loss / len(data_iter), "total_acc=",
-              total_correct * 100.0 / total_element)
+        print("EP%d_%s, avg_loss=%.3f" % (epoch, str_code, avg_loss / len(data_iter)),
+              "mlm_acc=%.3f" % (avg_mlm_acc / len(data_iter)),
+              "nsp_acc=%.3f" % (avg_nsp_acc / len(data_iter)))
 
     def save(self, epoch, file_path="output/bert_trained.model"):
         output_path = file_path + ".ep%d" % epoch
@@ -86,3 +112,16 @@ class BERTTrainer:
         for epoch in range(self.config['n_epochs']):
             self.train(epoch)
             self.save(epoch)
+
+    def initialize_weights(self):
+        for name, param in self.bert.named_parameters():
+            if ("fc" in name) or ('embedding' in name):
+                if 'bias' in name:
+                    torch.nn.init.zeros_(param.data)
+                else:
+                    torch.nn.init.normal_(param.data, mean=0.0, std=0.02)
+            elif "layer_norm" in name:
+                if 'bias' in name:
+                    torch.nn.init.zeros_(param.data)
+                else:
+                    torch.nn.init.constant_(param.data, 1.0)

@@ -20,4 +20,3 @@ class Transformer(nn.Module):
         hidden = self.first_residual(input_batch, lambda h: self.attention(h, h, h, mask=mask))
         hidden = self.second_residual(hidden, self.pff)
         return self.dropout(hidden)
-
