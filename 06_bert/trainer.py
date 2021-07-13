@@ -57,7 +57,7 @@ class BERTTrainer:
             nsp_output, mlm_output = self.bert.forward(data["token_embed"], data["segment_embed"])
             # print(mlm_output.shape)  (b, s, v)
             # print(data["masked_lm_label"].shape)  (b, s)
-            mlm_output_accumulate = mlm_output.view(self.config['vocab_size'], -1)  # (b*s, v)
+            mlm_output_accumulate = mlm_output.permute(-1, 0, 1).view(self.config['vocab_size'], -1)  # (b*s, v)
             mlm_mask_accumulate = data["masked_lm_label"].view(-1) != 0
             # print(mlm_output_accumulate.shape, mlm_mask_accumulate.shape)
             masked_mlm_output = torch.masked_select(mlm_output_accumulate, mlm_mask_accumulate).view(-1, self.config['vocab_size'])
