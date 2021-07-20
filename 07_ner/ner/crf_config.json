@@ -1,0 +1,19 @@
+{
+  "dropout": 0.1,
+  "embed_dim": 256,
+  "hidden_size": 512,
+  "num_layers": 2,
+
+  "batch_size": 128,
+  "min_freq": 3,
+  "clip_max_norm": 3.0,
+  "lr": 0.0005,
+  "n_epochs": 50,
+  "use_cuda": 1,
+
+  "save_path": "tut9-model_ep_{}.pt",
+  "train_sentence_output": "output/train_orig.txt",
+  "train_pred_sentence_output": "output/train_pred.txt",
+  "test_sentence_output": "output/test_orig.txt",
+  "test_pred_sentence_output": "output/valid_test.txt"
+}
