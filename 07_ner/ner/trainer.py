@@ -2,8 +2,10 @@ import time
 
 import torch
 import torch.nn as nn
+import numpy as np
 from tqdm import tqdm
 from sklearn.metrics import f1_score
+from gensim.models import KeyedVectors
 
 from module.bilstm_crf import BiLSTMCRF
 from dataloader import NERDataset
@@ -23,21 +25,31 @@ class NERTrainer:
         self.test_acces = list()
         self.best_valid_loss = float('inf')
 
-        self.dataset = NERDataset(config, self.device)
+        w2v = KeyedVectors.load_word2vec_format(config['word2vec_path'])
+        w2v_stoi = {w: w2v.key_to_index[w] + 2 for w in w2v.key_to_index}
+        w2v_stoi['<unk>'] = 0
+        w2v_stoi['<pad>'] = 1
+        w2v_vectors = np.random.normal(0, 0.01, size=(2, 200))
+        w2v_vectors = np.concatenate((w2v_vectors, w2v.vectors))
+
+        self.dataset = NERDataset(config, w2v_stoi, w2v_vectors, self.device)
         self.sent_vocab = self.dataset.SRC.vocab
         self.tag_vocab = self.dataset.TRG.vocab
         self.config['src_vocab_size'] = len(self.sent_vocab)
         self.config['trg_vocab_size'] = len(self.tag_vocab)
         self.config['pad_idx'] = self.dataset.SRC.vocab.stoi['<pad>']
+        self.config['src_vocab'] = self.sent_vocab
         print('pad index:', self.config['pad_idx'])
 
-        self.model = BiLSTMCRF(self.config).to(self.device)
-
+        self.model = BiLSTMCRF(self.config, w2v).to(self.device)
+        # print(self.model.named_parameters())
+        """
         for name, param in self.model.named_parameters():
             if 'weight' in name:
                 nn.init.normal_(param.data, 0, 0.01)
             else:
                 nn.init.constant_(param.data, 0)
+        """
 
         self.optimizer = torch.optim.Adam(self.model.parameters(), lr=float(self.config['lr']))
 
@@ -70,6 +82,12 @@ class NERTrainer:
             # pred_trg_flatten = [item for i, item in enumerate(pred_trg_flatten) if trg_mask[i] == 1]
             # print(len(trg_flatten), len(pred_trg_flatten))
             assert len(trg_flatten) == len(pred_trg_flatten), (trg.shape, len(pred_trg), len(pred_trg[0]), len(trg_flatten), len(pred_trg_flatten))
+
+            # flatten_mask = [0 if tag == self.tag_vocab.stoi['o'] else 1 for tag in trg_flatten]
+            # trg_flatten = [tag for i, tag in enumerate(trg_flatten) if flatten_mask[i] == 1]
+            # pred_trg_flatten = [tag for i, tag in enumerate(pred_trg_flatten) if flatten_mask[i] == 1]
+            # assert len(trg_flatten) == len(pred_trg_flatten)
+
             epoch_acc += f1_score(trg_flatten, pred_trg_flatten, average='macro')
             batch_orig_sent = self.idx2sent(src[0], trg)
             batch_pred_sent = self.idx2sent(src[0], pred_trg)
@@ -94,7 +112,6 @@ class NERTrainer:
                 src = batch.src
                 trg = batch.trg
                 # print(src[0].shape, trg.shape)
-                self.optimizer.zero_grad()
 
                 emit, loss, mask = self.model(src, trg)
                 loss = -1 * loss
@@ -111,6 +128,12 @@ class NERTrainer:
                 # pred_trg_flatten = [item for i, item in enumerate(pred_trg_flatten) if trg_mask[i] == 1]
                 # print(len(trg_flatten), len(pred_trg_flatten))
                 assert len(trg_flatten) == len(pred_trg_flatten), (trg.shape, len(pred_trg), len(pred_trg[0]), len(trg_flatten), len(pred_trg_flatten))
+
+                # flatten_mask = [0 if tag == self.tag_vocab.stoi['o'] else 1 for tag in trg_flatten]
+                # trg_flatten = [tag for i, tag in enumerate(trg_flatten) if flatten_mask[i] == 1]
+                # pred_trg_flatten = [tag for i, tag in enumerate(pred_trg_flatten) if flatten_mask[i] == 1]
+                # assert len(trg_flatten) == len(pred_trg_flatten)
+
                 epoch_acc += f1_score(trg_flatten, pred_trg_flatten, average='macro')
                 batch_orig_sent = self.idx2sent(src[0], trg)
                 batch_pred_sent = self.idx2sent(src[0], pred_trg)

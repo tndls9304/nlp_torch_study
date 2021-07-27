@@ -36,7 +36,7 @@ def simple_reader(path):
     return corpus
 
 
-def simple_writer(path, target):
+def simple_writer(path, target, verbose=False):
     # random.shuffle(target)
     writer = codecs.open(path, 'w', encoding='utf-8')
     for line in target:
