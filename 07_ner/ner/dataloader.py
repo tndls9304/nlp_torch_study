@@ -1,10 +1,16 @@
+import torch
+import numpy as np
+
 from torchtext.legacy import data
 from torchtext.legacy.datasets import TranslationDataset
 
 
 class NERDataset:
-    def __init__(self, config, device):
+    def __init__(self, config, w2v_stoi, w2v_vectors, device):
         self.config = config
+        self.w2v_stoi = w2v_stoi
+        self.w2v_vectors = w2v_vectors
+        print(self.w2v_vectors.shape)
         self.device = device
         self.SRC = data.Field(tokenize=lambda x: x.split(),
                               unk_token='<unk>',
@@ -35,6 +41,7 @@ class NERDataset:
 
     def build_vocab(self):
         self.SRC.build_vocab(self.train_data, min_freq=self.config['min_freq'])
+        # self.SRC.vocab.set_vectors(self.w2v_stoi, torch.FloatTensor(self.w2v_vectors), 200)
         self.TRG.build_vocab(self.train_data, min_freq=1)
         print(f"Unique tokens in source vocabulary: {len(self.SRC.vocab)}")
         print(f"Unique tokens in target vocabulary: {len(self.TRG.vocab)}")
